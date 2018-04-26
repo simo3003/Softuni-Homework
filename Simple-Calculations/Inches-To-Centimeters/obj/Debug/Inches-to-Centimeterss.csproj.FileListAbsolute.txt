@@ -1,0 +1,5 @@
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Inches-to-Centimeterss\bin\Debug\Inches-to-Centimeterss.exe.config
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Inches-to-Centimeterss\bin\Debug\Inches-to-Centimeterss.exe
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Inches-to-Centimeterss\bin\Debug\Inches-to-Centimeterss.pdb
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Inches-to-Centimeterss\obj\Debug\Inches-to-Centimeterss.exe
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Inches-to-Centimeterss\obj\Debug\Inches-to-Centimeterss.pdb

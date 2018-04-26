@@ -1,0 +1,6 @@
+C:\Users\Simo\Documents\Visual Studio 2017\Projects\Drawing-Figures-With-Loops\Diamond\bin\Debug\Diamond.exe.config
+C:\Users\Simo\Documents\Visual Studio 2017\Projects\Drawing-Figures-With-Loops\Diamond\bin\Debug\Diamond.exe
+C:\Users\Simo\Documents\Visual Studio 2017\Projects\Drawing-Figures-With-Loops\Diamond\bin\Debug\Diamond.pdb
+C:\Users\Simo\Documents\Visual Studio 2017\Projects\Drawing-Figures-With-Loops\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache
+C:\Users\Simo\Documents\Visual Studio 2017\Projects\Drawing-Figures-With-Loops\Diamond\obj\Debug\Diamond.exe
+C:\Users\Simo\Documents\Visual Studio 2017\Projects\Drawing-Figures-With-Loops\Diamond\obj\Debug\Diamond.pdb

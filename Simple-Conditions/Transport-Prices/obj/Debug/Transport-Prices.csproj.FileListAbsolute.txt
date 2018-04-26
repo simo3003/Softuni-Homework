@@ -1,0 +1,6 @@
+D:\Users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Transport-Prices\bin\Debug\Transport-Prices.exe.config
+D:\Users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Transport-Prices\bin\Debug\Transport-Prices.exe
+D:\Users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Transport-Prices\bin\Debug\Transport-Prices.pdb
+D:\Users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Transport-Prices\obj\Debug\Transport-Prices.csprojResolveAssemblyReference.cache
+D:\Users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Transport-Prices\obj\Debug\Transport-Prices.exe
+D:\Users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Transport-Prices\obj\Debug\Transport-Prices.pdb

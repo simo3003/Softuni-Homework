@@ -1,0 +1,5 @@
+c:\users\simo\documents\visual studio 2017\Projects\Exam\Grandpa-Stavri\bin\Debug\Grandpa-Stavri.exe.config
+c:\users\simo\documents\visual studio 2017\Projects\Exam\Grandpa-Stavri\bin\Debug\Grandpa-Stavri.exe
+c:\users\simo\documents\visual studio 2017\Projects\Exam\Grandpa-Stavri\bin\Debug\Grandpa-Stavri.pdb
+c:\users\simo\documents\visual studio 2017\Projects\Exam\Grandpa-Stavri\obj\Debug\Grandpa-Stavri.exe
+c:\users\simo\documents\visual studio 2017\Projects\Exam\Grandpa-Stavri\obj\Debug\Grandpa-Stavri.pdb

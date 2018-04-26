@@ -1,0 +1,6 @@
+c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Rectangle-10-10-Stars\bin\Debug\Rectangle-10-10-Stars.exe.config
+c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Rectangle-10-10-Stars\bin\Debug\Rectangle-10-10-Stars.exe
+c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Rectangle-10-10-Stars\bin\Debug\Rectangle-10-10-Stars.pdb
+c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Rectangle-10-10-Stars\obj\Debug\Rectangle-10-10-Stars.csprojResolveAssemblyReference.cache
+c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Rectangle-10-10-Stars\obj\Debug\Rectangle-10-10-Stars.exe
+c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Rectangle-10-10-Stars\obj\Debug\Rectangle-10-10-Stars.pdb

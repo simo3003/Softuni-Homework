@@ -1,0 +1,6 @@
+C:\Users\Simo\Documents\Visual Studio 2017\Projects\Drawing-Figures-With-Loops\Butterfly\obj\Debug\Butterfly.csprojResolveAssemblyReference.cache
+C:\Users\Simo\Documents\Visual Studio 2017\Projects\Drawing-Figures-With-Loops\Butterfly\bin\Debug\Butterfly.exe.config
+C:\Users\Simo\Documents\Visual Studio 2017\Projects\Drawing-Figures-With-Loops\Butterfly\bin\Debug\Butterfly.exe
+C:\Users\Simo\Documents\Visual Studio 2017\Projects\Drawing-Figures-With-Loops\Butterfly\bin\Debug\Butterfly.pdb
+C:\Users\Simo\Documents\Visual Studio 2017\Projects\Drawing-Figures-With-Loops\Butterfly\obj\Debug\Butterfly.exe
+C:\Users\Simo\Documents\Visual Studio 2017\Projects\Drawing-Figures-With-Loops\Butterfly\obj\Debug\Butterfly.pdb

@@ -1,0 +1,5 @@
+c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Pyramid-Number\bin\Debug\Pyramid-Number.exe.config
+c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Pyramid-Number\bin\Debug\Pyramid-Number.exe
+c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Pyramid-Number\bin\Debug\Pyramid-Number.pdb
+c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Pyramid-Number\obj\Debug\Pyramid-Number.exe
+c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Pyramid-Number\obj\Debug\Pyramid-Number.pdb

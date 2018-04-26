@@ -1,0 +1,5 @@
+c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Triangle-With-Dollars\bin\Debug\Triangle-With-Dollars.exe.config
+c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Triangle-With-Dollars\bin\Debug\Triangle-With-Dollars.exe
+c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Triangle-With-Dollars\bin\Debug\Triangle-With-Dollars.pdb
+c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Triangle-With-Dollars\obj\Debug\Triangle-With-Dollars.exe
+c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Triangle-With-Dollars\obj\Debug\Triangle-With-Dollars.pdb

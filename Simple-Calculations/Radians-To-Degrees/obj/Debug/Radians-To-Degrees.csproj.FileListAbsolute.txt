@@ -1,0 +1,5 @@
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Radians-To-Degrees\bin\Debug\Radians-To-Degrees.exe.config
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Radians-To-Degrees\bin\Debug\Radians-To-Degrees.exe
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Radians-To-Degrees\bin\Debug\Radians-To-Degrees.pdb
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Radians-To-Degrees\obj\Debug\Radians-To-Degrees.exe
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Radians-To-Degrees\obj\Debug\Radians-To-Degrees.pdb

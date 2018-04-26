@@ -1,0 +1,6 @@
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Curreny-Converter\bin\Debug\Curreny-Converter.exe.config
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Curreny-Converter\bin\Debug\Curreny-Converter.exe
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Curreny-Converter\bin\Debug\Curreny-Converter.pdb
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Curreny-Converter\obj\Debug\Currency-Converter.csprojResolveAssemblyReference.cache
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Curreny-Converter\obj\Debug\Curreny-Converter.exe
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Curreny-Converter\obj\Debug\Curreny-Converter.pdb
