@@ -1,5 +1,0 @@
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Celsius-to-Fahrenheit\bin\Debug\Celsius-to-Fahrenheit.exe.config
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Celsius-to-Fahrenheit\bin\Debug\Celsius-to-Fahrenheit.exe
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Celsius-to-Fahrenheit\bin\Debug\Celsius-to-Fahrenheit.pdb
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Celsius-to-Fahrenheit\obj\Debug\Celsius-to-Fahrenheit.exe
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Celsius-to-Fahrenheit\obj\Debug\Celsius-to-Fahrenheit.pdb

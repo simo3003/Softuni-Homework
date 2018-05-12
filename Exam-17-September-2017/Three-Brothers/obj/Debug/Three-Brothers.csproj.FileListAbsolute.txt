@@ -1,5 +1,0 @@
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Three-Brothers\bin\Debug\Three-Brothers.exe.config
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Three-Brothers\bin\Debug\Three-Brothers.exe
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Three-Brothers\bin\Debug\Three-Brothers.pdb
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Three-Brothers\obj\Debug\Three-Brothers.exe
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Three-Brothers\obj\Debug\Three-Brothers.pdb

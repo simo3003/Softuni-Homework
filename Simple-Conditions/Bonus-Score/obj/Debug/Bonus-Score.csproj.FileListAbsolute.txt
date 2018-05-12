@@ -1,5 +1,0 @@
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Bonus-Score\bin\Debug\Bonus-Score.exe.config
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Bonus-Score\bin\Debug\Bonus-Score.exe
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Bonus-Score\bin\Debug\Bonus-Score.pdb
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Bonus-Score\obj\Debug\Bonus-Score.exe
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Bonus-Score\obj\Debug\Bonus-Score.pdb

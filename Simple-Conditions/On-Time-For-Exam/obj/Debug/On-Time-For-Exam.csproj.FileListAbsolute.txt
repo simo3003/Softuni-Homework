@@ -1,6 +1,0 @@
-D:\Users\simo\documents\visual studio 2017\Projects\Simple-Conditions\On-Time-For-Exam\obj\Debug\On-Time-For-Exam.csprojResolveAssemblyReference.cache
-D:\Users\simo\documents\visual studio 2017\Projects\Simple-Conditions\On-Time-For-Exam\bin\Debug\On-Time-For-Exam.exe.config
-D:\Users\simo\documents\visual studio 2017\Projects\Simple-Conditions\On-Time-For-Exam\bin\Debug\On-Time-For-Exam.exe
-D:\Users\simo\documents\visual studio 2017\Projects\Simple-Conditions\On-Time-For-Exam\bin\Debug\On-Time-For-Exam.pdb
-D:\Users\simo\documents\visual studio 2017\Projects\Simple-Conditions\On-Time-For-Exam\obj\Debug\On-Time-For-Exam.exe
-D:\Users\simo\documents\visual studio 2017\Projects\Simple-Conditions\On-Time-For-Exam\obj\Debug\On-Time-For-Exam.pdb

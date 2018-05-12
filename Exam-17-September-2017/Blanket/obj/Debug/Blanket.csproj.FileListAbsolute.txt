@@ -1,5 +1,0 @@
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Blanket\bin\Debug\Blanket.exe.config
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Blanket\bin\Debug\Blanket.exe
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Blanket\bin\Debug\Blanket.pdb
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Blanket\obj\Debug\Blanket.exe
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Blanket\obj\Debug\Blanket.pdb

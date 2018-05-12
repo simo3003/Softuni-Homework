@@ -1,6 +1,0 @@
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Birthday\bin\Debug\Birthday.exe.config
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Birthday\bin\Debug\Birthday.exe
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Birthday\bin\Debug\Birthday.pdb
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Birthday\obj\Debug\Birthday.csprojResolveAssemblyReference.cache
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Birthday\obj\Debug\Birthday.exe
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Birthday\obj\Debug\Birthday.pdb

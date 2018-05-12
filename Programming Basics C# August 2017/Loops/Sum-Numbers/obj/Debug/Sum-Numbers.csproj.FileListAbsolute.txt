@@ -1,0 +1,6 @@
+c:\users\simo\documents\visual studio 2017\Projects\Loops\Sum-Numbers\bin\Debug\Sum-Numbers.exe.config
+c:\users\simo\documents\visual studio 2017\Projects\Loops\Sum-Numbers\bin\Debug\Sum-Numbers.exe
+c:\users\simo\documents\visual studio 2017\Projects\Loops\Sum-Numbers\bin\Debug\Sum-Numbers.pdb
+c:\users\simo\documents\visual studio 2017\Projects\Loops\Sum-Numbers\obj\Debug\Sum-Numbers.csprojResolveAssemblyReference.cache
+c:\users\simo\documents\visual studio 2017\Projects\Loops\Sum-Numbers\obj\Debug\Sum-Numbers.exe
+c:\users\simo\documents\visual studio 2017\Projects\Loops\Sum-Numbers\obj\Debug\Sum-Numbers.pdb

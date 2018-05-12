@@ -1,5 +1,0 @@
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Prime-Checker\bin\Debug\Prime-Checker.exe.config
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Prime-Checker\bin\Debug\Prime-Checker.exe
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Prime-Checker\bin\Debug\Prime-Checker.pdb
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Prime-Checker\obj\Debug\Prime-Checker.exe
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Prime-Checker\obj\Debug\Prime-Checker.pdb

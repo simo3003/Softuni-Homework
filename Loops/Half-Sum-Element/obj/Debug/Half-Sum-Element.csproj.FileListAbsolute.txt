@@ -1,6 +1,0 @@
-c:\users\simo\documents\visual studio 2017\Projects\Loops\Half-Sum-Element\bin\Debug\Half-Sum-Element.exe.config
-c:\users\simo\documents\visual studio 2017\Projects\Loops\Half-Sum-Element\bin\Debug\Half-Sum-Element.exe
-c:\users\simo\documents\visual studio 2017\Projects\Loops\Half-Sum-Element\bin\Debug\Half-Sum-Element.pdb
-c:\users\simo\documents\visual studio 2017\Projects\Loops\Half-Sum-Element\obj\Debug\Half-Sum-Element.csprojResolveAssemblyReference.cache
-c:\users\simo\documents\visual studio 2017\Projects\Loops\Half-Sum-Element\obj\Debug\Half-Sum-Element.exe
-c:\users\simo\documents\visual studio 2017\Projects\Loops\Half-Sum-Element\obj\Debug\Half-Sum-Element.pdb

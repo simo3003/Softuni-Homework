@@ -1,0 +1,13 @@
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Metric-Converter\obj\Debug\Metric-Converter.csprojResolveAssemblyReference.cache
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Metric-Converter\bin\Debug\Metric-Converter.exe.config
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Metric-Converter\bin\Debug\Metric-Converter.exe
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Metric-Converter\bin\Debug\Metric-Converter.pdb
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Metric-Converter\obj\Debug\Metric-Converter.exe
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Metric-Converter\obj\Debug\Metric-Converter.pdb
+G:\Users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Metric-Converter\bin\Debug\Metric-Converter.exe.config
+G:\Users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Metric-Converter\bin\Debug\Metric-Converter.exe
+G:\Users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Metric-Converter\bin\Debug\Metric-Converter.pdb
+G:\Users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Metric-Converter\obj\Debug\Metric-Converter.csprojResolveAssemblyReference.cache
+G:\Users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Metric-Converter\obj\Debug\Metric-Converter.csproj.CoreCompileInputs.cache
+G:\Users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Metric-Converter\obj\Debug\Metric-Converter.exe
+G:\Users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Metric-Converter\obj\Debug\Metric-Converter.pdb

@@ -1,0 +1,6 @@
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Sum Seconds\bin\Debug\Sum Seconds.exe.config
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Sum Seconds\bin\Debug\Sum Seconds.exe
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Sum Seconds\bin\Debug\Sum Seconds.pdb
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Sum Seconds\obj\Debug\Sum Seconds.csprojResolveAssemblyReference.cache
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Sum Seconds\obj\Debug\Sum Seconds.exe
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Sum Seconds\obj\Debug\Sum Seconds.pdb

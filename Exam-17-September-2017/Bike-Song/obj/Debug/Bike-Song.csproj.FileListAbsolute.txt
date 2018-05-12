@@ -1,5 +1,0 @@
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Bike-Song\bin\Debug\Bike-Song.exe.config
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Bike-Song\bin\Debug\Bike-Song.exe
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Bike-Song\bin\Debug\Bike-Song.pdb
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Bike-Song\obj\Debug\Bike-Song.exe
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Bike-Song\obj\Debug\Bike-Song.pdb

@@ -1,5 +1,0 @@
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Number-Table\bin\Debug\Number-Table.exe.config
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Number-Table\bin\Debug\Number-Table.exe
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Number-Table\bin\Debug\Number-Table.pdb
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Number-Table\obj\Debug\Number-Table.exe
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Number-Table\obj\Debug\Number-Table.pdb

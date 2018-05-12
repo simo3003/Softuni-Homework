@@ -1,0 +1,6 @@
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Excellent-Result\bin\Debug\Excellent-Result.exe.config
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Excellent-Result\bin\Debug\Excellent-Result.exe
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Excellent-Result\bin\Debug\Excellent-Result.pdb
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Excellent-Result\obj\Debug\Excellent-Result.csprojResolveAssemblyReference.cache
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Excellent-Result\obj\Debug\Excellent-Result.exe
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Excellent-Result\obj\Debug\Excellent-Result.pdb

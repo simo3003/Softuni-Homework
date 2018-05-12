@@ -1,6 +1,0 @@
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Rectangle-Area\bin\Debug\Rectangle-Area.exe.config
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Rectangle-Area\bin\Debug\Rectangle-Area.exe
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Rectangle-Area\bin\Debug\Rectangle-Area.pdb
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Rectangle-Area\obj\Debug\Rectangle-Area.csprojResolveAssemblyReference.cache
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Rectangle-Area\obj\Debug\Rectangle-Area.exe
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Rectangle-Area\obj\Debug\Rectangle-Area.pdb

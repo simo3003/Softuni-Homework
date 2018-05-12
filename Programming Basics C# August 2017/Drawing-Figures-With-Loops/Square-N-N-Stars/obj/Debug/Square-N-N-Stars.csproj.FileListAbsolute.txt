@@ -1,0 +1,5 @@
+c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Square-N-N-Stars\bin\Debug\Square-N-N-Stars.exe.config
+c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Square-N-N-Stars\bin\Debug\Square-N-N-Stars.exe
+c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Square-N-N-Stars\bin\Debug\Square-N-N-Stars.pdb
+c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Square-N-N-Stars\obj\Debug\Square-N-N-Stars.exe
+c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Square-N-N-Stars\obj\Debug\Square-N-N-Stars.pdb

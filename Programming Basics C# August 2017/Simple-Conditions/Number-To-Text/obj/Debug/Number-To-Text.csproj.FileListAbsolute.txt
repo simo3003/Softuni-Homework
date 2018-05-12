@@ -1,0 +1,5 @@
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Number-To-Text\bin\Debug\Number-To-Text.exe.config
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Number-To-Text\bin\Debug\Number-To-Text.exe
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Number-To-Text\bin\Debug\Number-To-Text.pdb
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Number-To-Text\obj\Debug\Number-To-Text.exe
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Number-To-Text\obj\Debug\Number-To-Text.pdb

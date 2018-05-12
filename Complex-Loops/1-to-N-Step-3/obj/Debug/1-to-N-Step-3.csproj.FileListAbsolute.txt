@@ -1,6 +1,0 @@
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\1-to-N-Step-3\bin\Debug\1-to-N-Step-3.exe.config
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\1-to-N-Step-3\bin\Debug\1-to-N-Step-3.exe
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\1-to-N-Step-3\bin\Debug\1-to-N-Step-3.pdb
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\1-to-N-Step-3\obj\Debug\1-to-N-Step-3.csprojResolveAssemblyReference.cache
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\1-to-N-Step-3\obj\Debug\1-to-N-Step-3.exe
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\1-to-N-Step-3\obj\Debug\1-to-N-Step-3.pdb

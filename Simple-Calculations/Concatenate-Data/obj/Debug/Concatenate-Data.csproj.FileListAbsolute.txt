@@ -1,5 +1,0 @@
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Concatenate-Data\bin\Debug\Concatenate-Data.exe.config
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Concatenate-Data\bin\Debug\Concatenate-Data.exe
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Concatenate-Data\bin\Debug\Concatenate-Data.pdb
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Concatenate-Data\obj\Debug\Concatenate-Data.exe
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Concatenate-Data\obj\Debug\Concatenate-Data.pdb

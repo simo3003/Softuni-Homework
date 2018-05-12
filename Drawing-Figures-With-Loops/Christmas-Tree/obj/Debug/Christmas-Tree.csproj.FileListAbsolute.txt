@@ -1,6 +1,0 @@
-c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Christmas-Tree\bin\Debug\Christmas-Tree.exe.config
-c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Christmas-Tree\bin\Debug\Christmas-Tree.exe
-c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Christmas-Tree\bin\Debug\Christmas-Tree.pdb
-c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Christmas-Tree\obj\Debug\Christmas-Tree.csprojResolveAssemblyReference.cache
-c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Christmas-Tree\obj\Debug\Christmas-Tree.exe
-c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Christmas-Tree\obj\Debug\Christmas-Tree.pdb

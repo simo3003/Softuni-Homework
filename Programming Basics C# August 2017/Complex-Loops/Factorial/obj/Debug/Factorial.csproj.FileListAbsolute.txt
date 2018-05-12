@@ -1,0 +1,6 @@
+c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Factorial\bin\Debug\Factorial.exe.config
+c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Factorial\bin\Debug\Factorial.exe
+c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Factorial\bin\Debug\Factorial.pdb
+c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Factorial\obj\Debug\Factorial.exe
+c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Factorial\obj\Debug\Factorial.pdb

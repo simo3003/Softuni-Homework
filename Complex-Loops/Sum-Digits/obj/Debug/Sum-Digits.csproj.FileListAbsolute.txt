@@ -1,5 +1,0 @@
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Sum-Digits\bin\Debug\Sum-Digits.exe.config
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Sum-Digits\bin\Debug\Sum-Digits.exe
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Sum-Digits\bin\Debug\Sum-Digits.pdb
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Sum-Digits\obj\Debug\Sum-Digits.exe
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Sum-Digits\obj\Debug\Sum-Digits.pdb

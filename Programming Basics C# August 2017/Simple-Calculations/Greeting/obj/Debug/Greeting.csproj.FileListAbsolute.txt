@@ -1,0 +1,5 @@
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Greeting\bin\Debug\Greeting.exe.config
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Greeting\bin\Debug\Greeting.exe
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Greeting\bin\Debug\Greeting.pdb
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Greeting\obj\Debug\Greeting.exe
+D:\users\simo\documents\visual studio 2017\Projects\Simple-Calculations\Greeting\obj\Debug\Greeting.pdb

@@ -1,6 +1,0 @@
-c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Square-Frame\bin\Debug\Square-Frame.exe.config
-c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Square-Frame\bin\Debug\Square-Frame.exe
-c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Square-Frame\bin\Debug\Square-Frame.pdb
-c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Square-Frame\obj\Debug\Square-Frame.csprojResolveAssemblyReference.cache
-c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Square-Frame\obj\Debug\Square-Frame.exe
-c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Square-Frame\obj\Debug\Square-Frame.pdb

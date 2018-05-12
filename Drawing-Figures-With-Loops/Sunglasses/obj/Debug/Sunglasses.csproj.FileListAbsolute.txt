@@ -1,6 +1,0 @@
-c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Sunglasses\bin\Debug\Sunglasses.exe.config
-c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Sunglasses\bin\Debug\Sunglasses.exe
-c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Sunglasses\bin\Debug\Sunglasses.pdb
-c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache
-c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Sunglasses\obj\Debug\Sunglasses.exe
-c:\users\simo\documents\visual studio 2017\Projects\Drawing-Figures-With-Loops\Sunglasses\obj\Debug\Sunglasses.pdb

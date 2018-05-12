@@ -1,6 +1,0 @@
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\0-to-100-in-Words\bin\Debug\0-to-100-in-Words.exe.config
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\0-to-100-in-Words\bin\Debug\0-to-100-in-Words.exe
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\0-to-100-in-Words\bin\Debug\0-to-100-in-Words.pdb
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\0-to-100-in-Words\obj\Debug\0-to-100-in-Words.csprojResolveAssemblyReference.cache
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\0-to-100-in-Words\obj\Debug\0-to-100-in-Words.exe
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\0-to-100-in-Words\obj\Debug\0-to-100-in-Words.pdb

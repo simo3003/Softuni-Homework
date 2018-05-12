@@ -1,5 +1,0 @@
-c:\users\simo\documents\visual studio 2017\Projects\Loops\Max-Number\bin\Debug\Max-Number.exe.config
-c:\users\simo\documents\visual studio 2017\Projects\Loops\Max-Number\bin\Debug\Max-Number.exe
-c:\users\simo\documents\visual studio 2017\Projects\Loops\Max-Number\bin\Debug\Max-Number.pdb
-c:\users\simo\documents\visual studio 2017\Projects\Loops\Max-Number\obj\Debug\Max-Number.exe
-c:\users\simo\documents\visual studio 2017\Projects\Loops\Max-Number\obj\Debug\Max-Number.pdb

@@ -1,6 +1,0 @@
-c:\users\simo\documents\visual studio 2017\Projects\Loops\Odd-Even-Position\bin\Debug\Odd-Even-Position.exe.config
-c:\users\simo\documents\visual studio 2017\Projects\Loops\Odd-Even-Position\bin\Debug\Odd-Even-Position.exe
-c:\users\simo\documents\visual studio 2017\Projects\Loops\Odd-Even-Position\bin\Debug\Odd-Even-Position.pdb
-c:\users\simo\documents\visual studio 2017\Projects\Loops\Odd-Even-Position\obj\Debug\Odd-Even-Position.csprojResolveAssemblyReference.cache
-c:\users\simo\documents\visual studio 2017\Projects\Loops\Odd-Even-Position\obj\Debug\Odd-Even-Position.exe
-c:\users\simo\documents\visual studio 2017\Projects\Loops\Odd-Even-Position\obj\Debug\Odd-Even-Position.pdb

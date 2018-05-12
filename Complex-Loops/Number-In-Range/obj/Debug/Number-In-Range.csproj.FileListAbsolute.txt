@@ -1,6 +1,0 @@
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Number-In-Range\bin\Debug\Number-In-Range.exe.config
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Number-In-Range\bin\Debug\Number-In-Range.exe
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Number-In-Range\bin\Debug\Number-In-Range.pdb
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Number-In-Range\obj\Debug\Number-In-Range.csprojResolveAssemblyReference.cache
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Number-In-Range\obj\Debug\Number-In-Range.exe
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Number-In-Range\obj\Debug\Number-In-Range.pdb

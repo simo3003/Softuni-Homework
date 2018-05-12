@@ -1,5 +1,0 @@
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Mobile-Carrier\bin\Debug\Mobile-Carrier.exe.config
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Mobile-Carrier\bin\Debug\Mobile-Carrier.exe
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Mobile-Carrier\bin\Debug\Mobile-Carrier.pdb
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Mobile-Carrier\obj\Debug\Mobile-Carrier.exe
-c:\users\simo\documents\visual studio 2017\Projects\Exam\Mobile-Carrier\obj\Debug\Mobile-Carrier.pdb

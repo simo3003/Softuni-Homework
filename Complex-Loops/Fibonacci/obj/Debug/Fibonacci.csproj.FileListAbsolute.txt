@@ -1,6 +1,0 @@
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Fibonacci\bin\Debug\Fibonacci.exe.config
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Fibonacci\bin\Debug\Fibonacci.exe
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Fibonacci\bin\Debug\Fibonacci.pdb
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Fibonacci\obj\Debug\Fibonacci.exe
-c:\users\simo\documents\visual studio 2017\Projects\Complex-Loops\Fibonacci\obj\Debug\Fibonacci.pdb

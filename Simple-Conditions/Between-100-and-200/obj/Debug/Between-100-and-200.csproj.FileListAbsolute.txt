@@ -1,5 +1,0 @@
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Between-100-and-200\bin\Debug\Between-100-and-200.exe.config
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Between-100-and-200\bin\Debug\Between-100-and-200.exe
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Between-100-and-200\bin\Debug\Between-100-and-200.pdb
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Between-100-and-200\obj\Debug\Between-100-and-200.exe
-D:\users\simo\documents\visual studio 2017\Projects\Simple-Conditions\Between-100-and-200\obj\Debug\Between-100-and-200.pdb
