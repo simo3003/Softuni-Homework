@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Time_15_Minutes
+namespace Time_Plus_15_Minutes
 {
     class Program
     {
