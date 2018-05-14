@@ -1,0 +1,6 @@
+D:\Projects\Programming\Softuni-Homework\Programming-Basics-C#-August-2017\First-Steps-In-Coding\Square-of-Stars\bin\Debug\Square-of-Stars.exe.config
+D:\Projects\Programming\Softuni-Homework\Programming-Basics-C#-August-2017\First-Steps-In-Coding\Square-of-Stars\bin\Debug\Square-of-Stars.exe
+D:\Projects\Programming\Softuni-Homework\Programming-Basics-C#-August-2017\First-Steps-In-Coding\Square-of-Stars\bin\Debug\Square-of-Stars.pdb
+D:\Projects\Programming\Softuni-Homework\Programming-Basics-C#-August-2017\First-Steps-In-Coding\Square-of-Stars\obj\Debug\Square-of-Stars.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\Softuni-Homework\Programming-Basics-C#-August-2017\First-Steps-In-Coding\Square-of-Stars\obj\Debug\Square-of-Stars.exe
+D:\Projects\Programming\Softuni-Homework\Programming-Basics-C#-August-2017\First-Steps-In-Coding\Square-of-Stars\obj\Debug\Square-of-Stars.pdb

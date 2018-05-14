@@ -1,0 +1,7 @@
+D:\Projects\Programming\Softuni-Homework\Programming-Basics-C#-August-2017\First-Steps-In-Coding\Hello-SoftUni\bin\Debug\Hello-SoftUni.exe.config
+D:\Projects\Programming\Softuni-Homework\Programming-Basics-C#-August-2017\First-Steps-In-Coding\Hello-SoftUni\bin\Debug\Hello-SoftUni.exe
+D:\Projects\Programming\Softuni-Homework\Programming-Basics-C#-August-2017\First-Steps-In-Coding\Hello-SoftUni\bin\Debug\Hello-SoftUni.pdb
+D:\Projects\Programming\Softuni-Homework\Programming-Basics-C#-August-2017\First-Steps-In-Coding\Hello-SoftUni\obj\Debug\Hello-SoftUni.csprojAssemblyReference.cache
+D:\Projects\Programming\Softuni-Homework\Programming-Basics-C#-August-2017\First-Steps-In-Coding\Hello-SoftUni\obj\Debug\Hello-SoftUni.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\Softuni-Homework\Programming-Basics-C#-August-2017\First-Steps-In-Coding\Hello-SoftUni\obj\Debug\Hello-SoftUni.exe
+D:\Projects\Programming\Softuni-Homework\Programming-Basics-C#-August-2017\First-Steps-In-Coding\Hello-SoftUni\obj\Debug\Hello-SoftUni.pdb
