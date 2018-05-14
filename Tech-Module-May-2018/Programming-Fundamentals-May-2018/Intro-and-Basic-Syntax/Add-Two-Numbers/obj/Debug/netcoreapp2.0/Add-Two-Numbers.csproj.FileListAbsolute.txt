@@ -1,0 +1,11 @@
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax-Lab\Add-Two-Numbers\bin\Debug\netcoreapp2.0\Add-Two-Numbers.deps.json
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax-Lab\Add-Two-Numbers\bin\Debug\netcoreapp2.0\Add-Two-Numbers.runtimeconfig.json
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax-Lab\Add-Two-Numbers\bin\Debug\netcoreapp2.0\Add-Two-Numbers.runtimeconfig.dev.json
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax-Lab\Add-Two-Numbers\bin\Debug\netcoreapp2.0\Add-Two-Numbers.dll
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax-Lab\Add-Two-Numbers\bin\Debug\netcoreapp2.0\Add-Two-Numbers.pdb
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax-Lab\Add-Two-Numbers\obj\Debug\netcoreapp2.0\Add-Two-Numbers.csprojAssemblyReference.cache
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax-Lab\Add-Two-Numbers\obj\Debug\netcoreapp2.0\Add-Two-Numbers.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax-Lab\Add-Two-Numbers\obj\Debug\netcoreapp2.0\Add-Two-Numbers.AssemblyInfoInputs.cache
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax-Lab\Add-Two-Numbers\obj\Debug\netcoreapp2.0\Add-Two-Numbers.AssemblyInfo.cs
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax-Lab\Add-Two-Numbers\obj\Debug\netcoreapp2.0\Add-Two-Numbers.dll
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax-Lab\Add-Two-Numbers\obj\Debug\netcoreapp2.0\Add-Two-Numbers.pdb

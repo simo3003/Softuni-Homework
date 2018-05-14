@@ -1,0 +1,10 @@
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Beverage-Lables\bin\Debug\netcoreapp2.0\Beverage-Lables.deps.json
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Beverage-Lables\bin\Debug\netcoreapp2.0\Beverage-Lables.runtimeconfig.json
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Beverage-Lables\bin\Debug\netcoreapp2.0\Beverage-Lables.runtimeconfig.dev.json
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Beverage-Lables\bin\Debug\netcoreapp2.0\Beverage-Lables.dll
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Beverage-Lables\bin\Debug\netcoreapp2.0\Beverage-Lables.pdb
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Beverage-Lables\obj\Debug\netcoreapp2.0\Beverage-Lables.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Beverage-Lables\obj\Debug\netcoreapp2.0\Beverage-Lables.AssemblyInfoInputs.cache
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Beverage-Lables\obj\Debug\netcoreapp2.0\Beverage-Lables.AssemblyInfo.cs
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Beverage-Lables\obj\Debug\netcoreapp2.0\Beverage-Lables.dll
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Beverage-Lables\obj\Debug\netcoreapp2.0\Beverage-Lables.pdb

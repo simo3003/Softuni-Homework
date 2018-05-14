@@ -1,0 +1,11 @@
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Character-Stats\bin\Debug\netcoreapp2.0\Character-Stats.deps.json
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Character-Stats\bin\Debug\netcoreapp2.0\Character-Stats.runtimeconfig.json
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Character-Stats\bin\Debug\netcoreapp2.0\Character-Stats.runtimeconfig.dev.json
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Character-Stats\bin\Debug\netcoreapp2.0\Character-Stats.dll
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Character-Stats\bin\Debug\netcoreapp2.0\Character-Stats.pdb
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Character-Stats\obj\Debug\netcoreapp2.0\Character-Stats.csprojAssemblyReference.cache
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Character-Stats\obj\Debug\netcoreapp2.0\Character-Stats.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Character-Stats\obj\Debug\netcoreapp2.0\Character-Stats.AssemblyInfoInputs.cache
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Character-Stats\obj\Debug\netcoreapp2.0\Character-Stats.AssemblyInfo.cs
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Character-Stats\obj\Debug\netcoreapp2.0\Character-Stats.dll
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Character-Stats\obj\Debug\netcoreapp2.0\Character-Stats.pdb

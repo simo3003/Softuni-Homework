@@ -1,0 +1,10 @@
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Rectangle-Area\bin\Debug\netcoreapp2.0\Rectangle-Area.deps.json
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Rectangle-Area\bin\Debug\netcoreapp2.0\Rectangle-Area.runtimeconfig.json
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Rectangle-Area\bin\Debug\netcoreapp2.0\Rectangle-Area.runtimeconfig.dev.json
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Rectangle-Area\bin\Debug\netcoreapp2.0\Rectangle-Area.dll
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Rectangle-Area\bin\Debug\netcoreapp2.0\Rectangle-Area.pdb
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Rectangle-Area\obj\Debug\netcoreapp2.0\Rectangle-Area.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Rectangle-Area\obj\Debug\netcoreapp2.0\Rectangle-Area.AssemblyInfoInputs.cache
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Rectangle-Area\obj\Debug\netcoreapp2.0\Rectangle-Area.AssemblyInfo.cs
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Rectangle-Area\obj\Debug\netcoreapp2.0\Rectangle-Area.dll
+D:\Projects\Programming\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Intro-and-Basic-Syntax\Rectangle-Area\obj\Debug\netcoreapp2.0\Rectangle-Area.pdb
