@@ -1,0 +1,10 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Magic-Letter\bin\Debug\netcoreapp2.0\Magic-Letter.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Magic-Letter\bin\Debug\netcoreapp2.0\Magic-Letter.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Magic-Letter\bin\Debug\netcoreapp2.0\Magic-Letter.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Magic-Letter\bin\Debug\netcoreapp2.0\Magic-Letter.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Magic-Letter\bin\Debug\netcoreapp2.0\Magic-Letter.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Magic-Letter\obj\Debug\netcoreapp2.0\Magic-Letter.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Magic-Letter\obj\Debug\netcoreapp2.0\Magic-Letter.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Magic-Letter\obj\Debug\netcoreapp2.0\Magic-Letter.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Magic-Letter\obj\Debug\netcoreapp2.0\Magic-Letter.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Magic-Letter\obj\Debug\netcoreapp2.0\Magic-Letter.pdb

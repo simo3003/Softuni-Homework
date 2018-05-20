@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Restaurant-Discount\bin\Debug\netcoreapp2.0\Restaurant-Discount.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Restaurant-Discount\bin\Debug\netcoreapp2.0\Restaurant-Discount.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Restaurant-Discount\bin\Debug\netcoreapp2.0\Restaurant-Discount.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Restaurant-Discount\bin\Debug\netcoreapp2.0\Restaurant-Discount.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Restaurant-Discount\bin\Debug\netcoreapp2.0\Restaurant-Discount.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Restaurant-Discount\obj\Debug\netcoreapp2.0\Restaurant-Discount.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Restaurant-Discount\obj\Debug\netcoreapp2.0\Restaurant-Discount.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Restaurant-Discount\obj\Debug\netcoreapp2.0\Restaurant-Discount.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Restaurant-Discount\obj\Debug\netcoreapp2.0\Restaurant-Discount.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Restaurant-Discount\obj\Debug\netcoreapp2.0\Restaurant-Discount.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Restaurant-Discount\obj\Debug\netcoreapp2.0\Restaurant-Discount.pdb

@@ -1,0 +1,10 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Test-Numbers\bin\Debug\netcoreapp2.0\Test-Numbers.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Test-Numbers\bin\Debug\netcoreapp2.0\Test-Numbers.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Test-Numbers\bin\Debug\netcoreapp2.0\Test-Numbers.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Test-Numbers\bin\Debug\netcoreapp2.0\Test-Numbers.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Test-Numbers\bin\Debug\netcoreapp2.0\Test-Numbers.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Test-Numbers\obj\Debug\netcoreapp2.0\Test-Numbers.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Test-Numbers\obj\Debug\netcoreapp2.0\Test-Numbers.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Test-Numbers\obj\Debug\netcoreapp2.0\Test-Numbers.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Test-Numbers\obj\Debug\netcoreapp2.0\Test-Numbers.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Test-Numbers\obj\Debug\netcoreapp2.0\Test-Numbers.pdb
