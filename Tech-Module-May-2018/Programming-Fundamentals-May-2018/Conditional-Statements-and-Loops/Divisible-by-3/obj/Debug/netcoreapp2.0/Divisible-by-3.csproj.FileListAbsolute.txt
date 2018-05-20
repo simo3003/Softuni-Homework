@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Divisible-by-3\bin\Debug\netcoreapp2.0\Divisible-by-3.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Divisible-by-3\bin\Debug\netcoreapp2.0\Divisible-by-3.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Divisible-by-3\bin\Debug\netcoreapp2.0\Divisible-by-3.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Divisible-by-3\bin\Debug\netcoreapp2.0\Divisible-by-3.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Divisible-by-3\bin\Debug\netcoreapp2.0\Divisible-by-3.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Divisible-by-3\obj\Debug\netcoreapp2.0\Divisible-by-3.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Divisible-by-3\obj\Debug\netcoreapp2.0\Divisible-by-3.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Divisible-by-3\obj\Debug\netcoreapp2.0\Divisible-by-3.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Divisible-by-3\obj\Debug\netcoreapp2.0\Divisible-by-3.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Divisible-by-3\obj\Debug\netcoreapp2.0\Divisible-by-3.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Divisible-by-3\obj\Debug\netcoreapp2.0\Divisible-by-3.pdb

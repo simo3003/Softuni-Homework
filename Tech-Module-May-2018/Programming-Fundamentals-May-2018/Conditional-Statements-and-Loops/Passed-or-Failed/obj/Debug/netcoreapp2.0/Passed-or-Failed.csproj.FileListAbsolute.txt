@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Passed-or-Failed\bin\Debug\netcoreapp2.0\Passed-or-Failed.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Passed-or-Failed\bin\Debug\netcoreapp2.0\Passed-or-Failed.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Passed-or-Failed\bin\Debug\netcoreapp2.0\Passed-or-Failed.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Passed-or-Failed\bin\Debug\netcoreapp2.0\Passed-or-Failed.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Passed-or-Failed\bin\Debug\netcoreapp2.0\Passed-or-Failed.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Passed-or-Failed\obj\Debug\netcoreapp2.0\Passed-or-Failed.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Passed-or-Failed\obj\Debug\netcoreapp2.0\Passed-or-Failed.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Passed-or-Failed\obj\Debug\netcoreapp2.0\Passed-or-Failed.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Passed-or-Failed\obj\Debug\netcoreapp2.0\Passed-or-Failed.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Passed-or-Failed\obj\Debug\netcoreapp2.0\Passed-or-Failed.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Passed-or-Failed\obj\Debug\netcoreapp2.0\Passed-or-Failed.pdb

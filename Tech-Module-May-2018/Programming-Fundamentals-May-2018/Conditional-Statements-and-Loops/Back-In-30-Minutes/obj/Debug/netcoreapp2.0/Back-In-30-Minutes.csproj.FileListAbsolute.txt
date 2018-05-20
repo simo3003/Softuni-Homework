@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Back-In-30-Minutes\bin\Debug\netcoreapp2.0\Back-In-30-Minutes.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Back-In-30-Minutes\bin\Debug\netcoreapp2.0\Back-In-30-Minutes.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Back-In-30-Minutes\bin\Debug\netcoreapp2.0\Back-In-30-Minutes.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Back-In-30-Minutes\bin\Debug\netcoreapp2.0\Back-In-30-Minutes.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Back-In-30-Minutes\bin\Debug\netcoreapp2.0\Back-In-30-Minutes.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Back-In-30-Minutes\obj\Debug\netcoreapp2.0\Back-In-30-Minutes.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Back-In-30-Minutes\obj\Debug\netcoreapp2.0\Back-In-30-Minutes.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Back-In-30-Minutes\obj\Debug\netcoreapp2.0\Back-In-30-Minutes.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Back-In-30-Minutes\obj\Debug\netcoreapp2.0\Back-In-30-Minutes.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Back-In-30-Minutes\obj\Debug\netcoreapp2.0\Back-In-30-Minutes.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Back-In-30-Minutes\obj\Debug\netcoreapp2.0\Back-In-30-Minutes.pdb

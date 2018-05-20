@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Theatre-Promotion\obj\Debug\netcoreapp2.0\Theatre-Promotion.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Theatre-Promotion\obj\Debug\netcoreapp2.0\Theatre-Promotion.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Theatre-Promotion\obj\Debug\netcoreapp2.0\Theatre-Promotion.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Theatre-Promotion\obj\Debug\netcoreapp2.0\Theatre-Promotion.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Theatre-Promotion\bin\Debug\netcoreapp2.0\Theatre-Promotion.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Theatre-Promotion\bin\Debug\netcoreapp2.0\Theatre-Promotion.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Theatre-Promotion\bin\Debug\netcoreapp2.0\Theatre-Promotion.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Theatre-Promotion\bin\Debug\netcoreapp2.0\Theatre-Promotion.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Theatre-Promotion\bin\Debug\netcoreapp2.0\Theatre-Promotion.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Theatre-Promotion\obj\Debug\netcoreapp2.0\Theatre-Promotion.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Theatre-Promotion\obj\Debug\netcoreapp2.0\Theatre-Promotion.pdb

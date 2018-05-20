@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Month-Printer\bin\Debug\netcoreapp2.0\Month-Printer.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Month-Printer\bin\Debug\netcoreapp2.0\Month-Printer.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Month-Printer\bin\Debug\netcoreapp2.0\Month-Printer.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Month-Printer\bin\Debug\netcoreapp2.0\Month-Printer.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Month-Printer\bin\Debug\netcoreapp2.0\Month-Printer.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Month-Printer\obj\Debug\netcoreapp2.0\Month-Printer.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Month-Printer\obj\Debug\netcoreapp2.0\Month-Printer.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Month-Printer\obj\Debug\netcoreapp2.0\Month-Printer.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Month-Printer\obj\Debug\netcoreapp2.0\Month-Printer.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Month-Printer\obj\Debug\netcoreapp2.0\Month-Printer.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Month-Printer\obj\Debug\netcoreapp2.0\Month-Printer.pdb

@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Foreign-Languages\bin\Debug\netcoreapp2.0\Foreign-Languages.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Foreign-Languages\bin\Debug\netcoreapp2.0\Foreign-Languages.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Foreign-Languages\bin\Debug\netcoreapp2.0\Foreign-Languages.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Foreign-Languages\bin\Debug\netcoreapp2.0\Foreign-Languages.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Foreign-Languages\bin\Debug\netcoreapp2.0\Foreign-Languages.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Foreign-Languages\obj\Debug\netcoreapp2.0\Foreign-Languages.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Foreign-Languages\obj\Debug\netcoreapp2.0\Foreign-Languages.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Foreign-Languages\obj\Debug\netcoreapp2.0\Foreign-Languages.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Foreign-Languages\obj\Debug\netcoreapp2.0\Foreign-Languages.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Foreign-Languages\obj\Debug\netcoreapp2.0\Foreign-Languages.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Conditional-Statements-and-Loops\Foreign-Languages\obj\Debug\netcoreapp2.0\Foreign-Languages.pdb
