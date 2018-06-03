@@ -1,0 +1,10 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Comparing-Floats\bin\Debug\netcoreapp2.0\Comparing-Floats.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Comparing-Floats\bin\Debug\netcoreapp2.0\Comparing-Floats.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Comparing-Floats\bin\Debug\netcoreapp2.0\Comparing-Floats.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Comparing-Floats\bin\Debug\netcoreapp2.0\Comparing-Floats.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Comparing-Floats\bin\Debug\netcoreapp2.0\Comparing-Floats.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Comparing-Floats\obj\Debug\netcoreapp2.0\Comparing-Floats.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Comparing-Floats\obj\Debug\netcoreapp2.0\Comparing-Floats.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Comparing-Floats\obj\Debug\netcoreapp2.0\Comparing-Floats.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Comparing-Floats\obj\Debug\netcoreapp2.0\Comparing-Floats.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Comparing-Floats\obj\Debug\netcoreapp2.0\Comparing-Floats.pdb

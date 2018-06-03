@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Emplyee-Data\bin\Debug\netcoreapp2.0\Emplyee-Data.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Emplyee-Data\bin\Debug\netcoreapp2.0\Emplyee-Data.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Emplyee-Data\bin\Debug\netcoreapp2.0\Emplyee-Data.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Emplyee-Data\bin\Debug\netcoreapp2.0\Emplyee-Data.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Emplyee-Data\bin\Debug\netcoreapp2.0\Emplyee-Data.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Emplyee-Data\obj\Debug\netcoreapp2.0\Emplyee-Data.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Emplyee-Data\obj\Debug\netcoreapp2.0\Emplyee-Data.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Emplyee-Data\obj\Debug\netcoreapp2.0\Emplyee-Data.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Emplyee-Data\obj\Debug\netcoreapp2.0\Emplyee-Data.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Emplyee-Data\obj\Debug\netcoreapp2.0\Emplyee-Data.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Emplyee-Data\obj\Debug\netcoreapp2.0\Emplyee-Data.pdb

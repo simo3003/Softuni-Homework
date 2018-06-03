@@ -1,0 +1,10 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Factorial-Trailing-Zeroes\bin\Debug\netcoreapp2.0\Factorial-Trailing-Zeroes.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Factorial-Trailing-Zeroes\bin\Debug\netcoreapp2.0\Factorial-Trailing-Zeroes.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Factorial-Trailing-Zeroes\bin\Debug\netcoreapp2.0\Factorial-Trailing-Zeroes.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Factorial-Trailing-Zeroes\bin\Debug\netcoreapp2.0\Factorial-Trailing-Zeroes.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Factorial-Trailing-Zeroes\bin\Debug\netcoreapp2.0\Factorial-Trailing-Zeroes.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Factorial-Trailing-Zeroes\obj\Debug\netcoreapp2.0\Factorial-Trailing-Zeroes.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Factorial-Trailing-Zeroes\obj\Debug\netcoreapp2.0\Factorial-Trailing-Zeroes.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Factorial-Trailing-Zeroes\obj\Debug\netcoreapp2.0\Factorial-Trailing-Zeroes.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Factorial-Trailing-Zeroes\obj\Debug\netcoreapp2.0\Factorial-Trailing-Zeroes.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Factorial-Trailing-Zeroes\obj\Debug\netcoreapp2.0\Factorial-Trailing-Zeroes.pdb

@@ -1,0 +1,10 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Instruction-Set\bin\Debug\netcoreapp2.0\Instruction-Set.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Instruction-Set\bin\Debug\netcoreapp2.0\Instruction-Set.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Instruction-Set\bin\Debug\netcoreapp2.0\Instruction-Set.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Instruction-Set\bin\Debug\netcoreapp2.0\Instruction-Set.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Instruction-Set\bin\Debug\netcoreapp2.0\Instruction-Set.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Instruction-Set\obj\Debug\netcoreapp2.0\Instruction-Set.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Instruction-Set\obj\Debug\netcoreapp2.0\Instruction-Set.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Instruction-Set\obj\Debug\netcoreapp2.0\Instruction-Set.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Instruction-Set\obj\Debug\netcoreapp2.0\Instruction-Set.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Instruction-Set\obj\Debug\netcoreapp2.0\Instruction-Set.pdb

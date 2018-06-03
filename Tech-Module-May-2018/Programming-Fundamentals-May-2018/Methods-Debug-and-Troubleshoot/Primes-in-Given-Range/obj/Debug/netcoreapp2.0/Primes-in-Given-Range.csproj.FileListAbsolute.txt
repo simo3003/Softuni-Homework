@@ -1,0 +1,10 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Primes-in-Given-Range\bin\Debug\netcoreapp2.0\Primes-in-Given-Range.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Primes-in-Given-Range\bin\Debug\netcoreapp2.0\Primes-in-Given-Range.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Primes-in-Given-Range\bin\Debug\netcoreapp2.0\Primes-in-Given-Range.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Primes-in-Given-Range\bin\Debug\netcoreapp2.0\Primes-in-Given-Range.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Primes-in-Given-Range\bin\Debug\netcoreapp2.0\Primes-in-Given-Range.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Primes-in-Given-Range\obj\Debug\netcoreapp2.0\Primes-in-Given-Range.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Primes-in-Given-Range\obj\Debug\netcoreapp2.0\Primes-in-Given-Range.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Primes-in-Given-Range\obj\Debug\netcoreapp2.0\Primes-in-Given-Range.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Primes-in-Given-Range\obj\Debug\netcoreapp2.0\Primes-in-Given-Range.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Primes-in-Given-Range\obj\Debug\netcoreapp2.0\Primes-in-Given-Range.pdb

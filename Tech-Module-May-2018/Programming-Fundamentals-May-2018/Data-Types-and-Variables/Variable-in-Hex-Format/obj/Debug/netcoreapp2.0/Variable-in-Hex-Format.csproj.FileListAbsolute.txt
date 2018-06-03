@@ -1,0 +1,10 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Variable-in-Hex-Format\bin\Debug\netcoreapp2.0\Variable-in-Hex-Format.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Variable-in-Hex-Format\bin\Debug\netcoreapp2.0\Variable-in-Hex-Format.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Variable-in-Hex-Format\bin\Debug\netcoreapp2.0\Variable-in-Hex-Format.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Variable-in-Hex-Format\bin\Debug\netcoreapp2.0\Variable-in-Hex-Format.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Variable-in-Hex-Format\bin\Debug\netcoreapp2.0\Variable-in-Hex-Format.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Variable-in-Hex-Format\obj\Debug\netcoreapp2.0\Variable-in-Hex-Format.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Variable-in-Hex-Format\obj\Debug\netcoreapp2.0\Variable-in-Hex-Format.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Variable-in-Hex-Format\obj\Debug\netcoreapp2.0\Variable-in-Hex-Format.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Variable-in-Hex-Format\obj\Debug\netcoreapp2.0\Variable-in-Hex-Format.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Variable-in-Hex-Format\obj\Debug\netcoreapp2.0\Variable-in-Hex-Format.pdb

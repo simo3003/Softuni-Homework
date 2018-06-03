@@ -1,0 +1,10 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Centuries-to-Nanoseconds\bin\Debug\netcoreapp2.0\Centuries-to-Nanoseconds.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Centuries-to-Nanoseconds\bin\Debug\netcoreapp2.0\Centuries-to-Nanoseconds.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Centuries-to-Nanoseconds\bin\Debug\netcoreapp2.0\Centuries-to-Nanoseconds.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Centuries-to-Nanoseconds\bin\Debug\netcoreapp2.0\Centuries-to-Nanoseconds.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Centuries-to-Nanoseconds\bin\Debug\netcoreapp2.0\Centuries-to-Nanoseconds.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Centuries-to-Nanoseconds\obj\Debug\netcoreapp2.0\Centuries-to-Nanoseconds.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Centuries-to-Nanoseconds\obj\Debug\netcoreapp2.0\Centuries-to-Nanoseconds.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Centuries-to-Nanoseconds\obj\Debug\netcoreapp2.0\Centuries-to-Nanoseconds.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Centuries-to-Nanoseconds\obj\Debug\netcoreapp2.0\Centuries-to-Nanoseconds.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Centuries-to-Nanoseconds\obj\Debug\netcoreapp2.0\Centuries-to-Nanoseconds.pdb

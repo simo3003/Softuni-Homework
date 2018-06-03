@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Geometry-Calculator\bin\Debug\netcoreapp2.0\Geometry-Calculator.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Geometry-Calculator\bin\Debug\netcoreapp2.0\Geometry-Calculator.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Geometry-Calculator\bin\Debug\netcoreapp2.0\Geometry-Calculator.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Geometry-Calculator\bin\Debug\netcoreapp2.0\Geometry-Calculator.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Geometry-Calculator\bin\Debug\netcoreapp2.0\Geometry-Calculator.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Geometry-Calculator\obj\Debug\netcoreapp2.0\Geometry-Calculator.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Geometry-Calculator\obj\Debug\netcoreapp2.0\Geometry-Calculator.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Geometry-Calculator\obj\Debug\netcoreapp2.0\Geometry-Calculator.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Geometry-Calculator\obj\Debug\netcoreapp2.0\Geometry-Calculator.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Geometry-Calculator\obj\Debug\netcoreapp2.0\Geometry-Calculator.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Geometry-Calculator\obj\Debug\netcoreapp2.0\Geometry-Calculator.pdb

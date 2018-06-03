@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Convert-Speed-Units\bin\Debug\netcoreapp2.0\Convert-Speed-Units.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Convert-Speed-Units\bin\Debug\netcoreapp2.0\Convert-Speed-Units.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Convert-Speed-Units\bin\Debug\netcoreapp2.0\Convert-Speed-Units.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Convert-Speed-Units\bin\Debug\netcoreapp2.0\Convert-Speed-Units.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Convert-Speed-Units\bin\Debug\netcoreapp2.0\Convert-Speed-Units.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Convert-Speed-Units\obj\Debug\netcoreapp2.0\Convert-Speed-Units.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Convert-Speed-Units\obj\Debug\netcoreapp2.0\Convert-Speed-Units.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Convert-Speed-Units\obj\Debug\netcoreapp2.0\Convert-Speed-Units.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Convert-Speed-Units\obj\Debug\netcoreapp2.0\Convert-Speed-Units.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Convert-Speed-Units\obj\Debug\netcoreapp2.0\Convert-Speed-Units.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Convert-Speed-Units\obj\Debug\netcoreapp2.0\Convert-Speed-Units.pdb

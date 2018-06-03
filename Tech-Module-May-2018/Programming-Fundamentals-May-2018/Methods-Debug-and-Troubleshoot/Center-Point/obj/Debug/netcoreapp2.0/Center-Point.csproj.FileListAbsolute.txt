@@ -1,0 +1,10 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Center-Point\bin\Debug\netcoreapp2.0\Center-Point.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Center-Point\bin\Debug\netcoreapp2.0\Center-Point.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Center-Point\bin\Debug\netcoreapp2.0\Center-Point.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Center-Point\bin\Debug\netcoreapp2.0\Center-Point.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Center-Point\bin\Debug\netcoreapp2.0\Center-Point.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Center-Point\obj\Debug\netcoreapp2.0\Center-Point.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Center-Point\obj\Debug\netcoreapp2.0\Center-Point.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Center-Point\obj\Debug\netcoreapp2.0\Center-Point.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Center-Point\obj\Debug\netcoreapp2.0\Center-Point.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Methods-Debug-and-Troubleshoot\Center-Point\obj\Debug\netcoreapp2.0\Center-Point.pdb

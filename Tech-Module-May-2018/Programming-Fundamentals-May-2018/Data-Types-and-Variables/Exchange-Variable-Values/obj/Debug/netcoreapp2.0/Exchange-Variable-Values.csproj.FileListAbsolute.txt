@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Exchange-Variable-Values\bin\Debug\netcoreapp2.0\Exchange-Variable-Values.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Exchange-Variable-Values\bin\Debug\netcoreapp2.0\Exchange-Variable-Values.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Exchange-Variable-Values\bin\Debug\netcoreapp2.0\Exchange-Variable-Values.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Exchange-Variable-Values\bin\Debug\netcoreapp2.0\Exchange-Variable-Values.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Exchange-Variable-Values\bin\Debug\netcoreapp2.0\Exchange-Variable-Values.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Exchange-Variable-Values\obj\Debug\netcoreapp2.0\Exchange-Variable-Values.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Exchange-Variable-Values\obj\Debug\netcoreapp2.0\Exchange-Variable-Values.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Exchange-Variable-Values\obj\Debug\netcoreapp2.0\Exchange-Variable-Values.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Exchange-Variable-Values\obj\Debug\netcoreapp2.0\Exchange-Variable-Values.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Exchange-Variable-Values\obj\Debug\netcoreapp2.0\Exchange-Variable-Values.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Exchange-Variable-Values\obj\Debug\netcoreapp2.0\Exchange-Variable-Values.pdb

@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Strings-And-Objects\bin\Debug\netcoreapp2.0\Strings-And-Objects.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Strings-And-Objects\bin\Debug\netcoreapp2.0\Strings-And-Objects.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Strings-And-Objects\bin\Debug\netcoreapp2.0\Strings-And-Objects.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Strings-And-Objects\bin\Debug\netcoreapp2.0\Strings-And-Objects.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Strings-And-Objects\bin\Debug\netcoreapp2.0\Strings-And-Objects.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Strings-And-Objects\obj\Debug\netcoreapp2.0\Strings-And-Objects.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Strings-And-Objects\obj\Debug\netcoreapp2.0\Strings-And-Objects.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Strings-And-Objects\obj\Debug\netcoreapp2.0\Strings-And-Objects.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Strings-And-Objects\obj\Debug\netcoreapp2.0\Strings-And-Objects.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Strings-And-Objects\obj\Debug\netcoreapp2.0\Strings-And-Objects.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Strings-And-Objects\obj\Debug\netcoreapp2.0\Strings-And-Objects.pdb

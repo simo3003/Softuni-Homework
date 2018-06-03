@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Practice-Integers\bin\Debug\netcoreapp2.0\Practice-Integers.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Practice-Integers\bin\Debug\netcoreapp2.0\Practice-Integers.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Practice-Integers\bin\Debug\netcoreapp2.0\Practice-Integers.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Practice-Integers\bin\Debug\netcoreapp2.0\Practice-Integers.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Practice-Integers\bin\Debug\netcoreapp2.0\Practice-Integers.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Practice-Integers\obj\Debug\netcoreapp2.0\Practice-Integers.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Practice-Integers\obj\Debug\netcoreapp2.0\Practice-Integers.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Practice-Integers\obj\Debug\netcoreapp2.0\Practice-Integers.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Practice-Integers\obj\Debug\netcoreapp2.0\Practice-Integers.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Practice-Integers\obj\Debug\netcoreapp2.0\Practice-Integers.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Practice-Integers\obj\Debug\netcoreapp2.0\Practice-Integers.pdb

@@ -1,0 +1,10 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Print-Part-Of-ASCII-Table\bin\Debug\netcoreapp2.0\Print-Part-Of-ASCII-Table.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Print-Part-Of-ASCII-Table\bin\Debug\netcoreapp2.0\Print-Part-Of-ASCII-Table.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Print-Part-Of-ASCII-Table\bin\Debug\netcoreapp2.0\Print-Part-Of-ASCII-Table.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Print-Part-Of-ASCII-Table\bin\Debug\netcoreapp2.0\Print-Part-Of-ASCII-Table.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Print-Part-Of-ASCII-Table\bin\Debug\netcoreapp2.0\Print-Part-Of-ASCII-Table.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Print-Part-Of-ASCII-Table\obj\Debug\netcoreapp2.0\Print-Part-Of-ASCII-Table.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Print-Part-Of-ASCII-Table\obj\Debug\netcoreapp2.0\Print-Part-Of-ASCII-Table.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Print-Part-Of-ASCII-Table\obj\Debug\netcoreapp2.0\Print-Part-Of-ASCII-Table.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Print-Part-Of-ASCII-Table\obj\Debug\netcoreapp2.0\Print-Part-Of-ASCII-Table.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Print-Part-Of-ASCII-Table\obj\Debug\netcoreapp2.0\Print-Part-Of-ASCII-Table.pdb

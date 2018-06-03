@@ -1,0 +1,10 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Rectangle-Properties\bin\Debug\netcoreapp2.0\Rectangle-Properties.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Rectangle-Properties\bin\Debug\netcoreapp2.0\Rectangle-Properties.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Rectangle-Properties\bin\Debug\netcoreapp2.0\Rectangle-Properties.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Rectangle-Properties\bin\Debug\netcoreapp2.0\Rectangle-Properties.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Rectangle-Properties\bin\Debug\netcoreapp2.0\Rectangle-Properties.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Rectangle-Properties\obj\Debug\netcoreapp2.0\Rectangle-Properties.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Rectangle-Properties\obj\Debug\netcoreapp2.0\Rectangle-Properties.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Rectangle-Properties\obj\Debug\netcoreapp2.0\Rectangle-Properties.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Rectangle-Properties\obj\Debug\netcoreapp2.0\Rectangle-Properties.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Rectangle-Properties\obj\Debug\netcoreapp2.0\Rectangle-Properties.pdb

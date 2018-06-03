@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Thea-the-Photographer\bin\Debug\netcoreapp2.0\Thea-the-Photographer.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Thea-the-Photographer\bin\Debug\netcoreapp2.0\Thea-the-Photographer.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Thea-the-Photographer\bin\Debug\netcoreapp2.0\Thea-the-Photographer.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Thea-the-Photographer\bin\Debug\netcoreapp2.0\Thea-the-Photographer.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Thea-the-Photographer\bin\Debug\netcoreapp2.0\Thea-the-Photographer.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Thea-the-Photographer\obj\Debug\netcoreapp2.0\Thea-the-Photographer.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Thea-the-Photographer\obj\Debug\netcoreapp2.0\Thea-the-Photographer.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Thea-the-Photographer\obj\Debug\netcoreapp2.0\Thea-the-Photographer.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Thea-the-Photographer\obj\Debug\netcoreapp2.0\Thea-the-Photographer.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Thea-the-Photographer\obj\Debug\netcoreapp2.0\Thea-the-Photographer.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Data-Types-and-Variables\Thea-the-Photographer\obj\Debug\netcoreapp2.0\Thea-the-Photographer.pdb
