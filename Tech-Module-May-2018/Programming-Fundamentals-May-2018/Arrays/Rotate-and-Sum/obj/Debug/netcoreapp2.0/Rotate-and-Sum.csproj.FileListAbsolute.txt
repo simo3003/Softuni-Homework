@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Rotate-and-Sum\bin\Debug\netcoreapp2.0\Rotate-and-Sum.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Rotate-and-Sum\bin\Debug\netcoreapp2.0\Rotate-and-Sum.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Rotate-and-Sum\bin\Debug\netcoreapp2.0\Rotate-and-Sum.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Rotate-and-Sum\bin\Debug\netcoreapp2.0\Rotate-and-Sum.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Rotate-and-Sum\bin\Debug\netcoreapp2.0\Rotate-and-Sum.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Rotate-and-Sum\obj\Debug\netcoreapp2.0\Rotate-and-Sum.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Rotate-and-Sum\obj\Debug\netcoreapp2.0\Rotate-and-Sum.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Rotate-and-Sum\obj\Debug\netcoreapp2.0\Rotate-and-Sum.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Rotate-and-Sum\obj\Debug\netcoreapp2.0\Rotate-and-Sum.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Rotate-and-Sum\obj\Debug\netcoreapp2.0\Rotate-and-Sum.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Rotate-and-Sum\obj\Debug\netcoreapp2.0\Rotate-and-Sum.csprojAssemblyReference.cache

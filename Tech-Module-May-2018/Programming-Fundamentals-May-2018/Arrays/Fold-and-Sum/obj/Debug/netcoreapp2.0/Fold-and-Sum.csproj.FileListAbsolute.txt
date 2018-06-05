@@ -1,0 +1,10 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Fold-and-Sum\bin\Debug\netcoreapp2.0\Fold-and-Sum.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Fold-and-Sum\bin\Debug\netcoreapp2.0\Fold-and-Sum.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Fold-and-Sum\bin\Debug\netcoreapp2.0\Fold-and-Sum.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Fold-and-Sum\bin\Debug\netcoreapp2.0\Fold-and-Sum.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Fold-and-Sum\bin\Debug\netcoreapp2.0\Fold-and-Sum.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Fold-and-Sum\obj\Debug\netcoreapp2.0\Fold-and-Sum.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Fold-and-Sum\obj\Debug\netcoreapp2.0\Fold-and-Sum.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Fold-and-Sum\obj\Debug\netcoreapp2.0\Fold-and-Sum.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Fold-and-Sum\obj\Debug\netcoreapp2.0\Fold-and-Sum.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Fold-and-Sum\obj\Debug\netcoreapp2.0\Fold-and-Sum.pdb

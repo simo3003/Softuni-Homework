@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Compare-Char-Arrays\bin\Debug\netcoreapp2.0\Compare-Char-Arrays.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Compare-Char-Arrays\bin\Debug\netcoreapp2.0\Compare-Char-Arrays.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Compare-Char-Arrays\bin\Debug\netcoreapp2.0\Compare-Char-Arrays.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Compare-Char-Arrays\bin\Debug\netcoreapp2.0\Compare-Char-Arrays.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Compare-Char-Arrays\bin\Debug\netcoreapp2.0\Compare-Char-Arrays.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Compare-Char-Arrays\obj\Debug\netcoreapp2.0\Compare-Char-Arrays.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Compare-Char-Arrays\obj\Debug\netcoreapp2.0\Compare-Char-Arrays.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Compare-Char-Arrays\obj\Debug\netcoreapp2.0\Compare-Char-Arrays.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Compare-Char-Arrays\obj\Debug\netcoreapp2.0\Compare-Char-Arrays.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Compare-Char-Arrays\obj\Debug\netcoreapp2.0\Compare-Char-Arrays.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Compare-Char-Arrays\obj\Debug\netcoreapp2.0\Compare-Char-Arrays.pdb

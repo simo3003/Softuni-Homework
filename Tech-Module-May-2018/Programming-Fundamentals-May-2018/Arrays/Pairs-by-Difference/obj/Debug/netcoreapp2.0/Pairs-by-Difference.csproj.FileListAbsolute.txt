@@ -1,0 +1,10 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Pairs-by-Difference\bin\Debug\netcoreapp2.0\Pairs-by-Difference.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Pairs-by-Difference\bin\Debug\netcoreapp2.0\Pairs-by-Difference.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Pairs-by-Difference\bin\Debug\netcoreapp2.0\Pairs-by-Difference.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Pairs-by-Difference\bin\Debug\netcoreapp2.0\Pairs-by-Difference.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Pairs-by-Difference\bin\Debug\netcoreapp2.0\Pairs-by-Difference.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Pairs-by-Difference\obj\Debug\netcoreapp2.0\Pairs-by-Difference.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Pairs-by-Difference\obj\Debug\netcoreapp2.0\Pairs-by-Difference.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Pairs-by-Difference\obj\Debug\netcoreapp2.0\Pairs-by-Difference.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Pairs-by-Difference\obj\Debug\netcoreapp2.0\Pairs-by-Difference.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Pairs-by-Difference\obj\Debug\netcoreapp2.0\Pairs-by-Difference.pdb

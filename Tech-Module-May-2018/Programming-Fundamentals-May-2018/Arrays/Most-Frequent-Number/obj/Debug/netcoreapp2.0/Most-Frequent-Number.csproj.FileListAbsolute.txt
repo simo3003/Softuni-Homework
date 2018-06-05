@@ -1,0 +1,10 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Most-Frequent-Number\bin\Debug\netcoreapp2.0\Most-Frequent-Number.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Most-Frequent-Number\bin\Debug\netcoreapp2.0\Most-Frequent-Number.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Most-Frequent-Number\bin\Debug\netcoreapp2.0\Most-Frequent-Number.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Most-Frequent-Number\bin\Debug\netcoreapp2.0\Most-Frequent-Number.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Most-Frequent-Number\bin\Debug\netcoreapp2.0\Most-Frequent-Number.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Most-Frequent-Number\obj\Debug\netcoreapp2.0\Most-Frequent-Number.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Most-Frequent-Number\obj\Debug\netcoreapp2.0\Most-Frequent-Number.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Most-Frequent-Number\obj\Debug\netcoreapp2.0\Most-Frequent-Number.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Most-Frequent-Number\obj\Debug\netcoreapp2.0\Most-Frequent-Number.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Most-Frequent-Number\obj\Debug\netcoreapp2.0\Most-Frequent-Number.pdb

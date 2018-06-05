@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Index-of-Letters\bin\Debug\netcoreapp2.0\Index-of-Letters.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Index-of-Letters\bin\Debug\netcoreapp2.0\Index-of-Letters.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Index-of-Letters\bin\Debug\netcoreapp2.0\Index-of-Letters.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Index-of-Letters\bin\Debug\netcoreapp2.0\Index-of-Letters.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Index-of-Letters\bin\Debug\netcoreapp2.0\Index-of-Letters.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Index-of-Letters\obj\Debug\netcoreapp2.0\Index-of-Letters.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Index-of-Letters\obj\Debug\netcoreapp2.0\Index-of-Letters.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Index-of-Letters\obj\Debug\netcoreapp2.0\Index-of-Letters.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Index-of-Letters\obj\Debug\netcoreapp2.0\Index-of-Letters.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Index-of-Letters\obj\Debug\netcoreapp2.0\Index-of-Letters.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Index-of-Letters\obj\Debug\netcoreapp2.0\Index-of-Letters.pdb

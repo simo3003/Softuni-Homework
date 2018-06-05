@@ -1,0 +1,10 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Max-Sequence-of-Increasing-Elements\bin\Debug\netcoreapp2.0\Max-Sequence-of-Increasing-Elements.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Max-Sequence-of-Increasing-Elements\bin\Debug\netcoreapp2.0\Max-Sequence-of-Increasing-Elements.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Max-Sequence-of-Increasing-Elements\bin\Debug\netcoreapp2.0\Max-Sequence-of-Increasing-Elements.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Max-Sequence-of-Increasing-Elements\bin\Debug\netcoreapp2.0\Max-Sequence-of-Increasing-Elements.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Max-Sequence-of-Increasing-Elements\bin\Debug\netcoreapp2.0\Max-Sequence-of-Increasing-Elements.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Max-Sequence-of-Increasing-Elements\obj\Debug\netcoreapp2.0\Max-Sequence-of-Increasing-Elements.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Max-Sequence-of-Increasing-Elements\obj\Debug\netcoreapp2.0\Max-Sequence-of-Increasing-Elements.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Max-Sequence-of-Increasing-Elements\obj\Debug\netcoreapp2.0\Max-Sequence-of-Increasing-Elements.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Max-Sequence-of-Increasing-Elements\obj\Debug\netcoreapp2.0\Max-Sequence-of-Increasing-Elements.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Max-Sequence-of-Increasing-Elements\obj\Debug\netcoreapp2.0\Max-Sequence-of-Increasing-Elements.pdb

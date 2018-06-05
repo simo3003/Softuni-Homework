@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Largest-Common-End\bin\Debug\netcoreapp2.0\Largest-Common-End.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Largest-Common-End\bin\Debug\netcoreapp2.0\Largest-Common-End.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Largest-Common-End\bin\Debug\netcoreapp2.0\Largest-Common-End.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Largest-Common-End\bin\Debug\netcoreapp2.0\Largest-Common-End.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Largest-Common-End\bin\Debug\netcoreapp2.0\Largest-Common-End.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Largest-Common-End\obj\Debug\netcoreapp2.0\Largest-Common-End.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Largest-Common-End\obj\Debug\netcoreapp2.0\Largest-Common-End.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Largest-Common-End\obj\Debug\netcoreapp2.0\Largest-Common-End.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Largest-Common-End\obj\Debug\netcoreapp2.0\Largest-Common-End.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Largest-Common-End\obj\Debug\netcoreapp2.0\Largest-Common-End.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Largest-Common-End\obj\Debug\netcoreapp2.0\Largest-Common-End.pdb
