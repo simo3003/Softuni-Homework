@@ -1,0 +1,10 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Change-List\bin\Debug\netcoreapp2.0\Change-List.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Change-List\bin\Debug\netcoreapp2.0\Change-List.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Change-List\bin\Debug\netcoreapp2.0\Change-List.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Change-List\bin\Debug\netcoreapp2.0\Change-List.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Change-List\bin\Debug\netcoreapp2.0\Change-List.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Change-List\obj\Debug\netcoreapp2.0\Change-List.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Change-List\obj\Debug\netcoreapp2.0\Change-List.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Change-List\obj\Debug\netcoreapp2.0\Change-List.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Change-List\obj\Debug\netcoreapp2.0\Change-List.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Change-List\obj\Debug\netcoreapp2.0\Change-List.pdb

@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Equal-Sums\bin\Debug\netcoreapp2.0\Equal-Sums.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Equal-Sums\bin\Debug\netcoreapp2.0\Equal-Sums.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Equal-Sums\bin\Debug\netcoreapp2.0\Equal-Sums.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Equal-Sums\bin\Debug\netcoreapp2.0\Equal-Sums.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Equal-Sums\bin\Debug\netcoreapp2.0\Equal-Sums.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Equal-Sums\obj\Debug\netcoreapp2.0\Equal-Sums.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Equal-Sums\obj\Debug\netcoreapp2.0\Equal-Sums.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Equal-Sums\obj\Debug\netcoreapp2.0\Equal-Sums.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Equal-Sums\obj\Debug\netcoreapp2.0\Equal-Sums.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Equal-Sums\obj\Debug\netcoreapp2.0\Equal-Sums.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Arrays\Equal-Sums\obj\Debug\netcoreapp2.0\Equal-Sums.pdb
