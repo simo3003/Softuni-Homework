@@ -1,0 +1,10 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Phonebook-Upgrade\bin\Debug\netcoreapp2.0\Phonebook-Upgrade.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Phonebook-Upgrade\bin\Debug\netcoreapp2.0\Phonebook-Upgrade.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Phonebook-Upgrade\bin\Debug\netcoreapp2.0\Phonebook-Upgrade.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Phonebook-Upgrade\bin\Debug\netcoreapp2.0\Phonebook-Upgrade.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Phonebook-Upgrade\bin\Debug\netcoreapp2.0\Phonebook-Upgrade.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Phonebook-Upgrade\obj\Debug\netcoreapp2.0\Phonebook-Upgrade.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Phonebook-Upgrade\obj\Debug\netcoreapp2.0\Phonebook-Upgrade.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Phonebook-Upgrade\obj\Debug\netcoreapp2.0\Phonebook-Upgrade.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Phonebook-Upgrade\obj\Debug\netcoreapp2.0\Phonebook-Upgrade.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Phonebook-Upgrade\obj\Debug\netcoreapp2.0\Phonebook-Upgrade.pdb

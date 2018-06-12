@@ -1,0 +1,10 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Fix-Emails\bin\Debug\netcoreapp2.0\Fix-Emails.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Fix-Emails\bin\Debug\netcoreapp2.0\Fix-Emails.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Fix-Emails\bin\Debug\netcoreapp2.0\Fix-Emails.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Fix-Emails\bin\Debug\netcoreapp2.0\Fix-Emails.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Fix-Emails\bin\Debug\netcoreapp2.0\Fix-Emails.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Fix-Emails\obj\Debug\netcoreapp2.0\Fix-Emails.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Fix-Emails\obj\Debug\netcoreapp2.0\Fix-Emails.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Fix-Emails\obj\Debug\netcoreapp2.0\Fix-Emails.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Fix-Emails\obj\Debug\netcoreapp2.0\Fix-Emails.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Fix-Emails\obj\Debug\netcoreapp2.0\Fix-Emails.pdb

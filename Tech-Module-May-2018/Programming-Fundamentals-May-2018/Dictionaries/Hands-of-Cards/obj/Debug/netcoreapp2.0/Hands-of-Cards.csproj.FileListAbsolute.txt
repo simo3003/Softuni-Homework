@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Hands-of-Cards\bin\Debug\netcoreapp2.0\Hands-of-Cards.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Hands-of-Cards\bin\Debug\netcoreapp2.0\Hands-of-Cards.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Hands-of-Cards\bin\Debug\netcoreapp2.0\Hands-of-Cards.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Hands-of-Cards\bin\Debug\netcoreapp2.0\Hands-of-Cards.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Hands-of-Cards\bin\Debug\netcoreapp2.0\Hands-of-Cards.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Hands-of-Cards\obj\Debug\netcoreapp2.0\Hands-of-Cards.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Hands-of-Cards\obj\Debug\netcoreapp2.0\Hands-of-Cards.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Hands-of-Cards\obj\Debug\netcoreapp2.0\Hands-of-Cards.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Hands-of-Cards\obj\Debug\netcoreapp2.0\Hands-of-Cards.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Hands-of-Cards\obj\Debug\netcoreapp2.0\Hands-of-Cards.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Hands-of-Cards\obj\Debug\netcoreapp2.0\Hands-of-Cards.pdb

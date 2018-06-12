@@ -1,0 +1,10 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\A-Miner-Task\bin\Debug\netcoreapp2.0\A-Miner-Task.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\A-Miner-Task\bin\Debug\netcoreapp2.0\A-Miner-Task.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\A-Miner-Task\bin\Debug\netcoreapp2.0\A-Miner-Task.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\A-Miner-Task\bin\Debug\netcoreapp2.0\A-Miner-Task.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\A-Miner-Task\bin\Debug\netcoreapp2.0\A-Miner-Task.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\A-Miner-Task\obj\Debug\netcoreapp2.0\A-Miner-Task.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\A-Miner-Task\obj\Debug\netcoreapp2.0\A-Miner-Task.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\A-Miner-Task\obj\Debug\netcoreapp2.0\A-Miner-Task.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\A-Miner-Task\obj\Debug\netcoreapp2.0\A-Miner-Task.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\A-Miner-Task\obj\Debug\netcoreapp2.0\A-Miner-Task.pdb
