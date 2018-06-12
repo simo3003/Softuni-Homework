@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Search-for-a-Number\bin\Debug\netcoreapp2.0\Search-for-a-Number.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Search-for-a-Number\bin\Debug\netcoreapp2.0\Search-for-a-Number.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Search-for-a-Number\bin\Debug\netcoreapp2.0\Search-for-a-Number.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Search-for-a-Number\bin\Debug\netcoreapp2.0\Search-for-a-Number.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Search-for-a-Number\bin\Debug\netcoreapp2.0\Search-for-a-Number.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Search-for-a-Number\obj\Debug\netcoreapp2.0\Search-for-a-Number.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Search-for-a-Number\obj\Debug\netcoreapp2.0\Search-for-a-Number.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Search-for-a-Number\obj\Debug\netcoreapp2.0\Search-for-a-Number.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Search-for-a-Number\obj\Debug\netcoreapp2.0\Search-for-a-Number.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Search-for-a-Number\obj\Debug\netcoreapp2.0\Search-for-a-Number.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Search-for-a-Number\obj\Debug\netcoreapp2.0\Search-for-a-Number.pdb

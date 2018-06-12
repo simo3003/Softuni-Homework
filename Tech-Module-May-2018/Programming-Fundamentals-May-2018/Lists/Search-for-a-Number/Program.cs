@@ -16,7 +16,18 @@ namespace Search_for_a_Number
                 .Split(" ")
                 .Select(int.Parse)
                 .ToArray();
-
+            int takeAmount = searchArr[0];
+            int skipAmount = searchArr[1];
+            int searchFor = searchArr[2];
+            var modifiedInput = input.Take(takeAmount).Skip(skipAmount).ToList();
+            if (modifiedInput.Contains(searchFor))
+            {
+                Console.WriteLine("YES!");
+            }
+            else
+            {
+                Console.WriteLine("NO!");
+            }
         }
     }
 }

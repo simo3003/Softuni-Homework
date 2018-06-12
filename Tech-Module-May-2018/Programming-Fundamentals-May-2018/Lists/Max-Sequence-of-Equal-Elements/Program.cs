@@ -27,14 +27,12 @@ namespace Max_Sequence_of_Equal_Elements
                     len = 1;
                     startIndex = i;
                 }
-
                 if (len > bestLen)
                 {
                     bestLen = len;
                     bestStartIndex = startIndex;
                 }
             }
-
             for (int i = 0; i < bestLen; i++)
             {
                 Console.Write(input[bestStartIndex+i] + " ");

@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Array-Manipulator\bin\Debug\netcoreapp2.0\Array-Manipulator.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Array-Manipulator\bin\Debug\netcoreapp2.0\Array-Manipulator.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Array-Manipulator\bin\Debug\netcoreapp2.0\Array-Manipulator.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Array-Manipulator\bin\Debug\netcoreapp2.0\Array-Manipulator.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Array-Manipulator\bin\Debug\netcoreapp2.0\Array-Manipulator.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Array-Manipulator\obj\Debug\netcoreapp2.0\Array-Manipulator.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Array-Manipulator\obj\Debug\netcoreapp2.0\Array-Manipulator.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Array-Manipulator\obj\Debug\netcoreapp2.0\Array-Manipulator.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Array-Manipulator\obj\Debug\netcoreapp2.0\Array-Manipulator.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Array-Manipulator\obj\Debug\netcoreapp2.0\Array-Manipulator.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Lists\Array-Manipulator\obj\Debug\netcoreapp2.0\Array-Manipulator.pdb
