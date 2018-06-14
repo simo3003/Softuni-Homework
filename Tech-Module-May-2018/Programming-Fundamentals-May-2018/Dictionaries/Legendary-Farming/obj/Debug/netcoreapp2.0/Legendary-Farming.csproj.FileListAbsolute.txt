@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Legendary-Farming\bin\Debug\netcoreapp2.0\Legendary-Farming.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Legendary-Farming\bin\Debug\netcoreapp2.0\Legendary-Farming.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Legendary-Farming\bin\Debug\netcoreapp2.0\Legendary-Farming.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Legendary-Farming\bin\Debug\netcoreapp2.0\Legendary-Farming.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Legendary-Farming\bin\Debug\netcoreapp2.0\Legendary-Farming.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Legendary-Farming\obj\Debug\netcoreapp2.0\Legendary-Farming.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Legendary-Farming\obj\Debug\netcoreapp2.0\Legendary-Farming.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Legendary-Farming\obj\Debug\netcoreapp2.0\Legendary-Farming.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Legendary-Farming\obj\Debug\netcoreapp2.0\Legendary-Farming.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Legendary-Farming\obj\Debug\netcoreapp2.0\Legendary-Farming.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Legendary-Farming\obj\Debug\netcoreapp2.0\Legendary-Farming.pdb

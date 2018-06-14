@@ -3,15 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonebook", "Phonebook\Phonebook.csproj", "{88F5A94A-51F5-4979-9354-D992224488AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phonebook", "Phonebook\Phonebook.csproj", "{88F5A94A-51F5-4979-9354-D992224488AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonebook-Upgrade", "Phonebook-Upgrade\Phonebook-Upgrade.csproj", "{C6CA527C-ABBD-4209-97AE-DB4922795626}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phonebook-Upgrade", "Phonebook-Upgrade\Phonebook-Upgrade.csproj", "{C6CA527C-ABBD-4209-97AE-DB4922795626}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A-Miner-Task", "A-Miner-Task\A-Miner-Task.csproj", "{87304F7C-841E-4FEA-AD6B-CFFD82084AD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A-Miner-Task", "A-Miner-Task\A-Miner-Task.csproj", "{87304F7C-841E-4FEA-AD6B-CFFD82084AD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fix-Emails", "Fix-Emails\Fix-Emails.csproj", "{C0C1E381-4271-4D42-BCD1-EFF5EA9F5D15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fix-Emails", "Fix-Emails\Fix-Emails.csproj", "{C0C1E381-4271-4D42-BCD1-EFF5EA9F5D15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hands-of-Cards", "Hands-of-Cards\Hands-of-Cards.csproj", "{4D75872D-9CF5-44A5-9D36-E0E42651D99F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hands-of-Cards", "Hands-of-Cards\Hands-of-Cards.csproj", "{4D75872D-9CF5-44A5-9D36-E0E42651D99F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User-Logs", "User-Logs\User-Logs.csproj", "{99DE53D8-D0C8-489E-97AC-402779333CE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Population-Counter", "Population-Counter\Population-Counter.csproj", "{994D4DEB-CCE6-4F47-8877-CC744D1254FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logs-Aggregator", "Logs-Aggregator\Logs-Aggregator.csproj", "{B0ABC31D-17DA-49B4-B112-AC8A25E57F7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Legendary-Farming", "Legendary-Farming\Legendary-Farming.csproj", "{F3F45EDA-3262-4C17-8E28-8AADC89985E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Srbsko-Unleashed", "Srbsko-Unleashed\Srbsko-Unleashed.csproj", "{B565391B-9F01-4C1F-927B-C1CC07AF5A95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +49,26 @@ Global
 		{4D75872D-9CF5-44A5-9D36-E0E42651D99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D75872D-9CF5-44A5-9D36-E0E42651D99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D75872D-9CF5-44A5-9D36-E0E42651D99F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99DE53D8-D0C8-489E-97AC-402779333CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DE53D8-D0C8-489E-97AC-402779333CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DE53D8-D0C8-489E-97AC-402779333CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DE53D8-D0C8-489E-97AC-402779333CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{994D4DEB-CCE6-4F47-8877-CC744D1254FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994D4DEB-CCE6-4F47-8877-CC744D1254FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994D4DEB-CCE6-4F47-8877-CC744D1254FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994D4DEB-CCE6-4F47-8877-CC744D1254FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0ABC31D-17DA-49B4-B112-AC8A25E57F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0ABC31D-17DA-49B4-B112-AC8A25E57F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0ABC31D-17DA-49B4-B112-AC8A25E57F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0ABC31D-17DA-49B4-B112-AC8A25E57F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F45EDA-3262-4C17-8E28-8AADC89985E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F45EDA-3262-4C17-8E28-8AADC89985E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F45EDA-3262-4C17-8E28-8AADC89985E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F45EDA-3262-4C17-8E28-8AADC89985E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B565391B-9F01-4C1F-927B-C1CC07AF5A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B565391B-9F01-4C1F-927B-C1CC07AF5A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B565391B-9F01-4C1F-927B-C1CC07AF5A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B565391B-9F01-4C1F-927B-C1CC07AF5A95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

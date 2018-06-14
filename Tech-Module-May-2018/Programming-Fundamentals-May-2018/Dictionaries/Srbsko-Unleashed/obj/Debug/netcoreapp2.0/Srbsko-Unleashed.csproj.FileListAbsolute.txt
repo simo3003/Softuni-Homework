@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Srbsko-Unleashed\bin\Debug\netcoreapp2.0\Srbsko-Unleashed.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Srbsko-Unleashed\bin\Debug\netcoreapp2.0\Srbsko-Unleashed.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Srbsko-Unleashed\bin\Debug\netcoreapp2.0\Srbsko-Unleashed.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Srbsko-Unleashed\bin\Debug\netcoreapp2.0\Srbsko-Unleashed.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Srbsko-Unleashed\bin\Debug\netcoreapp2.0\Srbsko-Unleashed.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Srbsko-Unleashed\obj\Debug\netcoreapp2.0\Srbsko-Unleashed.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Srbsko-Unleashed\obj\Debug\netcoreapp2.0\Srbsko-Unleashed.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Srbsko-Unleashed\obj\Debug\netcoreapp2.0\Srbsko-Unleashed.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Srbsko-Unleashed\obj\Debug\netcoreapp2.0\Srbsko-Unleashed.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Srbsko-Unleashed\obj\Debug\netcoreapp2.0\Srbsko-Unleashed.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Srbsko-Unleashed\obj\Debug\netcoreapp2.0\Srbsko-Unleashed.pdb

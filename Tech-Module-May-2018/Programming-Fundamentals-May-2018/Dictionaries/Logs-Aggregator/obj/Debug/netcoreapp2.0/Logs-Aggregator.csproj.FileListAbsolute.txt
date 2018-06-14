@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Logs-Aggregator\bin\Debug\netcoreapp2.0\Logs-Aggregator.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Logs-Aggregator\bin\Debug\netcoreapp2.0\Logs-Aggregator.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Logs-Aggregator\bin\Debug\netcoreapp2.0\Logs-Aggregator.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Logs-Aggregator\bin\Debug\netcoreapp2.0\Logs-Aggregator.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Logs-Aggregator\bin\Debug\netcoreapp2.0\Logs-Aggregator.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Logs-Aggregator\obj\Debug\netcoreapp2.0\Logs-Aggregator.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Logs-Aggregator\obj\Debug\netcoreapp2.0\Logs-Aggregator.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Logs-Aggregator\obj\Debug\netcoreapp2.0\Logs-Aggregator.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Logs-Aggregator\obj\Debug\netcoreapp2.0\Logs-Aggregator.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Logs-Aggregator\obj\Debug\netcoreapp2.0\Logs-Aggregator.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Logs-Aggregator\obj\Debug\netcoreapp2.0\Logs-Aggregator.pdb

@@ -8,55 +8,52 @@ namespace Hands_of_Cards
     {
         static void Main(string[] args)
         {
-            string input = Console.ReadLine();
-            Dictionary<string, List<string>> hands = new Dictionary<string, List<string>>();
-            while (input != "JOKER")
+            string[] input = Console.ReadLine().Split(':');
+            string name = input[0];
+            Dictionary<string, List<string>> dealtHands = new Dictionary<string, List<string>>();
+            while (input[0] != "JOKER")
             {
-                string name = input.Split(':')[0];
-                List<string> cards = input.Split(' ', ',', StringSplitOptions.RemoveEmptyEntries).Skip(1).ToList();
-                if (hands.ContainsKey(name))
+                List<string> cards = input[1].Split(new char[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries).ToList();
+                if (dealtHands.ContainsKey(name))
                 {
-                    hands[name].AddRange(cards);
+                    dealtHands[name].AddRange(cards);
                 }
                 else
                 {
-                    hands.Add(name, cards);
+                    dealtHands[name] = cards;
                 }
-                input = Console.ReadLine();
+                input = Console.ReadLine().Split(':');
+                name = input[0];
             }
-            foreach (var hand in hands)
+
+            foreach (var dealtHand in dealtHands)
             {
-                int currentSum = 0;
-                foreach (string card in hand.Value.Distinct())
+                int totalValue = 0;
+                foreach (var card in dealtHand.Value.Distinct())
                 {
-                    currentSum +=
-                        GetRankPower(card.Substring(0, card.Length - 1)) * GetSuitPower(card.Substring(card.Length - 1));
+                    string type = card.Substring(card.Length - 1); // get the last element
+                    string power = card.Substring(0, card.Length - 1); // get the rest of the elements
+                    int value = CalculatePower(power) * CalculateTypeMultiplier(type);
+                    totalValue += value;
                 }
-                Console.WriteLine($"{hand.Key}: {currentSum}");
+                Console.WriteLine($"{dealtHand.Key}: {totalValue}");
             }
         }
-        public static int GetRankPower(string rank)
+
+        static int CalculatePower(string power)
         {
-            switch (rank)
+            switch (power)
             {
                 case "2":
-                    return 2;
                 case "3":
-                    return 3;
                 case "4":
-                    return 4;
                 case "5":
-                    return 5;
                 case "6":
-                    return 6;
                 case "7":
-                    return 7;
                 case "8":
-                    return 8;
                 case "9":
-                    return 9;
                 case "10":
-                    return 10;
+                    return int.Parse(power);
                 case "J":
                     return 11;
                 case "Q":
@@ -70,9 +67,9 @@ namespace Hands_of_Cards
             }
         }
 
-        public static int GetSuitPower(string suit)
+        static int CalculateTypeMultiplier(string type)
         {
-            switch (suit)
+            switch (type)
             {
                 case "S":
                     return 4;

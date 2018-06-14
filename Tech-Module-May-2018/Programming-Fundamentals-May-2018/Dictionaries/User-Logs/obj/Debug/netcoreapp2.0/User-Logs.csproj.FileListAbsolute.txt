@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\User-Logs\bin\Debug\netcoreapp2.0\User-Logs.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\User-Logs\bin\Debug\netcoreapp2.0\User-Logs.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\User-Logs\bin\Debug\netcoreapp2.0\User-Logs.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\User-Logs\bin\Debug\netcoreapp2.0\User-Logs.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\User-Logs\bin\Debug\netcoreapp2.0\User-Logs.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\User-Logs\obj\Debug\netcoreapp2.0\User-Logs.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\User-Logs\obj\Debug\netcoreapp2.0\User-Logs.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\User-Logs\obj\Debug\netcoreapp2.0\User-Logs.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\User-Logs\obj\Debug\netcoreapp2.0\User-Logs.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\User-Logs\obj\Debug\netcoreapp2.0\User-Logs.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\User-Logs\obj\Debug\netcoreapp2.0\User-Logs.pdb

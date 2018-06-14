@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Population-Counter\bin\Debug\netcoreapp2.0\Population-Counter.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Population-Counter\bin\Debug\netcoreapp2.0\Population-Counter.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Population-Counter\bin\Debug\netcoreapp2.0\Population-Counter.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Population-Counter\bin\Debug\netcoreapp2.0\Population-Counter.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Population-Counter\bin\Debug\netcoreapp2.0\Population-Counter.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Population-Counter\obj\Debug\netcoreapp2.0\Population-Counter.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Population-Counter\obj\Debug\netcoreapp2.0\Population-Counter.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Population-Counter\obj\Debug\netcoreapp2.0\Population-Counter.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Population-Counter\obj\Debug\netcoreapp2.0\Population-Counter.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Population-Counter\obj\Debug\netcoreapp2.0\Population-Counter.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Population-Counter\obj\Debug\netcoreapp2.0\Population-Counter.pdb
