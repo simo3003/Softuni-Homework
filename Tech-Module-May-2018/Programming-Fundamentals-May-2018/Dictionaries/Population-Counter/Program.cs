@@ -9,7 +9,7 @@ namespace Population_Counter
         static void Main(string[] args)
         {
             string input = Console.ReadLine();
-            // [country] -> town -> population
+            // [country] -> { [town] -> population }
             Dictionary<string, Dictionary<string, long>> report = new Dictionary<string, Dictionary<string, long>>();
             while (input != "report")
             {

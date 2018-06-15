@@ -8,7 +8,7 @@ namespace User_Logs
     {
         static void Main(string[] args)
         {
-            // [userName] -> ip -> messagesWithIp
+            // [userName] -> { [ip] -> messageAmountWithIp }
             SortedDictionary<string, Dictionary<string, int>> log = new SortedDictionary<string, Dictionary<string, int>>();
             string input = Console.ReadLine();
             while (input != "end")
