@@ -19,12 +19,19 @@ namespace Srbsko_Unleashed
                 {
                     break;
                 }
+                string joinedString = string.Join(" ", input);
                 string singer = "";
                 string venue = "";
                 int totalMoney = 0;
                 int i = 0;
                 try // tries for invalid input
                 {
+                    // checks if the character before the '@' is a space, if yes -> valid input, if no -> invalid (throws an exception)
+                    int indexOfVenue = joinedString.IndexOf('@');
+                    if (joinedString[indexOfVenue - 1] != ' ')
+                    {
+                        throw new Exception("Invalid input!");
+                    }
                     while (!input[i].Contains('@')) // get the singer, will run until we have reached the venue element
                     {
                         singer += input[i] + " ";
@@ -43,27 +50,27 @@ namespace Srbsko_Unleashed
                 {
                     continue;
                 }
-                if (srbskoEvents.ContainsKey(venue))
+                if (srbskoEvents.ContainsKey(venue)) // if the venue is in the dictionary
                 {
-                    if (srbskoEvents[venue].ContainsKey(singer))
+                    if (srbskoEvents[venue].ContainsKey(singer)) // and the singer is in the venue dictionary
                     {
-                        srbskoEvents[venue][singer] += totalMoney;
+                        srbskoEvents[venue][singer] += totalMoney; // append the money
                     }
-                    else
+                    else // else add the singer and his / her money
                     {
                         srbskoEvents[venue].Add(singer, totalMoney);
                     }
                 }
-                else
+                else // else add the venue and the venue dictionary
                 {
-                    srbskoEvents.Add(venue, new Dictionary<string, int> {{singer, totalMoney}});
+                    srbskoEvents.Add(venue, new Dictionary<string, int> { { singer, totalMoney } });
                 }
             }
 
             foreach (var srbskoEvent in srbskoEvents)
             {
                 Console.WriteLine(srbskoEvent.Key.Substring(1)); // prints the venue
-                foreach (var singer in srbskoEvent.Value.OrderByDescending(x=>x.Value))
+                foreach (var singer in srbskoEvent.Value.OrderByDescending(x => x.Value)) // sorts by total money
                 {
                     Console.WriteLine($"#  {singer.Key} -> {singer.Value}");
                 }
