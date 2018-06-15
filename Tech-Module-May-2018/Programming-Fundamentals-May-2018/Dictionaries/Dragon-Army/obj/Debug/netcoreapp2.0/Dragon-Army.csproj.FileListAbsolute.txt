@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Dragon-Army\bin\Debug\netcoreapp2.0\Dragon-Army.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Dragon-Army\bin\Debug\netcoreapp2.0\Dragon-Army.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Dragon-Army\bin\Debug\netcoreapp2.0\Dragon-Army.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Dragon-Army\bin\Debug\netcoreapp2.0\Dragon-Army.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Dragon-Army\bin\Debug\netcoreapp2.0\Dragon-Army.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Dragon-Army\obj\Debug\netcoreapp2.0\Dragon-Army.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Dragon-Army\obj\Debug\netcoreapp2.0\Dragon-Army.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Dragon-Army\obj\Debug\netcoreapp2.0\Dragon-Army.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Dragon-Army\obj\Debug\netcoreapp2.0\Dragon-Army.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Dragon-Army\obj\Debug\netcoreapp2.0\Dragon-Army.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Dictionaries\Dragon-Army\obj\Debug\netcoreapp2.0\Dragon-Army.pdb
