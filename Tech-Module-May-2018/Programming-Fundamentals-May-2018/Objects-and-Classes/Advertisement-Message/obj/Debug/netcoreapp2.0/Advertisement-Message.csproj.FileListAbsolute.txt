@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Advertisement-Message\bin\Debug\netcoreapp2.0\Advertisement-Message.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Advertisement-Message\bin\Debug\netcoreapp2.0\Advertisement-Message.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Advertisement-Message\bin\Debug\netcoreapp2.0\Advertisement-Message.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Advertisement-Message\bin\Debug\netcoreapp2.0\Advertisement-Message.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Advertisement-Message\bin\Debug\netcoreapp2.0\Advertisement-Message.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Advertisement-Message\obj\Debug\netcoreapp2.0\Advertisement-Message.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Advertisement-Message\obj\Debug\netcoreapp2.0\Advertisement-Message.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Advertisement-Message\obj\Debug\netcoreapp2.0\Advertisement-Message.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Advertisement-Message\obj\Debug\netcoreapp2.0\Advertisement-Message.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Advertisement-Message\obj\Debug\netcoreapp2.0\Advertisement-Message.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Advertisement-Message\obj\Debug\netcoreapp2.0\Advertisement-Message.pdb

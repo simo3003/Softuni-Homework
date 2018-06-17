@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Andrey-and-Billiard\bin\Debug\netcoreapp2.0\Andrey-and-Billiard.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Andrey-and-Billiard\bin\Debug\netcoreapp2.0\Andrey-and-Billiard.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Andrey-and-Billiard\bin\Debug\netcoreapp2.0\Andrey-and-Billiard.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Andrey-and-Billiard\bin\Debug\netcoreapp2.0\Andrey-and-Billiard.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Andrey-and-Billiard\bin\Debug\netcoreapp2.0\Andrey-and-Billiard.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Andrey-and-Billiard\obj\Debug\netcoreapp2.0\Andrey-and-Billiard.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Andrey-and-Billiard\obj\Debug\netcoreapp2.0\Andrey-and-Billiard.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Andrey-and-Billiard\obj\Debug\netcoreapp2.0\Andrey-and-Billiard.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Andrey-and-Billiard\obj\Debug\netcoreapp2.0\Andrey-and-Billiard.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Andrey-and-Billiard\obj\Debug\netcoreapp2.0\Andrey-and-Billiard.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Andrey-and-Billiard\obj\Debug\netcoreapp2.0\Andrey-and-Billiard.csprojAssemblyReference.cache

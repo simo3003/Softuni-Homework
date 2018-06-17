@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library\bin\Debug\netcoreapp2.0\Book-Library.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library\bin\Debug\netcoreapp2.0\Book-Library.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library\bin\Debug\netcoreapp2.0\Book-Library.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library\bin\Debug\netcoreapp2.0\Book-Library.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library\bin\Debug\netcoreapp2.0\Book-Library.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library\obj\Debug\netcoreapp2.0\Book-Library.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library\obj\Debug\netcoreapp2.0\Book-Library.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library\obj\Debug\netcoreapp2.0\Book-Library.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library\obj\Debug\netcoreapp2.0\Book-Library.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library\obj\Debug\netcoreapp2.0\Book-Library.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library\obj\Debug\netcoreapp2.0\Book-Library.pdb

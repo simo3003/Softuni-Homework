@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library-Modification\bin\Debug\netcoreapp2.0\Book-Library-Modification.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library-Modification\bin\Debug\netcoreapp2.0\Book-Library-Modification.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library-Modification\bin\Debug\netcoreapp2.0\Book-Library-Modification.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library-Modification\bin\Debug\netcoreapp2.0\Book-Library-Modification.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library-Modification\bin\Debug\netcoreapp2.0\Book-Library-Modification.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library-Modification\obj\Debug\netcoreapp2.0\Book-Library-Modification.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library-Modification\obj\Debug\netcoreapp2.0\Book-Library-Modification.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library-Modification\obj\Debug\netcoreapp2.0\Book-Library-Modification.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library-Modification\obj\Debug\netcoreapp2.0\Book-Library-Modification.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library-Modification\obj\Debug\netcoreapp2.0\Book-Library-Modification.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Book-Library-Modification\obj\Debug\netcoreapp2.0\Book-Library-Modification.pdb

@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Average-Grades\bin\Debug\netcoreapp2.0\Average-Grades.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Average-Grades\bin\Debug\netcoreapp2.0\Average-Grades.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Average-Grades\bin\Debug\netcoreapp2.0\Average-Grades.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Average-Grades\bin\Debug\netcoreapp2.0\Average-Grades.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Average-Grades\bin\Debug\netcoreapp2.0\Average-Grades.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Average-Grades\obj\Debug\netcoreapp2.0\Average-Grades.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Average-Grades\obj\Debug\netcoreapp2.0\Average-Grades.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Average-Grades\obj\Debug\netcoreapp2.0\Average-Grades.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Average-Grades\obj\Debug\netcoreapp2.0\Average-Grades.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Average-Grades\obj\Debug\netcoreapp2.0\Average-Grades.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Average-Grades\obj\Debug\netcoreapp2.0\Average-Grades.pdb
