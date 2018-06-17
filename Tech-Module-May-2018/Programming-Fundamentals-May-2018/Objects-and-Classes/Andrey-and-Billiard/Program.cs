@@ -10,7 +10,7 @@ namespace Andrey_and_Billiard
         {
             int productAmount = int.Parse(Console.ReadLine());
             Dictionary<string, decimal> products = new Dictionary<string, decimal>();
-            List<Customer> customers = new List<Customer>();
+            Dictionary<string, Customer> customers = new Dictionary<string, Customer>();
             List<string> input = new List<string>();
             for (int i = 1; i <= productAmount; i++)
             {
@@ -42,38 +42,44 @@ namespace Andrey_and_Billiard
                 }
                 decimal customerProductsAmount = decimal.Parse(input[2]);
                 Customer currentCustomer = new Customer(); // create a new customer
-                currentCustomer.Name = customerName; // name prop
-                if (currentCustomer.ShoppingList.ContainsKey(customerProduct))
+                if (customers.ContainsKey(customerName))
                 {
-                    currentCustomer.ShoppingList[customerProduct] += customerProductsAmount;
+                    if (customers[customerName].ShoppingList.ContainsKey(customerProduct))
+                    {
+                        customers[customerName].ShoppingList[customerProduct] += customerProductsAmount;
+                        customers[customerName].Bill += products[customerProduct] * customerProductsAmount;
+                    }
+                    else
+                    {
+                        customers[customerName].ShoppingList.Add(customerProduct, customerProductsAmount);
+                        customers[customerName].Bill += products[customerProduct] * customerProductsAmount;  // calculate the bill (find the product in the product dict and multiplies it by the amount);
+                    }
                 }
                 else
                 {
-                    currentCustomer.ShoppingList.Add(customerProduct, customerProductsAmount);  // add the current product and amount to the shoppinglist
+                    currentCustomer.ShoppingList.Add(customerProduct, customerProductsAmount);
+                    currentCustomer.Bill += products[customerProduct] * customerProductsAmount;
+                    customers.Add(customerName, currentCustomer);
                 }
-                currentCustomer.Bill += products[customerProduct] * customerProductsAmount; // calculate the bill (find the product in the product dict and multiplies it by the amount);
-                customers.Add(currentCustomer);
             }
 
-            foreach (var customer in customers.OrderBy(x => x.Name))
+            foreach (var customer in customers.OrderBy(x => x.Key))
             {
-                Console.WriteLine(customer.Name);
-                foreach (var product in customer.ShoppingList)
+                Console.WriteLine(customer.Key);
+                foreach (var product in customer.Value.ShoppingList)
                 {
                     Console.WriteLine($"-- {product.Key} - {product.Value}");
                 }
-                Console.WriteLine($"Bill: {customer.Bill:f2}");
+                Console.WriteLine($"Bill: {customer.Value.Bill:f2}");
             }
 
-            Console.WriteLine($"Total bill: {customers.Select(x => x.Bill).Sum():f2}");
+            Console.WriteLine($"Total bill: {customers.Select(x => x.Value.Bill).Sum():f2}");
         }
     }
     class Customer
     {
-        public string Name { get; set; }
         public Dictionary<string, decimal> ShoppingList { get; set; }
         public decimal Bill { get; set; }
-
         public Customer()
         {
             ShoppingList = new Dictionary<string, decimal>();
