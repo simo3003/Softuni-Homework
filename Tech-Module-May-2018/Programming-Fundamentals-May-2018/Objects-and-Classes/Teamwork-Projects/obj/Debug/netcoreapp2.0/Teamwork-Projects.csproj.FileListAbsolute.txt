@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Teamwork-Projects\bin\Debug\netcoreapp2.0\Teamwork-Projects.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Teamwork-Projects\bin\Debug\netcoreapp2.0\Teamwork-Projects.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Teamwork-Projects\bin\Debug\netcoreapp2.0\Teamwork-Projects.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Teamwork-Projects\bin\Debug\netcoreapp2.0\Teamwork-Projects.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Teamwork-Projects\bin\Debug\netcoreapp2.0\Teamwork-Projects.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Teamwork-Projects\obj\Debug\netcoreapp2.0\Teamwork-Projects.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Teamwork-Projects\obj\Debug\netcoreapp2.0\Teamwork-Projects.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Teamwork-Projects\obj\Debug\netcoreapp2.0\Teamwork-Projects.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Teamwork-Projects\obj\Debug\netcoreapp2.0\Teamwork-Projects.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Teamwork-Projects\obj\Debug\netcoreapp2.0\Teamwork-Projects.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Objects-and-Classes\Teamwork-Projects\obj\Debug\netcoreapp2.0\Teamwork-Projects.pdb

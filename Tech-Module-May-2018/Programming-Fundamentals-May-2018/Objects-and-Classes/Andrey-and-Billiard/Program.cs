@@ -62,7 +62,6 @@ namespace Andrey_and_Billiard
                     customers.Add(customerName, currentCustomer);
                 }
             }
-
             foreach (var customer in customers.OrderBy(x => x.Key))
             {
                 Console.WriteLine(customer.Key);
@@ -72,7 +71,6 @@ namespace Andrey_and_Billiard
                 }
                 Console.WriteLine($"Bill: {customer.Value.Bill:f2}");
             }
-
             Console.WriteLine($"Total bill: {customers.Select(x => x.Value.Bill).Sum():f2}");
         }
     }
