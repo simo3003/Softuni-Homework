@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Magic-Exchangeable-Words\bin\Debug\netcoreapp2.0\Magic-Exchangeable-Words.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Magic-Exchangeable-Words\bin\Debug\netcoreapp2.0\Magic-Exchangeable-Words.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Magic-Exchangeable-Words\bin\Debug\netcoreapp2.0\Magic-Exchangeable-Words.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Magic-Exchangeable-Words\bin\Debug\netcoreapp2.0\Magic-Exchangeable-Words.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Magic-Exchangeable-Words\bin\Debug\netcoreapp2.0\Magic-Exchangeable-Words.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Magic-Exchangeable-Words\obj\Debug\netcoreapp2.0\Magic-Exchangeable-Words.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Magic-Exchangeable-Words\obj\Debug\netcoreapp2.0\Magic-Exchangeable-Words.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Magic-Exchangeable-Words\obj\Debug\netcoreapp2.0\Magic-Exchangeable-Words.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Magic-Exchangeable-Words\obj\Debug\netcoreapp2.0\Magic-Exchangeable-Words.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Magic-Exchangeable-Words\obj\Debug\netcoreapp2.0\Magic-Exchangeable-Words.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Magic-Exchangeable-Words\obj\Debug\netcoreapp2.0\Magic-Exchangeable-Words.pdb

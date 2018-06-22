@@ -1,0 +1,10 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Key-Replacer\bin\Debug\netcoreapp2.0\Key-Replacer.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Key-Replacer\bin\Debug\netcoreapp2.0\Key-Replacer.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Key-Replacer\bin\Debug\netcoreapp2.0\Key-Replacer.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Key-Replacer\bin\Debug\netcoreapp2.0\Key-Replacer.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Key-Replacer\bin\Debug\netcoreapp2.0\Key-Replacer.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Key-Replacer\obj\Debug\netcoreapp2.0\Key-Replacer.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Key-Replacer\obj\Debug\netcoreapp2.0\Key-Replacer.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Key-Replacer\obj\Debug\netcoreapp2.0\Key-Replacer.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Key-Replacer\obj\Debug\netcoreapp2.0\Key-Replacer.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Key-Replacer\obj\Debug\netcoreapp2.0\Key-Replacer.pdb

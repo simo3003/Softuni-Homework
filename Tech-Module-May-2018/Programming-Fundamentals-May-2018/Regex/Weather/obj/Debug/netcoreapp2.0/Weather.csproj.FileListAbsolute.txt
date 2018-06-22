@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Weather\bin\Debug\netcoreapp2.0\Weather.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Weather\bin\Debug\netcoreapp2.0\Weather.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Weather\bin\Debug\netcoreapp2.0\Weather.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Weather\bin\Debug\netcoreapp2.0\Weather.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Weather\bin\Debug\netcoreapp2.0\Weather.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Weather\obj\Debug\netcoreapp2.0\Weather.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Weather\obj\Debug\netcoreapp2.0\Weather.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Weather\obj\Debug\netcoreapp2.0\Weather.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Weather\obj\Debug\netcoreapp2.0\Weather.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Weather\obj\Debug\netcoreapp2.0\Weather.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Weather\obj\Debug\netcoreapp2.0\Weather.pdb

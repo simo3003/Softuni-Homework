@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Valid-Usernames\bin\Debug\netcoreapp2.0\Valid-Usernames.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Valid-Usernames\bin\Debug\netcoreapp2.0\Valid-Usernames.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Valid-Usernames\bin\Debug\netcoreapp2.0\Valid-Usernames.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Valid-Usernames\bin\Debug\netcoreapp2.0\Valid-Usernames.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Valid-Usernames\bin\Debug\netcoreapp2.0\Valid-Usernames.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Valid-Usernames\obj\Debug\netcoreapp2.0\Valid-Usernames.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Valid-Usernames\obj\Debug\netcoreapp2.0\Valid-Usernames.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Valid-Usernames\obj\Debug\netcoreapp2.0\Valid-Usernames.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Valid-Usernames\obj\Debug\netcoreapp2.0\Valid-Usernames.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Valid-Usernames\obj\Debug\netcoreapp2.0\Valid-Usernames.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Valid-Usernames\obj\Debug\netcoreapp2.0\Valid-Usernames.pdb

@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Character-Multiplier\bin\Debug\netcoreapp2.0\Character-Multiplier.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Character-Multiplier\bin\Debug\netcoreapp2.0\Character-Multiplier.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Character-Multiplier\bin\Debug\netcoreapp2.0\Character-Multiplier.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Character-Multiplier\bin\Debug\netcoreapp2.0\Character-Multiplier.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Character-Multiplier\bin\Debug\netcoreapp2.0\Character-Multiplier.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Character-Multiplier\obj\Debug\netcoreapp2.0\Character-Multiplier.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Character-Multiplier\obj\Debug\netcoreapp2.0\Character-Multiplier.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Character-Multiplier\obj\Debug\netcoreapp2.0\Character-Multiplier.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Character-Multiplier\obj\Debug\netcoreapp2.0\Character-Multiplier.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Character-Multiplier\obj\Debug\netcoreapp2.0\Character-Multiplier.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Character-Multiplier\obj\Debug\netcoreapp2.0\Character-Multiplier.pdb

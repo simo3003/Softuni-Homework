@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Extract-Sentences-by-Keyword\bin\Debug\netcoreapp2.0\Extract-Sentences-by-Keyword.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Extract-Sentences-by-Keyword\bin\Debug\netcoreapp2.0\Extract-Sentences-by-Keyword.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Extract-Sentences-by-Keyword\bin\Debug\netcoreapp2.0\Extract-Sentences-by-Keyword.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Extract-Sentences-by-Keyword\bin\Debug\netcoreapp2.0\Extract-Sentences-by-Keyword.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Extract-Sentences-by-Keyword\bin\Debug\netcoreapp2.0\Extract-Sentences-by-Keyword.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Extract-Sentences-by-Keyword\obj\Debug\netcoreapp2.0\Extract-Sentences-by-Keyword.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Extract-Sentences-by-Keyword\obj\Debug\netcoreapp2.0\Extract-Sentences-by-Keyword.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Extract-Sentences-by-Keyword\obj\Debug\netcoreapp2.0\Extract-Sentences-by-Keyword.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Extract-Sentences-by-Keyword\obj\Debug\netcoreapp2.0\Extract-Sentences-by-Keyword.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Extract-Sentences-by-Keyword\obj\Debug\netcoreapp2.0\Extract-Sentences-by-Keyword.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Extract-Sentences-by-Keyword\obj\Debug\netcoreapp2.0\Extract-Sentences-by-Keyword.pdb

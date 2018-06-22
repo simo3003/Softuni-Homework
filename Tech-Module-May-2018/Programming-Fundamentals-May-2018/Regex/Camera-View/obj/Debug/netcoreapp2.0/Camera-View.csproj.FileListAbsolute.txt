@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Camera-View\obj\Debug\netcoreapp2.0\Camera-View.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Camera-View\obj\Debug\netcoreapp2.0\Camera-View.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Camera-View\obj\Debug\netcoreapp2.0\Camera-View.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Camera-View\obj\Debug\netcoreapp2.0\Camera-View.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Camera-View\bin\Debug\netcoreapp2.0\Camera-View.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Camera-View\bin\Debug\netcoreapp2.0\Camera-View.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Camera-View\bin\Debug\netcoreapp2.0\Camera-View.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Camera-View\bin\Debug\netcoreapp2.0\Camera-View.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Camera-View\bin\Debug\netcoreapp2.0\Camera-View.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Camera-View\obj\Debug\netcoreapp2.0\Camera-View.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Regex\Camera-View\obj\Debug\netcoreapp2.0\Camera-View.pdb

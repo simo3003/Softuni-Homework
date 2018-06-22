@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Convert-from-base-10-to-base-N\bin\Debug\netcoreapp2.0\Convert-from-base-10-to-base-N.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Convert-from-base-10-to-base-N\bin\Debug\netcoreapp2.0\Convert-from-base-10-to-base-N.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Convert-from-base-10-to-base-N\bin\Debug\netcoreapp2.0\Convert-from-base-10-to-base-N.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Convert-from-base-10-to-base-N\bin\Debug\netcoreapp2.0\Convert-from-base-10-to-base-N.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Convert-from-base-10-to-base-N\bin\Debug\netcoreapp2.0\Convert-from-base-10-to-base-N.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Convert-from-base-10-to-base-N\obj\Debug\netcoreapp2.0\Convert-from-base-10-to-base-N.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Convert-from-base-10-to-base-N\obj\Debug\netcoreapp2.0\Convert-from-base-10-to-base-N.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Convert-from-base-10-to-base-N\obj\Debug\netcoreapp2.0\Convert-from-base-10-to-base-N.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Convert-from-base-10-to-base-N\obj\Debug\netcoreapp2.0\Convert-from-base-10-to-base-N.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Convert-from-base-10-to-base-N\obj\Debug\netcoreapp2.0\Convert-from-base-10-to-base-N.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Convert-from-base-10-to-base-N\obj\Debug\netcoreapp2.0\Convert-from-base-10-to-base-N.pdb

@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Unicode-Characters\bin\Debug\netcoreapp2.0\Unicode-Characters.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Unicode-Characters\bin\Debug\netcoreapp2.0\Unicode-Characters.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Unicode-Characters\bin\Debug\netcoreapp2.0\Unicode-Characters.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Unicode-Characters\bin\Debug\netcoreapp2.0\Unicode-Characters.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Unicode-Characters\bin\Debug\netcoreapp2.0\Unicode-Characters.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Unicode-Characters\obj\Debug\netcoreapp2.0\Unicode-Characters.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Unicode-Characters\obj\Debug\netcoreapp2.0\Unicode-Characters.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Unicode-Characters\obj\Debug\netcoreapp2.0\Unicode-Characters.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Unicode-Characters\obj\Debug\netcoreapp2.0\Unicode-Characters.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Unicode-Characters\obj\Debug\netcoreapp2.0\Unicode-Characters.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Strings-and-Text-Processing\Unicode-Characters\obj\Debug\netcoreapp2.0\Unicode-Characters.pdb
