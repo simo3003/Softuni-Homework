@@ -1,0 +1,11 @@
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/ForceBook/bin/Debug/netcoreapp2.1/ForceBook.deps.json
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/ForceBook/bin/Debug/netcoreapp2.1/ForceBook.runtimeconfig.json
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/ForceBook/bin/Debug/netcoreapp2.1/ForceBook.runtimeconfig.dev.json
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/ForceBook/bin/Debug/netcoreapp2.1/ForceBook.dll
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/ForceBook/bin/Debug/netcoreapp2.1/ForceBook.pdb
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/ForceBook/obj/Debug/netcoreapp2.1/ForceBook.csprojAssemblyReference.cache
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/ForceBook/obj/Debug/netcoreapp2.1/ForceBook.csproj.CoreCompileInputs.cache
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/ForceBook/obj/Debug/netcoreapp2.1/ForceBook.AssemblyInfoInputs.cache
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/ForceBook/obj/Debug/netcoreapp2.1/ForceBook.AssemblyInfo.cs
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/ForceBook/obj/Debug/netcoreapp2.1/ForceBook.dll
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/ForceBook/obj/Debug/netcoreapp2.1/ForceBook.pdb

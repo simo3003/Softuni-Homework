@@ -3,6 +3,18 @@
   <component name="ContentModelStore">
     <e p="$USER_HOME$/.Rider2018.1/system/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_March-4th-2018.-272919587.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="ForceBook" t="IncludeRecursive">
+        <e p="ForceBook.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="ForceBook.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="Kamino-Factory" t="IncludeRecursive">
         <e p="Kamino-Factory.csproj" t="IncludeRecursive" />
         <e p="Program.cs" t="Include" />
@@ -24,6 +36,18 @@
           <e p="Debug" t="Include">
             <e p="netcoreapp2.1" t="Include">
               <e p="Padawan-Equipment.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Star-Enigma" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
+        <e p="Star-Enigma.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Star-Enigma.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>

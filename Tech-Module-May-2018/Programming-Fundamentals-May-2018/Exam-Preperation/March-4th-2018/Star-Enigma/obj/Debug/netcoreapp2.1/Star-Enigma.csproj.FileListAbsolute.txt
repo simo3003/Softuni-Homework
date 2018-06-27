@@ -1,0 +1,11 @@
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Star-Enigma/obj/Debug/netcoreapp2.1/Star-Enigma.csprojAssemblyReference.cache
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Star-Enigma/obj/Debug/netcoreapp2.1/Star-Enigma.csproj.CoreCompileInputs.cache
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Star-Enigma/obj/Debug/netcoreapp2.1/Star-Enigma.AssemblyInfoInputs.cache
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Star-Enigma/obj/Debug/netcoreapp2.1/Star-Enigma.AssemblyInfo.cs
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Star-Enigma/bin/Debug/netcoreapp2.1/Star-Enigma.deps.json
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Star-Enigma/bin/Debug/netcoreapp2.1/Star-Enigma.runtimeconfig.json
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Star-Enigma/bin/Debug/netcoreapp2.1/Star-Enigma.runtimeconfig.dev.json
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Star-Enigma/bin/Debug/netcoreapp2.1/Star-Enigma.dll
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Star-Enigma/bin/Debug/netcoreapp2.1/Star-Enigma.pdb
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Star-Enigma/obj/Debug/netcoreapp2.1/Star-Enigma.dll
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Star-Enigma/obj/Debug/netcoreapp2.1/Star-Enigma.pdb

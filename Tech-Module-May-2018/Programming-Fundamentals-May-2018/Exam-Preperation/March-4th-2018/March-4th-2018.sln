@@ -1,8 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+#
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Padawan-Equipment", "Padawan-Equipment\Padawan-Equipment.csproj", "{BB0DF71E-2DC8-4B27-A336-5F07FD430F51}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kamino-Factory", "Kamino-Factory\Kamino-Factory.csproj", "{BDF2069B-8B82-4636-A952-374633743469}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star-Enigma", "Star-Enigma\Star-Enigma.csproj", "{C4A7694D-3232-45EB-99C4-43EDEC70BC79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForceBook", "ForceBook\ForceBook.csproj", "{18BE7722-70E0-40BE-BA65-2CD4F0293E9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +23,13 @@ Global
 		{BDF2069B-8B82-4636-A952-374633743469}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDF2069B-8B82-4636-A952-374633743469}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDF2069B-8B82-4636-A952-374633743469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4A7694D-3232-45EB-99C4-43EDEC70BC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A7694D-3232-45EB-99C4-43EDEC70BC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A7694D-3232-45EB-99C4-43EDEC70BC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A7694D-3232-45EB-99C4-43EDEC70BC79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18BE7722-70E0-40BE-BA65-2CD4F0293E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18BE7722-70E0-40BE-BA65-2CD4F0293E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18BE7722-70E0-40BE-BA65-2CD4F0293E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18BE7722-70E0-40BE-BA65-2CD4F0293E9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -6,6 +6,9 @@
     "projectPath": "/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Padawan-Equipment/Padawan-Equipment.csproj",
     "outputPath": "/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Padawan-Equipment/obj/",
     "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/opt/dotnet/sdk/NuGetFallbackFolder"
+    ],
     "originalTargetFrameworks": [
       "netcoreapp2.1"
     ],
