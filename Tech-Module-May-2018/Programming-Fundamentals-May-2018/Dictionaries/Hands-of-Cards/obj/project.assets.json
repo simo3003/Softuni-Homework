@@ -664,30 +664,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Simo Aleksandrov\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/simo/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Softuni-Homework\\Tech-Module-May-2018\\Programming-Fundamentals-May-2018\\Dictionaries\\Hands-of-Cards\\Hands-of-Cards.csproj",
+      "projectUniqueName": "/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Dictionaries/Hands-of-Cards/Hands-of-Cards.csproj",
       "projectName": "Hands-of-Cards",
-      "projectPath": "D:\\Projects\\Softuni-Homework\\Tech-Module-May-2018\\Programming-Fundamentals-May-2018\\Dictionaries\\Hands-of-Cards\\Hands-of-Cards.csproj",
-      "packagesPath": "C:\\Users\\Simo Aleksandrov\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Softuni-Homework\\Tech-Module-May-2018\\Programming-Fundamentals-May-2018\\Dictionaries\\Hands-of-Cards\\obj\\",
+      "projectPath": "/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Dictionaries/Hands-of-Cards/Hands-of-Cards.csproj",
+      "packagesPath": "/home/simo/.nuget/packages/",
+      "outputPath": "/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Dictionaries/Hands-of-Cards/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Simo Aleksandrov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/simo/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -705,6 +699,7 @@
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true

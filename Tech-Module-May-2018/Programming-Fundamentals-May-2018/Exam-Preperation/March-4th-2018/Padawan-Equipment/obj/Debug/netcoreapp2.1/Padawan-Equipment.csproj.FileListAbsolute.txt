@@ -1,0 +1,11 @@
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Padawan-Equipment/bin/Debug/netcoreapp2.1/Padawan-Equipment.deps.json
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Padawan-Equipment/bin/Debug/netcoreapp2.1/Padawan-Equipment.runtimeconfig.json
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Padawan-Equipment/bin/Debug/netcoreapp2.1/Padawan-Equipment.runtimeconfig.dev.json
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Padawan-Equipment/bin/Debug/netcoreapp2.1/Padawan-Equipment.dll
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Padawan-Equipment/bin/Debug/netcoreapp2.1/Padawan-Equipment.pdb
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Padawan-Equipment/obj/Debug/netcoreapp2.1/Padawan-Equipment.csprojAssemblyReference.cache
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Padawan-Equipment/obj/Debug/netcoreapp2.1/Padawan-Equipment.csproj.CoreCompileInputs.cache
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Padawan-Equipment/obj/Debug/netcoreapp2.1/Padawan-Equipment.AssemblyInfoInputs.cache
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Padawan-Equipment/obj/Debug/netcoreapp2.1/Padawan-Equipment.AssemblyInfo.cs
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Padawan-Equipment/obj/Debug/netcoreapp2.1/Padawan-Equipment.dll
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Padawan-Equipment/obj/Debug/netcoreapp2.1/Padawan-Equipment.pdb

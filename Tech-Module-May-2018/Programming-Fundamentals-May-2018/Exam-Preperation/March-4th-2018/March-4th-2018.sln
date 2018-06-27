@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Padawan-Equipment", "Padawan-Equipment\Padawan-Equipment.csproj", "{BB0DF71E-2DC8-4B27-A336-5F07FD430F51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kamino-Factory", "Kamino-Factory\Kamino-Factory.csproj", "{BDF2069B-8B82-4636-A952-374633743469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB0DF71E-2DC8-4B27-A336-5F07FD430F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0DF71E-2DC8-4B27-A336-5F07FD430F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0DF71E-2DC8-4B27-A336-5F07FD430F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0DF71E-2DC8-4B27-A336-5F07FD430F51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDF2069B-8B82-4636-A952-374633743469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF2069B-8B82-4636-A952-374633743469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF2069B-8B82-4636-A952-374633743469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF2069B-8B82-4636-A952-374633743469}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82097185-5760-4bc6-9be8-6c5c87a520f5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/A-Miner-Task/obj/A-Miner-Task.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/A-Miner-Task/obj/A-Miner-Task.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/A-Miner-Task/obj/A-Miner-Task.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/A-Miner-Task/obj/A-Miner-Task.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/A-Miner-Task/obj/A-Miner-Task.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/A-Miner-Task/obj/A-Miner-Task.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/A-Miner-Task/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/A-Miner-Task/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Dragon-Army/obj/Dragon-Army.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Dragon-Army/obj/Dragon-Army.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Dragon-Army/obj/Dragon-Army.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Dragon-Army/obj/Dragon-Army.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Dragon-Army/obj/Dragon-Army.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Dragon-Army/obj/Dragon-Army.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Dragon-Army/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Dragon-Army/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Fix-Emails/obj/Fix-Emails.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Fix-Emails/obj/Fix-Emails.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Fix-Emails/obj/Fix-Emails.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Fix-Emails/obj/Fix-Emails.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Fix-Emails/obj/Fix-Emails.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Fix-Emails/obj/Fix-Emails.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Fix-Emails/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Fix-Emails/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Hands-of-Cards/obj/Hands-of-Cards.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Hands-of-Cards/obj/Hands-of-Cards.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Hands-of-Cards/obj/Hands-of-Cards.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Hands-of-Cards/obj/Hands-of-Cards.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Hands-of-Cards/obj/Hands-of-Cards.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Hands-of-Cards/obj/Hands-of-Cards.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Hands-of-Cards/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Hands-of-Cards/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Legendary-Farming/obj/Legendary-Farming.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Legendary-Farming/obj/Legendary-Farming.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Legendary-Farming/obj/Legendary-Farming.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Legendary-Farming/obj/Legendary-Farming.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Legendary-Farming/obj/Legendary-Farming.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Legendary-Farming/obj/Legendary-Farming.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Legendary-Farming/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Legendary-Farming/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Logs-Aggregator/obj/Logs-Aggregator.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Logs-Aggregator/obj/Logs-Aggregator.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Logs-Aggregator/obj/Logs-Aggregator.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Logs-Aggregator/obj/Logs-Aggregator.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Logs-Aggregator/obj/Logs-Aggregator.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Logs-Aggregator/obj/Logs-Aggregator.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Logs-Aggregator/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Logs-Aggregator/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Phonebook-Upgrade/obj/Phonebook-Upgrade.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Phonebook-Upgrade/obj/Phonebook-Upgrade.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Phonebook-Upgrade/obj/Phonebook-Upgrade.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Phonebook-Upgrade/obj/Phonebook-Upgrade.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Phonebook-Upgrade/obj/Phonebook-Upgrade.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Phonebook-Upgrade/obj/Phonebook-Upgrade.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Phonebook-Upgrade/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Phonebook-Upgrade/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Phonebook/obj/Phonebook.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Phonebook/obj/Phonebook.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Phonebook/obj/Phonebook.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Phonebook/obj/Phonebook.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Phonebook/obj/Phonebook.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Phonebook/obj/Phonebook.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Phonebook/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Phonebook/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Population-Counter/obj/Population-Counter.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Population-Counter/obj/Population-Counter.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Population-Counter/obj/Population-Counter.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Population-Counter/obj/Population-Counter.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Population-Counter/obj/Population-Counter.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Population-Counter/obj/Population-Counter.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Population-Counter/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Population-Counter/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Srbsko-Unleashed/obj/Srbsko-Unleashed.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Srbsko-Unleashed/obj/Srbsko-Unleashed.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Srbsko-Unleashed/obj/Srbsko-Unleashed.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Srbsko-Unleashed/obj/Srbsko-Unleashed.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Srbsko-Unleashed/obj/Srbsko-Unleashed.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Srbsko-Unleashed/obj/Srbsko-Unleashed.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/Srbsko-Unleashed/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/Srbsko-Unleashed/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/User-Logs/obj/User-Logs.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/User-Logs/obj/User-Logs.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/User-Logs/obj/User-Logs.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/User-Logs/obj/User-Logs.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/User-Logs/obj/User-Logs.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/User-Logs/obj/User-Logs.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Dictionaries/User-Logs/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Dictionaries/User-Logs/obj/project.assets.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Kamino-Factory/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="53" column="44" lean-forward="true" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+              <folding>
+                <marker date="1530101236980" expanded="false" signature="6:47" ph="..." />
+                <marker date="1530101236980" expanded="true" signature="92:2983" ph="{...}" />
+                <marker date="1530101236980" expanded="true" signature="112:2981" ph="{...}" />
+                <marker date="1530101236980" expanded="true" signature="158:2975" ph="{...}" />
+                <marker date="1530101236980" expanded="true" signature="429:672" ph="{...}" />
+                <marker date="1530101236980" expanded="true" signature="923:2787" ph="{...}" />
+                <marker date="1530101236980" expanded="false" signature="1376:1918" ph="{...}" />
+                <marker date="1530101236980" expanded="true" signature="1440:1525" ph="{...}" />
+                <marker date="1530101236980" expanded="true" signature="1550:1681" ph="{...}" />
+                <marker date="1530101236980" expanded="true" signature="1740:1900" ph="{...}" />
+                <marker date="1530101236980" expanded="true" signature="1946:2191" ph="{...}" />
+                <marker date="1530101236980" expanded="true" signature="2268:2773" ph="{...}" />
+                <marker date="1530101236980" expanded="true" signature="2366:2755" ph="{...}" />
+                <marker date="1530101236980" expanded="true" signature="2459:2733" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Padawan-Equipment/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Kamino-Factory/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Padawan-Equipment/Program.cs" />
+        <option value="$PROJECT_DIR$/Kamino-Factory/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
+    <option name="width" value="1272" />
+    <option name="height" value="686" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="March-4th-2018 (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="March-4th-2018 (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Kamino-Factory" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Kamino-Factory/bin/Debug/netcoreapp2.1/Kamino-Factory.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kamino-Factory" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Kamino-Factory/Kamino-Factory.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
+      <method>
+        <option name="Build" enabled="false" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82097185-5760-4bc6-9be8-6c5c87a520f5" name="Default" comment="" />
+      <created>1530038269629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530038269629</updated>
+      <workItem from="1530038271684" duration="347000" />
+      <workItem from="1530095343318" duration="697000" />
+      <workItem from="1530096080255" duration="1213000" />
+      <workItem from="1530097789402" duration="3909000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6166000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="0" width="1272" height="686" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32890365" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32977587" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5361011" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1680261" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32890365" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Padawan-Equipment/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+          <folding>
+            <marker date="1530096789574" expanded="false" signature="6:31" ph="..." />
+            <marker date="1530096789574" expanded="true" signature="60:915" ph="{...}" />
+            <marker date="1530096789574" expanded="true" signature="80:913" ph="{...}" />
+            <marker date="1530096789574" expanded="true" signature="126:907" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kamino-Factory/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <marker date="1530101236980" expanded="false" signature="6:47" ph="..." />
+            <marker date="1530101236980" expanded="true" signature="92:2983" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="112:2981" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="158:2975" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="429:672" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="923:2787" ph="{...}" />
+            <marker date="1530101236980" expanded="false" signature="1376:1918" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="1440:1525" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="1550:1681" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="1740:1900" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="1946:2191" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="2268:2773" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="2366:2755" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="2459:2733" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Padawan-Equipment/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1530096789574" expanded="false" signature="6:31" ph="..." />
+            <marker date="1530096789574" expanded="true" signature="60:915" ph="{...}" />
+            <marker date="1530096789574" expanded="true" signature="80:913" ph="{...}" />
+            <marker date="1530096789574" expanded="true" signature="126:907" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Padawan-Equipment/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1530096789574" expanded="false" signature="6:31" ph="..." />
+            <marker date="1530096789574" expanded="true" signature="60:915" ph="{...}" />
+            <marker date="1530096789574" expanded="true" signature="80:913" ph="{...}" />
+            <marker date="1530096789574" expanded="true" signature="126:907" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Padawan-Equipment/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+          <folding>
+            <marker date="1530096789574" expanded="false" signature="6:31" ph="..." />
+            <marker date="1530096789574" expanded="true" signature="60:915" ph="{...}" />
+            <marker date="1530096789574" expanded="true" signature="80:913" ph="{...}" />
+            <marker date="1530096789574" expanded="true" signature="126:907" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kamino-Factory/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="53" column="44" lean-forward="true" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
+          <folding>
+            <marker date="1530101236980" expanded="false" signature="6:47" ph="..." />
+            <marker date="1530101236980" expanded="true" signature="92:2983" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="112:2981" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="158:2975" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="429:672" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="923:2787" ph="{...}" />
+            <marker date="1530101236980" expanded="false" signature="1376:1918" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="1440:1525" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="1550:1681" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="1740:1900" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="1946:2191" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="2268:2773" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="2366:2755" ph="{...}" />
+            <marker date="1530101236980" expanded="true" signature="2459:2733" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

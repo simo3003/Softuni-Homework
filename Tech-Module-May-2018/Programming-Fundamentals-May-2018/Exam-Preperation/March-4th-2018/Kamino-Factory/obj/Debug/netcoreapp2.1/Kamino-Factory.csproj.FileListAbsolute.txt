@@ -1,0 +1,11 @@
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Kamino-Factory/bin/Debug/netcoreapp2.1/Kamino-Factory.deps.json
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Kamino-Factory/bin/Debug/netcoreapp2.1/Kamino-Factory.runtimeconfig.json
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Kamino-Factory/bin/Debug/netcoreapp2.1/Kamino-Factory.runtimeconfig.dev.json
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Kamino-Factory/bin/Debug/netcoreapp2.1/Kamino-Factory.dll
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Kamino-Factory/bin/Debug/netcoreapp2.1/Kamino-Factory.pdb
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Kamino-Factory/obj/Debug/netcoreapp2.1/Kamino-Factory.csprojAssemblyReference.cache
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Kamino-Factory/obj/Debug/netcoreapp2.1/Kamino-Factory.csproj.CoreCompileInputs.cache
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Kamino-Factory/obj/Debug/netcoreapp2.1/Kamino-Factory.AssemblyInfoInputs.cache
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Kamino-Factory/obj/Debug/netcoreapp2.1/Kamino-Factory.AssemblyInfo.cs
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Kamino-Factory/obj/Debug/netcoreapp2.1/Kamino-Factory.dll
+/home/simo/Projects/Softuni-Homework/Tech-Module-May-2018/Programming-Fundamentals-May-2018/Exam-Preperation/March-4th-2018/Kamino-Factory/obj/Debug/netcoreapp2.1/Kamino-Factory.pdb
