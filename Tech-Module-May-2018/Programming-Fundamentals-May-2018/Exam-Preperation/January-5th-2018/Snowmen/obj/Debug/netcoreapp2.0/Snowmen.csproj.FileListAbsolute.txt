@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowmen\bin\Debug\netcoreapp2.0\Snowmen.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowmen\bin\Debug\netcoreapp2.0\Snowmen.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowmen\bin\Debug\netcoreapp2.0\Snowmen.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowmen\bin\Debug\netcoreapp2.0\Snowmen.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowmen\bin\Debug\netcoreapp2.0\Snowmen.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowmen\obj\Debug\netcoreapp2.0\Snowmen.pdb

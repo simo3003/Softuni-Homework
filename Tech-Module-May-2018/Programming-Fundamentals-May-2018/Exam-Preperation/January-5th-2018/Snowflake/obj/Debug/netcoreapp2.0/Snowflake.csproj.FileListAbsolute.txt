@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowflake\bin\Debug\netcoreapp2.0\Snowflake.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowflake\bin\Debug\netcoreapp2.0\Snowflake.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowflake\bin\Debug\netcoreapp2.0\Snowflake.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowflake\bin\Debug\netcoreapp2.0\Snowflake.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowflake\bin\Debug\netcoreapp2.0\Snowflake.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowflake\obj\Debug\netcoreapp2.0\Snowflake.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowflake\obj\Debug\netcoreapp2.0\Snowflake.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowflake\obj\Debug\netcoreapp2.0\Snowflake.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowflake\obj\Debug\netcoreapp2.0\Snowflake.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowflake\obj\Debug\netcoreapp2.0\Snowflake.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\January-5th-2018\Snowflake\obj\Debug\netcoreapp2.0\Snowflake.pdb
