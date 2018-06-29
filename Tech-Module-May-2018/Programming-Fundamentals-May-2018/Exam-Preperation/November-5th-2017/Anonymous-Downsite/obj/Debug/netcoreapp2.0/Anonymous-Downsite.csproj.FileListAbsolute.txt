@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Downsite\bin\Debug\netcoreapp2.0\Anonymous-Downsite.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Downsite\bin\Debug\netcoreapp2.0\Anonymous-Downsite.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Downsite\bin\Debug\netcoreapp2.0\Anonymous-Downsite.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Downsite\bin\Debug\netcoreapp2.0\Anonymous-Downsite.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Downsite\bin\Debug\netcoreapp2.0\Anonymous-Downsite.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Downsite\obj\Debug\netcoreapp2.0\Anonymous-Downsite.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Downsite\obj\Debug\netcoreapp2.0\Anonymous-Downsite.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Downsite\obj\Debug\netcoreapp2.0\Anonymous-Downsite.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Downsite\obj\Debug\netcoreapp2.0\Anonymous-Downsite.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Downsite\obj\Debug\netcoreapp2.0\Anonymous-Downsite.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Downsite\obj\Debug\netcoreapp2.0\Anonymous-Downsite.pdb

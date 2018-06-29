@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Threat\bin\Debug\netcoreapp2.0\Anonymous-Threat.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Threat\bin\Debug\netcoreapp2.0\Anonymous-Threat.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Threat\bin\Debug\netcoreapp2.0\Anonymous-Threat.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Threat\bin\Debug\netcoreapp2.0\Anonymous-Threat.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Threat\bin\Debug\netcoreapp2.0\Anonymous-Threat.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Threat\obj\Debug\netcoreapp2.0\Anonymous-Threat.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Threat\obj\Debug\netcoreapp2.0\Anonymous-Threat.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Threat\obj\Debug\netcoreapp2.0\Anonymous-Threat.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Threat\obj\Debug\netcoreapp2.0\Anonymous-Threat.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Threat\obj\Debug\netcoreapp2.0\Anonymous-Threat.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Threat\obj\Debug\netcoreapp2.0\Anonymous-Threat.csprojAssemblyReference.cache

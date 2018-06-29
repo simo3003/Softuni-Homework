@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Vox\bin\Debug\netcoreapp2.0\Anonymous-Vox.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Vox\bin\Debug\netcoreapp2.0\Anonymous-Vox.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Vox\bin\Debug\netcoreapp2.0\Anonymous-Vox.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Vox\bin\Debug\netcoreapp2.0\Anonymous-Vox.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Vox\bin\Debug\netcoreapp2.0\Anonymous-Vox.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Vox\obj\Debug\netcoreapp2.0\Anonymous-Vox.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Vox\obj\Debug\netcoreapp2.0\Anonymous-Vox.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Vox\obj\Debug\netcoreapp2.0\Anonymous-Vox.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Vox\obj\Debug\netcoreapp2.0\Anonymous-Vox.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Vox\obj\Debug\netcoreapp2.0\Anonymous-Vox.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Vox\obj\Debug\netcoreapp2.0\Anonymous-Vox.pdb

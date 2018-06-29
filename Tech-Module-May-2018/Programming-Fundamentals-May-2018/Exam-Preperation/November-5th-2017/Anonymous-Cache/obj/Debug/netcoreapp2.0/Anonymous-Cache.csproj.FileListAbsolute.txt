@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Cache\bin\Debug\netcoreapp2.0\Anonymous-Cache.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Cache\bin\Debug\netcoreapp2.0\Anonymous-Cache.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Cache\bin\Debug\netcoreapp2.0\Anonymous-Cache.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Cache\bin\Debug\netcoreapp2.0\Anonymous-Cache.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Cache\bin\Debug\netcoreapp2.0\Anonymous-Cache.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Cache\obj\Debug\netcoreapp2.0\Anonymous-Cache.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Cache\obj\Debug\netcoreapp2.0\Anonymous-Cache.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Cache\obj\Debug\netcoreapp2.0\Anonymous-Cache.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Cache\obj\Debug\netcoreapp2.0\Anonymous-Cache.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Cache\obj\Debug\netcoreapp2.0\Anonymous-Cache.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exam-Preperation\November-5th-2017\Anonymous-Cache\obj\Debug\netcoreapp2.0\Anonymous-Cache.pdb
