@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace MOBA_Challanger
 {
+	// 70/100 ???
     class Player
     {
         public string Name { get; set; }
