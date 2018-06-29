@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Neather-Realms\bin\Debug\netcoreapp2.0\Neather-Realms.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Neather-Realms\bin\Debug\netcoreapp2.0\Neather-Realms.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Neather-Realms\bin\Debug\netcoreapp2.0\Neather-Realms.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Neather-Realms\bin\Debug\netcoreapp2.0\Neather-Realms.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Neather-Realms\bin\Debug\netcoreapp2.0\Neather-Realms.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Neather-Realms\obj\Debug\netcoreapp2.0\Neather-Realms.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Neather-Realms\obj\Debug\netcoreapp2.0\Neather-Realms.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Neather-Realms\obj\Debug\netcoreapp2.0\Neather-Realms.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Neather-Realms\obj\Debug\netcoreapp2.0\Neather-Realms.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Neather-Realms\obj\Debug\netcoreapp2.0\Neather-Realms.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Neather-Realms\obj\Debug\netcoreapp2.0\Neather-Realms.pdb

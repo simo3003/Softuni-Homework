@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Charity-Marathon\bin\Debug\netcoreapp2.0\Charity-Marathon.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Charity-Marathon\bin\Debug\netcoreapp2.0\Charity-Marathon.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Charity-Marathon\bin\Debug\netcoreapp2.0\Charity-Marathon.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Charity-Marathon\bin\Debug\netcoreapp2.0\Charity-Marathon.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Charity-Marathon\bin\Debug\netcoreapp2.0\Charity-Marathon.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Charity-Marathon\obj\Debug\netcoreapp2.0\Charity-Marathon.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Charity-Marathon\obj\Debug\netcoreapp2.0\Charity-Marathon.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Charity-Marathon\obj\Debug\netcoreapp2.0\Charity-Marathon.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Charity-Marathon\obj\Debug\netcoreapp2.0\Charity-Marathon.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Charity-Marathon\obj\Debug\netcoreapp2.0\Charity-Marathon.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Charity-Marathon\obj\Debug\netcoreapp2.0\Charity-Marathon.pdb

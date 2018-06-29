@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Roli-The-Coder\bin\Debug\netcoreapp2.0\Roli-The-Coder.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Roli-The-Coder\bin\Debug\netcoreapp2.0\Roli-The-Coder.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Roli-The-Coder\bin\Debug\netcoreapp2.0\Roli-The-Coder.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Roli-The-Coder\bin\Debug\netcoreapp2.0\Roli-The-Coder.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Roli-The-Coder\bin\Debug\netcoreapp2.0\Roli-The-Coder.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Roli-The-Coder\obj\Debug\netcoreapp2.0\Roli-The-Coder.csprojAssemblyReference.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Roli-The-Coder\obj\Debug\netcoreapp2.0\Roli-The-Coder.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Roli-The-Coder\obj\Debug\netcoreapp2.0\Roli-The-Coder.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Roli-The-Coder\obj\Debug\netcoreapp2.0\Roli-The-Coder.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Roli-The-Coder\obj\Debug\netcoreapp2.0\Roli-The-Coder.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\October-23rd-2016\Roli-The-Coder\obj\Debug\netcoreapp2.0\Roli-The-Coder.pdb

@@ -1,0 +1,11 @@
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Ladybugs\bin\Debug\netcoreapp2.0\Ladybugs.deps.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Ladybugs\bin\Debug\netcoreapp2.0\Ladybugs.runtimeconfig.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Ladybugs\bin\Debug\netcoreapp2.0\Ladybugs.runtimeconfig.dev.json
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Ladybugs\bin\Debug\netcoreapp2.0\Ladybugs.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Ladybugs\bin\Debug\netcoreapp2.0\Ladybugs.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Ladybugs\obj\Debug\netcoreapp2.0\Ladybugs.csproj.CoreCompileInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Ladybugs\obj\Debug\netcoreapp2.0\Ladybugs.AssemblyInfoInputs.cache
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Ladybugs\obj\Debug\netcoreapp2.0\Ladybugs.AssemblyInfo.cs
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Ladybugs\obj\Debug\netcoreapp2.0\Ladybugs.dll
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Ladybugs\obj\Debug\netcoreapp2.0\Ladybugs.pdb
+D:\Projects\Softuni-Homework\Tech-Module-May-2018\Programming-Fundamentals-May-2018\Exams\Exam-Preperation-II\Ladybugs\obj\Debug\netcoreapp2.0\Ladybugs.csprojAssemblyReference.cache
