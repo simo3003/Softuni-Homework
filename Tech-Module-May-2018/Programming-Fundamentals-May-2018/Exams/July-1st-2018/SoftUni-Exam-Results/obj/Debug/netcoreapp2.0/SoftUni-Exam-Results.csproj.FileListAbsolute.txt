@@ -1,0 +1,11 @@
+D:\Exam\Exam\SoftUni-Exam-Results\bin\Debug\netcoreapp2.0\SoftUni-Exam-Results.deps.json
+D:\Exam\Exam\SoftUni-Exam-Results\bin\Debug\netcoreapp2.0\SoftUni-Exam-Results.runtimeconfig.json
+D:\Exam\Exam\SoftUni-Exam-Results\bin\Debug\netcoreapp2.0\SoftUni-Exam-Results.runtimeconfig.dev.json
+D:\Exam\Exam\SoftUni-Exam-Results\bin\Debug\netcoreapp2.0\SoftUni-Exam-Results.dll
+D:\Exam\Exam\SoftUni-Exam-Results\bin\Debug\netcoreapp2.0\SoftUni-Exam-Results.pdb
+D:\Exam\Exam\SoftUni-Exam-Results\obj\Debug\netcoreapp2.0\SoftUni-Exam-Results.csprojResolveAssemblyReference.cache
+D:\Exam\Exam\SoftUni-Exam-Results\obj\Debug\netcoreapp2.0\SoftUni-Exam-Results.csproj.CoreCompileInputs.cache
+D:\Exam\Exam\SoftUni-Exam-Results\obj\Debug\netcoreapp2.0\SoftUni-Exam-Results.AssemblyInfoInputs.cache
+D:\Exam\Exam\SoftUni-Exam-Results\obj\Debug\netcoreapp2.0\SoftUni-Exam-Results.AssemblyInfo.cs
+D:\Exam\Exam\SoftUni-Exam-Results\obj\Debug\netcoreapp2.0\SoftUni-Exam-Results.dll
+D:\Exam\Exam\SoftUni-Exam-Results\obj\Debug\netcoreapp2.0\SoftUni-Exam-Results.pdb

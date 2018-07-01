@@ -1,0 +1,11 @@
+D:\Exam\Exam\SoftUni-Reception\bin\Debug\netcoreapp2.0\SoftUni-Reception.deps.json
+D:\Exam\Exam\SoftUni-Reception\bin\Debug\netcoreapp2.0\SoftUni-Reception.runtimeconfig.json
+D:\Exam\Exam\SoftUni-Reception\bin\Debug\netcoreapp2.0\SoftUni-Reception.runtimeconfig.dev.json
+D:\Exam\Exam\SoftUni-Reception\bin\Debug\netcoreapp2.0\SoftUni-Reception.dll
+D:\Exam\Exam\SoftUni-Reception\bin\Debug\netcoreapp2.0\SoftUni-Reception.pdb
+D:\Exam\Exam\SoftUni-Reception\obj\Debug\netcoreapp2.0\SoftUni-Reception.csprojResolveAssemblyReference.cache
+D:\Exam\Exam\SoftUni-Reception\obj\Debug\netcoreapp2.0\SoftUni-Reception.csproj.CoreCompileInputs.cache
+D:\Exam\Exam\SoftUni-Reception\obj\Debug\netcoreapp2.0\SoftUni-Reception.AssemblyInfoInputs.cache
+D:\Exam\Exam\SoftUni-Reception\obj\Debug\netcoreapp2.0\SoftUni-Reception.AssemblyInfo.cs
+D:\Exam\Exam\SoftUni-Reception\obj\Debug\netcoreapp2.0\SoftUni-Reception.dll
+D:\Exam\Exam\SoftUni-Reception\obj\Debug\netcoreapp2.0\SoftUni-Reception.pdb

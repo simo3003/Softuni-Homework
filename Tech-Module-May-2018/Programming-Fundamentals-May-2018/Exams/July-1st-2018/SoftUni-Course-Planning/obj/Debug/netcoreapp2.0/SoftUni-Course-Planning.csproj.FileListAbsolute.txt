@@ -1,0 +1,11 @@
+D:\Exam\Exam\SoftUni-Course-Planning\bin\Debug\netcoreapp2.0\SoftUni-Course-Planning.deps.json
+D:\Exam\Exam\SoftUni-Course-Planning\bin\Debug\netcoreapp2.0\SoftUni-Course-Planning.runtimeconfig.json
+D:\Exam\Exam\SoftUni-Course-Planning\bin\Debug\netcoreapp2.0\SoftUni-Course-Planning.runtimeconfig.dev.json
+D:\Exam\Exam\SoftUni-Course-Planning\bin\Debug\netcoreapp2.0\SoftUni-Course-Planning.dll
+D:\Exam\Exam\SoftUni-Course-Planning\bin\Debug\netcoreapp2.0\SoftUni-Course-Planning.pdb
+D:\Exam\Exam\SoftUni-Course-Planning\obj\Debug\netcoreapp2.0\SoftUni-Course-Planning.csprojResolveAssemblyReference.cache
+D:\Exam\Exam\SoftUni-Course-Planning\obj\Debug\netcoreapp2.0\SoftUni-Course-Planning.csproj.CoreCompileInputs.cache
+D:\Exam\Exam\SoftUni-Course-Planning\obj\Debug\netcoreapp2.0\SoftUni-Course-Planning.AssemblyInfoInputs.cache
+D:\Exam\Exam\SoftUni-Course-Planning\obj\Debug\netcoreapp2.0\SoftUni-Course-Planning.AssemblyInfo.cs
+D:\Exam\Exam\SoftUni-Course-Planning\obj\Debug\netcoreapp2.0\SoftUni-Course-Planning.dll
+D:\Exam\Exam\SoftUni-Course-Planning\obj\Debug\netcoreapp2.0\SoftUni-Course-Planning.pdb

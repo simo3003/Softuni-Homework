@@ -1,0 +1,11 @@
+D:\Exam\Exam\SoftUni-Bar-Income\bin\Debug\netcoreapp2.0\SoftUni-Bar-Income.deps.json
+D:\Exam\Exam\SoftUni-Bar-Income\bin\Debug\netcoreapp2.0\SoftUni-Bar-Income.runtimeconfig.json
+D:\Exam\Exam\SoftUni-Bar-Income\bin\Debug\netcoreapp2.0\SoftUni-Bar-Income.runtimeconfig.dev.json
+D:\Exam\Exam\SoftUni-Bar-Income\bin\Debug\netcoreapp2.0\SoftUni-Bar-Income.dll
+D:\Exam\Exam\SoftUni-Bar-Income\bin\Debug\netcoreapp2.0\SoftUni-Bar-Income.pdb
+D:\Exam\Exam\SoftUni-Bar-Income\obj\Debug\netcoreapp2.0\SoftUni-Bar-Income.csprojResolveAssemblyReference.cache
+D:\Exam\Exam\SoftUni-Bar-Income\obj\Debug\netcoreapp2.0\SoftUni-Bar-Income.csproj.CoreCompileInputs.cache
+D:\Exam\Exam\SoftUni-Bar-Income\obj\Debug\netcoreapp2.0\SoftUni-Bar-Income.AssemblyInfoInputs.cache
+D:\Exam\Exam\SoftUni-Bar-Income\obj\Debug\netcoreapp2.0\SoftUni-Bar-Income.AssemblyInfo.cs
+D:\Exam\Exam\SoftUni-Bar-Income\obj\Debug\netcoreapp2.0\SoftUni-Bar-Income.dll
+D:\Exam\Exam\SoftUni-Bar-Income\obj\Debug\netcoreapp2.0\SoftUni-Bar-Income.pdb
