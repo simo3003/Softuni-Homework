@@ -1,0 +1,52 @@
+<div class="container body-content span=8 offset=2">
+    <div class="well">
+        <form class="form-horizontal" method="post" action="/user/register">
+            <fieldset>
+                {{error}}
+                <legend>Register</legend>
+
+                <div class="form-group">
+                    <label class="col-sm-4 control-label" for="inputEmail">Email</label>
+                    <div class="col-sm-4 ">
+                        <input type="text" class="form-control" id="inputEmail" placeholder="Email" name="email" required value={{email}}>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="col-sm-4 control-label" for="inputFullName">Full Name</label>
+                    <div class="col-sm-4 ">
+                        <input type="text" class="form-control" id="inputFullName" placeholder="Full Name" required name="fullName" value={{fullName}}>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="col-sm-4 control-label" for="inputPassword">Password</label>
+                    <div class="col-sm-4">
+                        <input type="password" class="form-control" id="inputPassword" placeholder="Password" required name="password">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="col-sm-4 control-label">Confirm Password</label>
+                    <div class="col-sm-4">
+                        <input type="password" class="form-control" id="confirmPassword" placeholder="Confirm Password" required name="repeatedPassword">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-sm-4 col-sm-offset-4">
+                        <button type="reset" class="btn btn-danger">
+                            Cancel!
+                            <i class="fas fa-trash-alt"></i>
+                        </button>
+                        <button type="submit" class="btn btn-success">
+                            Register!
+                            <i class="fas fa-share-square"></i>
+                        </button>
+                    </div>
+                </div>
+                
+            </fieldset>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,38 @@
+<div class="container body-content span=8 offset=2">
+    <div class="well">
+        <form class="form-horizontal" method="post" action="/user/login">
+            <fieldset>
+                {{error}}
+                <legend>Login</legend>
+
+                <div class="form-group">
+                    <label class="col-sm-4 control-label">Email</label>
+                    <div class="col-sm-4 ">
+                        <input type="text" class="form-control" id="inputEmail" placeholder="Email" name="email">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="col-sm-4 control-label">Password</label>
+                    <div class="col-sm-4">
+                        <input type="password" class="form-control" id="inputPassword" placeholder="Password" name="password">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-sm-4 col-sm-offset-4">
+                        <a class="btn btn-danger" href="/">
+                            Cancel!
+                            <i class="fas fa-trash-alt"></i>
+                        </a>
+                        <button type="submit" class="btn btn-success">
+                            Login!
+                            <i class="fas fa-share-square"></i>
+                        </button>
+                    </div>
+
+                </div>
+            </fieldset>
+        </form>
+    </div>
+</div>
