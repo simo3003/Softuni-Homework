@@ -4,7 +4,7 @@
             <fieldset>
                 <div class="form-group">
                     <div class="col-sm-1 ">
-                        <input type="text" class="form-control" id="leftOperand" placeholder="Left Operand" name="calculator[leftOperand]" value="{{calculator.leftOperand}}">
+                        <input type="number" class="form-control" id="leftOperand" placeholder="Left Operand" name="calculator[leftOperand]" value="{{calculator.leftOperand}}">
                     </div>
                 </div>
 
@@ -16,14 +16,13 @@
                             <option value="*" {{selectif calculator.operator '*'}}>*</option>
                             <option value="/" {{selectif calculator.operator '/'}}>/</option>
                             <option value="^" {{selectif calculator.operator '^'}}>^</option>
-
                         </select>
                     </div>
                 </div>
 
                 <div class="form-group">
                     <div class="col-sm-4 ">
-                        <input type="text" class="form-control" id="rightOperand" placeholder="Right Operand" name="calculator[rightOperand]" value="{{calculator.rightOperand}}">
+                        <input type="number" class="form-control" id="rightOperand" placeholder="Right Operand" name="calculator[rightOperand]" value="{{calculator.rightOperand}}">
                     </div>
                 </div>
 
