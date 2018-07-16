@@ -26,7 +26,7 @@ module.exports = (sequelize) => {
             timestamps: false
         });
 
-    User.prototype.authenticate = (password) => {
+    User.prototype.authenticate = function (password) {
         let inputPasswordHash = encryption.hashPassword(password, this.salt);
         return inputPasswordHash === this.passwordHash;
     };
