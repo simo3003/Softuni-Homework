@@ -1,0 +1,32 @@
+{% extends 'base.html.twig' %} 
+
+{% block main %}
+<div class="container body-content">
+    <div class="row">
+        {% for post in posts %}
+            <div class="col-md-6">
+                <article>
+                    <header>
+                        <h2>{{ post.title }}</h2>
+                    </header>
+
+                    <p>
+                        {{ post.summary }}
+                    </p>
+
+                    <small class="author">
+                        {{ post.author.fullName }}
+                    </small>
+
+                    <footer>
+                        <div class="pull-right">
+                            <a class="btn btn-default btn-xs"
+                               href="{{path('post_view', {'id':post.id})}}">Read more &raquo;</a>
+                        </div>
+                    </footer>
+                </article>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

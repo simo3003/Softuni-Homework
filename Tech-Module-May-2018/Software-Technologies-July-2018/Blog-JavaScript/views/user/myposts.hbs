@@ -1,0 +1,38 @@
+<div class="container body-content">
+    <div class="row">
+        {{#each posts}}
+        <div class="col-md-6">
+            <article>
+                <header>
+                    <h2>{{this.title}}</h2>
+                </header>
+
+                <p>{{this.content}}
+                </p>
+
+                <small class="author">
+                    {{this.date}}
+                </small>
+
+                <br>
+                
+                <footer>
+                    <div class="pull-right">
+                        <a class="btn btn-success btn-xs" href="/post/edit/{{this.id}}">
+                            Edit post
+                            <i class="far fa-edit"></i>
+                        </a>
+                        <a class="btn btn-danger btn-xs" href="/post/delete/{{this.id}}">
+                            Delete post
+                            <i class="fas fa-trash-alt"></i>
+                        </a>
+                        <a class="btn btn-default btn-xs" href="/post/details/{{this.id}}">
+                            Read more &raquo;
+                        </a>
+                    </div>
+                </footer>
+            </article>
+        </div>
+        {{/each}}
+    </div>
+</div>

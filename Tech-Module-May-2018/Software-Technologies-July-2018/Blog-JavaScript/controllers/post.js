@@ -1,5 +1,6 @@
 const Post = require('../models').Post;
 const User = require('../models').User;
+
 module.exports = {
     createGet: (req, res) => {
         res.render('post/create');
@@ -32,6 +33,42 @@ module.exports = {
             });
     },
 
+    editGet: (req, res) => {
+        let id = req.params.id;
+        Post.findById(id)
+            .then(post => {
+                res.render('post/edit', post.dataValues)
+            });
+    },
+
+    editPost: (req, res) => {
+        let args = req.body;
+        let id = req.params.id;
+        Post.findById(id)
+            .then(post => {
+                post.update(args);
+            })
+            .then(res.redirect('/'));
+    },
+
+    deleteGet: (req, res) => {
+        let id = req.params.id;
+        Post.findById(id)
+            .then(post => {
+                res.render('post/delete', post.dataValues)
+            });
+    },
+
+    deletePost: (req, res) => {
+        let id = req.params.id;
+        Post.findById(id)
+            .then(post => {
+                post.destroy();
+            })
+            .then(res.redirect('/'));
+    },
+
+
     details: (req, res) => {
         let id = req.params.id;
         Post.findById(id, {
@@ -44,4 +81,6 @@ module.exports = {
             res.render('post/details', post.dataValues);
         })
     }
+
+
 };

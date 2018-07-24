@@ -1,5 +1,6 @@
 const encryption = require("../utilities/encryption");
 const User = require('../models').User;
+const Post = require('../models').Post;
 
 module.exports = {
     registerGet: (req, res) => {
@@ -9,7 +10,7 @@ module.exports = {
     registerPost: (req, res) => {
         let registerArgs = req.body;
 
-        User.findOne({where: {email: registerArgs.email}}).then(user => {
+        User.findOne({ where: { email: registerArgs.email } }).then(user => {
             let errorMsg = '';
             if (user) {
                 errorMsg = 'User with the same username exists!';
@@ -52,7 +53,7 @@ module.exports = {
     loginPost: (req, res) => {
         let loginArgs = req.body;
 
-        User.findOne({where: {email: loginArgs.email}}).then(user => {
+        User.findOne({ where: { email: loginArgs.email } }).then(user => {
             if (!user || !user.authenticate(loginArgs.password)) {
                 loginArgs.error = 'Username or password is invalid!';
                 res.render('user/login', loginArgs);
@@ -61,7 +62,7 @@ module.exports = {
 
             req.logIn(user, (err) => {
                 if (err) {
-                    res.redirect('/user/login', {error: err.message});
+                    res.redirect('/user/login', { error: err.message });
                     return;
                 }
 
@@ -73,5 +74,11 @@ module.exports = {
     logout: (req, res) => {
         req.logOut();
         res.redirect('/');
+    },
+
+    myPosts: (req, res) => {
+        Post.findAll({
+            where: { authorId: req.user.id }
+        }).then((posts) => res.render('user/myposts', { posts: posts }));
     }
 };
