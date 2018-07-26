@@ -36,6 +36,7 @@ namespace Bomb_Numbers
                         input.RemoveRange(i - specialBombPower, specialBombPower + 1 + specialBombPower);
                     }
                 }
+				i = 0;
             }
             Console.WriteLine(input.Sum());
         }
