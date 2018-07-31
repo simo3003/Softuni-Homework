@@ -1,0 +1,48 @@
+<header th:fragment="header">
+    <div class="navbar navbar-default navbar-static-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <a th:href="@{/}" class="navbar-brand">SIMO ALEKSANDROV'S BLOG <i class="fas fa-leaf"></i></a>
+
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li sec:authorize="isAuthenticated()">
+                        <a th:href="@{/post/create}">
+                            NEW POST <i class="far fa-edit"></i>
+                        </a>
+                    </li>
+
+                    <li sec:authorize="isAuthenticated()">
+                        <a th:href="@{/profile}">
+                            MY PROFILE
+                        </a>
+                    </li>
+                    <li sec:authorize="isAuthenticated()">
+                        <a th:href="@{/logout}">
+                            LOGOUT
+                            <i class="fas fa-sign-out-alt"></i>
+                        </a>
+                    </li>
+                    <li sec:authorize="isAnonymous()">
+                        <a th:href="@{/register}">
+                            REGISTER
+                            <i class="fas fa-user-plus"></i>
+                        </a>
+                    </li>
+                    <li sec:authorize="isAnonymous()">
+                        <a th:href="@{/login}">
+                            LOGIN
+                            <i class="fas fa-sign-in-alt"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</header>

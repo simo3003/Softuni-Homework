@@ -1,0 +1,38 @@
+<main>
+    <div class="container body-content span=8 offset=2">
+        <div class="well">
+            <form class="form-horizontal" th:action="@{/post/edit/{id}(id=${post.id})}" method="POST">
+                <fieldset>
+                    <legend>Edit Post</legend>
+
+                    <div class="form-group">
+                        <label class="col-sm-4 control-label" for="post_title">Post Title</label>
+                        <div class="col-sm-4 ">
+                            <input type="text" class="form-control" id="post_title" placeholder="Post Title"
+                                   name="title" th:value="${post.title}"/>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-sm-4 control-label" for="post_content">Content</label>
+                        <div class="col-sm-6">
+                            <textarea class="form-control" rows="6" id="post_content" name="content"
+                                      th:field="${post.content}"></textarea>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-sm-4 col-sm-offset-4">
+                            <a class="btn btn-danger" th:href="@{/post/{id}(id = ${post.id})}"> Cancel!
+                                <i class="fas fa-trash-alt"></i></a>
+                            <button type="submit" class="btn btn-success">
+                                Edit!
+                                <i class="fas fa-share-square"></i>
+                            </button>
+                        </div>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+    </div>
+</main>

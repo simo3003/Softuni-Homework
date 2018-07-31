@@ -1,0 +1,32 @@
+<main>
+    <div class="container body-content">
+        <div class="row">
+            <div class="col-md-12">
+                <article>
+                    <header>
+                        <h2 th:text="${post.title}"></h2>
+                    </header>
+
+                    <p th:text="${post.content}"></p>
+
+                    <small class="author" th:text="${post.author.fullName}"></small>
+
+                    <footer>
+
+                        <div class="pull-right">
+                            <th:block sec:authorize="isAuthenticated()">
+                                <a class="btn btn-success btn-xs" th:href="@{/post/edit/{id}(id = ${post.id})}">Edit
+                                    post
+                                    <i class="far fa-edit"></i></a>
+                                <a class="btn btn-danger btn-xs" th:href="@{/post/delete/{id}(id = ${post.id})}"> Delete
+                                    post
+                                    <i class="fas fa-trash-alt"></i></a>
+                                <a class="btn btn-default btn-xs" th:href="@{/}">back &raquo;</a>
+                            </th:block>
+                        </div>
+                    </footer>
+                </article>
+            </div>
+        </div>
+    </div>
+</main>
