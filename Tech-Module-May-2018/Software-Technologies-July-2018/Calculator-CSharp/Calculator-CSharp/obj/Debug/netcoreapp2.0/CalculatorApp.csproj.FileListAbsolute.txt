@@ -1,0 +1,11 @@
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.csprojResolveAssemblyReference.cache
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.AssemblyInfoInputs.cache
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.AssemblyInfo.cs
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.deps.json
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.runtimeconfig.json
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.runtimeconfig.dev.json
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.dll
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp2.0\CalculatorApp.pdb
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.dll
+D:\Projects\ASPdotNet\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp2.0\CalculatorApp.pdb

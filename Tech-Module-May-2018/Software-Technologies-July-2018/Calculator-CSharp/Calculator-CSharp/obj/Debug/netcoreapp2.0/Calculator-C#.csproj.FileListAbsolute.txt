@@ -1,0 +1,11 @@
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Calculator-C#\Calculator-C#\bin\Debug\netcoreapp2.0\Calculator-C#.deps.json
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Calculator-C#\Calculator-C#\bin\Debug\netcoreapp2.0\Calculator-C#.runtimeconfig.json
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Calculator-C#\Calculator-C#\bin\Debug\netcoreapp2.0\Calculator-C#.runtimeconfig.dev.json
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Calculator-C#\Calculator-C#\bin\Debug\netcoreapp2.0\Calculator-C#.dll
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Calculator-C#\Calculator-C#\bin\Debug\netcoreapp2.0\Calculator-C#.pdb
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Calculator-C#\Calculator-C#\obj\Debug\netcoreapp2.0\Calculator-C#.csprojAssemblyReference.cache
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Calculator-C#\Calculator-C#\obj\Debug\netcoreapp2.0\Calculator-C#.csproj.CoreCompileInputs.cache
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Calculator-C#\Calculator-C#\obj\Debug\netcoreapp2.0\Calculator-C#.AssemblyInfoInputs.cache
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Calculator-C#\Calculator-C#\obj\Debug\netcoreapp2.0\Calculator-C#.AssemblyInfo.cs
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Calculator-C#\Calculator-C#\obj\Debug\netcoreapp2.0\Calculator-C#.dll
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Calculator-C#\Calculator-C#\obj\Debug\netcoreapp2.0\Calculator-C#.pdb
