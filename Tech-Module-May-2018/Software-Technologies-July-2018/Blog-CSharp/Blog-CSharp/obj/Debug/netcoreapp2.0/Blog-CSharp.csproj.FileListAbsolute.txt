@@ -1,0 +1,12 @@
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Blog-CSharp\Blog-CSharp\bin\Debug\netcoreapp2.0\Blog-CSharp.deps.json
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Blog-CSharp\Blog-CSharp\bin\Debug\netcoreapp2.0\Blog-CSharp.runtimeconfig.json
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Blog-CSharp\Blog-CSharp\bin\Debug\netcoreapp2.0\Blog-CSharp.runtimeconfig.dev.json
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Blog-CSharp\Blog-CSharp\bin\Debug\netcoreapp2.0\Blog-CSharp.dll
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Blog-CSharp\Blog-CSharp\obj\Debug\netcoreapp2.0\Blog-CSharp.csprojAssemblyReference.cache
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Blog-CSharp\Blog-CSharp\obj\Debug\netcoreapp2.0\Blog-CSharp.csproj.CoreCompileInputs.cache
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Blog-CSharp\Blog-CSharp\obj\Debug\netcoreapp2.0\Blog-CSharp.AssemblyInfoInputs.cache
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Blog-CSharp\Blog-CSharp\obj\Debug\netcoreapp2.0\Blog-CSharp.AssemblyInfo.cs
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Blog-CSharp\Blog-CSharp\bin\Debug\netcoreapp2.0\Blog-CSharp.pdb
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Blog-CSharp\Blog-CSharp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Blog-CSharp\Blog-CSharp\obj\Debug\netcoreapp2.0\Blog-CSharp.dll
+D:\Homework\Softuni\Tech-Module-May-2018\Software-Technologies-July-2018\Blog-CSharp\Blog-CSharp\obj\Debug\netcoreapp2.0\Blog-CSharp.pdb

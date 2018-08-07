@@ -1,0 +1,33 @@
+﻿@model Post
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container">
+    <div class="well">
+        <h2>Create Post</h2>
+        <form asp-action="Create" class="form-horizontal">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Title" class="control-label col-sm-4"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Content" class="control-label col-sm-4"></label>
+                <textarea asp-for="Content" class="form-control" rows="7"></textarea>
+                <span asp-validation-for="Content" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="col-sm-4 col-sm-offset-4">
+                    <a asp-action="Index" class="btn btn-danger">Delete! 
+                        <i class="fas fa-trash-alt"></i></a>
+                    <button type="submit" class="btn btn-success">
+                        Submit!
+                        <i class="fas fa-share-square"></i>
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

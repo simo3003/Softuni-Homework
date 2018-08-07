@@ -1,0 +1,33 @@
+﻿@model Post
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="container">
+    <div class="well">
+        <h2>Delete Post?</h2>
+        <form asp-action="Delete" class="form-horizontal">
+            <div class="form-group">
+                <label asp-for="Title" class="control-label col-sm-4"></label>
+                <input asp-for="Title" class="form-control" readonly />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Content" class="control-label col-sm-4"></label>
+                <textarea asp-for="Content" class="form-control" rows="7" readonly></textarea>
+                <span asp-validation-for="Content" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="col-sm-4 col-sm-offset-4">
+                    <input type="hidden" asp-for="Id" />
+                    <a asp-action="Index" class="btn btn-default">Cancel</a>
+                    <button type="submit" class="btn btn-danger">
+                        Delete!
+                        <i class="fas fa-trash-alt"></i>
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
