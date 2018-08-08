@@ -10,7 +10,7 @@ Table of contents:
 
 [Java](#java)
 
-[C#](#C#)
+[C#](#C\#)
 
 ## JavaScript
 
