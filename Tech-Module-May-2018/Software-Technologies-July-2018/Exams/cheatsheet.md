@@ -43,7 +43,7 @@ let Cat = sequelize.define("Cat", {
 ### Index
 
 ```js
-  index: (req, res) => {
+index: (req, res) => {
         Cat.findAll()
             .then(posts => {
                 res.render('home/index', { cat: cat });
