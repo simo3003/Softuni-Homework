@@ -48,7 +48,7 @@ index: (req, res) => {
             .then(posts => {
                 res.render('home/index', { cat: cat });
             });
-    }
+}
 ```
 
 ### Create
@@ -57,7 +57,7 @@ GET
 
 ```js
 createGet: (req, res) => {
-    res.render('cat/create')
+    res.render('cat/create');
 }
 ```
 
@@ -69,7 +69,7 @@ createPost: (req, res) => {
     Cat.create(postArgs)
         .then((post) => {
             res.redirect('/');
-        })
+        });
 }
 ```
 
@@ -160,9 +160,9 @@ php bin/console generate:doctrine:form AppBundle:Cat
 ```php
 public function buildForm(FormBuilderInterface $builder, array $options) {
     $builder
-    ->add('name', TextType::class)
-    ->add('nickname', TextType::class)
-    ->add('price', NumberType::class);
+        ->add('name', TextType::class)
+        ->add('nickname', TextType::class)
+        ->add('price', NumberType::class);
 }
 ```
 
