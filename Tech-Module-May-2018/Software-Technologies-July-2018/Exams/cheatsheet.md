@@ -130,6 +130,8 @@ Rename with the appropriate model!~
 
 ## PHP
 
+Use either
+
 ```sh
 composer install
 ```
@@ -140,9 +142,12 @@ composer install
 php composer.phar install
 ```
 
+for resolving dependencies!
+
 ```sh
 php bin/console doctrine:database:create --if-not-exists
 ```
+
 
 ```sh
 php bin/console generate:doctrine:entity
