@@ -10,7 +10,7 @@ Table of contents:
 
 [Java](#java)
 
-[C#](#C\#)
+[C#](#csharp)
 
 ## JavaScript
 
@@ -385,7 +385,7 @@ public String deleteProcess(@PathVariable int id, CatBindingModel catBindingMode
 
 Rename with the appropriate model!~
 
-## C#
+## CSharp
 
 ### Model
 
