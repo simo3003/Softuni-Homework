@@ -1,0 +1,43 @@
+﻿@model List<CatShop.Models.Cat>
+@{
+    ViewBag.Title = "Index";
+}
+<div class="wrapper">
+    <div class="cat-create">
+        <div class="create-header">
+            Cat Shop
+        </div>
+    </div>
+    <br />
+    <div class="button-holder">
+        <a type="button" href="/create" class="log-button">Add Cat</a>
+    </div>
+    <div class="content">
+        <div class="header">
+            <div class="cat-label">Cat</div>
+            <div class="nickname-label">Nickname</div>
+            <div class="price-label">Price</div>
+            <div class="actions-label">Actions</div>
+        </div>
+        <div class="main">
+            @foreach (var cat in Model.ToList())
+            {
+                <div class="cat">
+                    <div class="cat-name">
+                        @(cat.Name)
+                    </div>
+                    <div class="cat-nickname">
+                        @(cat.Nickname)
+                    </div>
+                    <div class="cat-price">
+                        @(cat.Price)
+                    </div>
+                    <div class="cat-actions">
+                        @Html.ActionLink("Edit", "Edit", "Cat", new { id = cat.Id }, new { @class = "edit-button" })
+                        @Html.ActionLink("Delete", "Delete", "Cat", new { id = cat.Id }, new { @class = "delete-button" })
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

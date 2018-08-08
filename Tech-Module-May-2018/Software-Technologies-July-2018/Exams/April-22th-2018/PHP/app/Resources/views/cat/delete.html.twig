@@ -1,0 +1,28 @@
+{% extends "base.html.twig" %}
+
+{% block main %}
+    <div class="wrapper">
+        <form class="cat-create" method="post">
+            <div class="create-header">
+                Delete Cat
+            </div>
+            <div class="create-name">
+                <div class="create-name-label">Name</div>
+                <input class="create-name-content" name="cat[name]" readonly value="{{cat.name}}"/>
+            </div>
+            <div class="create-nickname">
+                <div class="create-nickname-label">Nickname</div>
+                <input class="create-nickname-content" name="cat[nickname]" readonly value="{{cat.nickname}}"/>
+            </div>
+            <div class="create-price">
+                <div class="create-price-label">Price</div>
+                <input type="number" min="0" step="0.00001" class="create-price-content" name="cat[price]" readonly value="{{cat.price}}"/>
+            </div>
+            <div class="create-button-holder">
+                <button type="submit" class="submit-button">Delete Cat</button>
+                <a type="button" href="/" class="back-button">Back</a>
+            </div>
+            {{ form_row(form._token) }}
+        </form>
+    </div>
+{% endblock %}

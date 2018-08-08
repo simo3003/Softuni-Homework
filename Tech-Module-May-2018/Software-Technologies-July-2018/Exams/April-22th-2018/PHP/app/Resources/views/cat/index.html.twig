@@ -1,0 +1,42 @@
+{% extends "base.html.twig" %}
+
+{% block main %}
+    <div class="wrapper">
+        <div class="cat-create">
+            <div class="create-header">
+                Cat Shop
+            </div>
+        </div>
+        <br>
+        <div class="button-holder">
+            <a type="button" href="/create" class="log-button">Add Cat</a>
+        </div>
+        <div class="content">
+            <div class="header">
+                <div class="cat-label">Cat</div>
+                <div class="nickname-label">Nickname</div>
+                <div class="price-label">Price</div>
+                <div class="actions-label">Actions</div>
+            </div>
+            <div class="main">
+                {% for cat in cats %}
+                    <div class="cat">
+                        <div class="cat-name">
+                            {{ cat.name }}
+                        </div>
+                        <div class="cat-nickname">
+                            {{ cat.nickname }}
+                        </div>
+                        <div class="cat-price">
+                            {{ cat.price }}
+                        </div>
+                        <div class="cat-actions">
+                            <a type="button" href="{{ path('edit', {id: cat.id}) }}" class="edit-button">Edit</a>
+                            <a type="button" href="{{ path('delete', {id: cat.id}) }}" class="delete-button">Delete</a>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+{% endblock %}

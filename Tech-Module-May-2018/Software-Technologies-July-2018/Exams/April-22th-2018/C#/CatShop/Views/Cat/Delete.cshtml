@@ -1,0 +1,31 @@
+﻿@model CatShop.Models.Cat
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<div class="wrapper">
+    @using (Html.BeginForm("Delete", "Cat", FormMethod.Post, new { @class = "cat-create" }))
+    {
+        @Html.AntiForgeryToken()
+        <div class="create-header">
+            Delete Cat
+        </div>
+        <div class="create-name">
+            <div class="create-name-label">Name</div>
+            <input class="create-name-content" name="name" value="@Model.Name" disabled="disabled" />
+        </div>
+        <div class="create-nickname">
+            <div class="create-nickname-label">Nickname</div>
+            <input class="create-nickname-content" name="nickname" disabled="disabled" value="@Model.Nickname"/>
+        </div>
+        <div class="create-price">
+            <div class="create-price-label">Price</div>
+            <input type="number" min="0" class="create-price-content" name="price" value="@Model.Price" disabled="disabled" />
+        </div>
+        <div class="create-button-holder">
+            <button type="submit" class="submit-button">Delete Cat</button>
+            <a type="button" href="/" class="back-button">Back</a>
+        </div>
+    }
+</div>

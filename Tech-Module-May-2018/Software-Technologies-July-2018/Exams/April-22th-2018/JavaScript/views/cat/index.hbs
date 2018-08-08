@@ -1,0 +1,38 @@
+<div class="wrapper">
+    <div class="cat-create">
+        <div class="create-header">
+            Cat Shop
+        </div>
+    </div>
+    <br>
+    <div class="button-holder">
+        <a type="button" href="/create" class="log-button">Add Cat</a>
+    </div>
+    <div class="content">
+        <div class="header">
+            <div class="cat-label">Cat</div>
+            <div class="nickname-label">Nickname</div>
+            <div class="price-label">Price</div>
+            <div class="actions-label">Actions</div>
+        </div>
+        <div class="main">
+            {{#each cats}}
+                <div class="cat">
+                    <div class="cat-name">
+                        {{name}}
+                    </div>
+                    <div class="cat-nickname">
+                        {{nickname}}
+                    </div>
+                    <div class="cat-price">
+                        {{price}}
+                    </div>
+                    <div class="cat-actions">
+                        <a type="button" href="/edit/{{id}}" class="edit-button">Edit</a>
+                        <a type="button" href="/delete/{{id}}" class="delete-button">Delete</a>
+                    </div>
+                </div>
+            {{/each}}
+        </div>
+    </div>
+</div>

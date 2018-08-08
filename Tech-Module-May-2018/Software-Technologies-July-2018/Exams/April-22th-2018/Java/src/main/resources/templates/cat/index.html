@@ -1,0 +1,35 @@
+<div class="wrapper" xmlns:th="http://www.w3.org/1999/xhtml">
+    <div class="cat-create">
+        <div class="create-header">
+            Cat Shop
+        </div>
+    </div>
+    <br></br>
+    <div class="button-holder">
+        <a type="button" href="/create" class="log-button">Add Cat</a>
+    </div>
+    <div class="content">
+        <div class="header">
+            <div class="cat-label">Cat</div>
+            <div class="nickname-label">Nickname</div>
+            <div class="price-label">Price</div>
+            <div class="actions-label">Actions</div>
+        </div>
+        <div class="main">
+            <th:block th:each="cat : ${cats}">
+                <div class="cat">
+                    <div class="cat-name" th:text="${cat.name}">
+                    </div>
+                    <div class="cat-nickname" th:text="${cat.nickname}">
+                    </div>
+                    <div class="cat-price" th:text="${cat.price}">
+                    </div>
+                    <div class="cat-actions">
+                        <a type="button" th:href="@{/edit/{id}(id=${cat.id})}" class="edit-button">Edit</a>
+                        <a type="button" th:href="@{/delete/{id}(id=${cat.id})}" class="delete-button">Delete</a>
+                    </div>
+                </div>
+            </th:block>
+        </div>
+    </div>
+</div>
