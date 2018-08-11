@@ -1,0 +1,11 @@
+D:\Exam\Softuni-Homework\Tech-Module-May-2018\Software-Technologies-July-2018\Exams\Unknown - IMDB\C#\IMDB\bin\Debug\netcoreapp2.0\IMDB.deps.json
+D:\Exam\Softuni-Homework\Tech-Module-May-2018\Software-Technologies-July-2018\Exams\Unknown - IMDB\C#\IMDB\bin\Debug\netcoreapp2.0\IMDB.runtimeconfig.json
+D:\Exam\Softuni-Homework\Tech-Module-May-2018\Software-Technologies-July-2018\Exams\Unknown - IMDB\C#\IMDB\bin\Debug\netcoreapp2.0\IMDB.runtimeconfig.dev.json
+D:\Exam\Softuni-Homework\Tech-Module-May-2018\Software-Technologies-July-2018\Exams\Unknown - IMDB\C#\IMDB\bin\Debug\netcoreapp2.0\IMDB.dll
+D:\Exam\Softuni-Homework\Tech-Module-May-2018\Software-Technologies-July-2018\Exams\Unknown - IMDB\C#\IMDB\bin\Debug\netcoreapp2.0\IMDB.pdb
+D:\Exam\Softuni-Homework\Tech-Module-May-2018\Software-Technologies-July-2018\Exams\Unknown - IMDB\C#\IMDB\obj\Debug\netcoreapp2.0\IMDB.csprojResolveAssemblyReference.cache
+D:\Exam\Softuni-Homework\Tech-Module-May-2018\Software-Technologies-July-2018\Exams\Unknown - IMDB\C#\IMDB\obj\Debug\netcoreapp2.0\IMDB.csproj.CoreCompileInputs.cache
+D:\Exam\Softuni-Homework\Tech-Module-May-2018\Software-Technologies-July-2018\Exams\Unknown - IMDB\C#\IMDB\obj\Debug\netcoreapp2.0\IMDB.AssemblyInfoInputs.cache
+D:\Exam\Softuni-Homework\Tech-Module-May-2018\Software-Technologies-July-2018\Exams\Unknown - IMDB\C#\IMDB\obj\Debug\netcoreapp2.0\IMDB.AssemblyInfo.cs
+D:\Exam\Softuni-Homework\Tech-Module-May-2018\Software-Technologies-July-2018\Exams\Unknown - IMDB\C#\IMDB\obj\Debug\netcoreapp2.0\IMDB.dll
+D:\Exam\Softuni-Homework\Tech-Module-May-2018\Software-Technologies-July-2018\Exams\Unknown - IMDB\C#\IMDB\obj\Debug\netcoreapp2.0\IMDB.pdb
