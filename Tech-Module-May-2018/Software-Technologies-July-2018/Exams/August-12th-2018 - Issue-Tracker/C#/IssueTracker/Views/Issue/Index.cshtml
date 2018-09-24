@@ -1,0 +1,38 @@
+﻿@model List<IssueTracker.Models.Issue>
+
+@{
+    ViewBag.Title = "Index";
+}
+<div class="wrapper">
+    <div class="button-holder">
+        <a type="button" href="/create" class="button">Log A New Issue</a>
+    </div>
+    <div class="content">
+        <div class="header">
+            <div class="issue-label">Issue</div>
+            <div class="issue-label">Content</div>
+            <div class="issue-label">Priority</div>
+            <div class="actions-label">Actions</div>
+        </div>
+        <div class="main">
+            @foreach (var issue in Model.ToList())
+            {
+            <div class="issue">
+                <div class="issue-title">
+                    @(issue.Title)
+                </div>
+                <div class="issue-item">
+                    @(issue.Content)
+                </div>
+                <div class="issue-item">
+                    @(issue.Priority)
+                </div>
+                <div class="project-actions">
+                    @Html.ActionLink("Edit", "Edit", "Issue", new { id = issue.Id }, new { @class = "issuebutton" })
+                    @Html.ActionLink("Close", "Delete", "Issue", new { id = issue.Id }, new { @class = "issuebutton" })
+                </div>
+            </div>
+            }
+        </div>
+    </div>
+</div>

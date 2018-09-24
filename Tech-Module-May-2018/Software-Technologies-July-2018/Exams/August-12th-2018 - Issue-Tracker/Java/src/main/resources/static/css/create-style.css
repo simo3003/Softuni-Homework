@@ -1,0 +1,95 @@
+body {
+    background-color: #FFE4C4;
+}
+
+textarea, input {
+    resize: none;
+    outline: none;
+    padding: 2%;
+}
+
+.wrapper {
+    width: 70%;
+    margin: 3% auto;
+}
+
+.wrapper .issue-create {
+    display: block;
+    width: 100%;
+}
+
+.wrapper .issue-create .create-header {
+    width: 100%;
+    text-align: center;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.wrapper .issue-create .create-title,
+.wrapper .issue-create .create-issueitem
+{
+    display: block;
+    width: 70%;
+    margin: 2% auto;
+}
+
+.wrapper .issue-create .create-title .create-title-label,
+.wrapper .issue-create .create-issueitem .create-issueitem-label
+{
+    font-size: 2em;
+}
+
+.wrapper .issue-create .create-title .create-title-content
+{
+    margin-top: 1%;
+    font-size: 1.5em;
+    width: 80%;
+}
+
+.wrapper .issue-create .create-issueitem .create-issueitem-content
+{
+    margin-top: 1%;
+    font-size: 1.5em;
+    width: 80%;
+    height: 50px;
+}
+
+.wrapper .create-button-holder {
+    display: flex;
+
+    width: 70%;
+    margin: auto;
+}
+
+.wrapper .create-button-holder>* {
+    display: inline-block;
+    background-color: #FFE4C4;
+}
+
+.wrapper .create-button-holder a[type="button"],
+.wrapper .create-button-holder button
+{
+    width: 30%;
+    margin: 35px;
+    padding: 1%;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: Arial;
+    border-radius: 5px;
+    border: 2px solid darkblue;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+.wrapper .create-button-holder a[type="button"]:hover,
+.wrapper .create-button-holder button:hover {
+    cursor: pointer;
+    background-color: #8B0000;
+    color: #F0F0F0;
+}
+
+.wrapper .create-button-holder a[type="button"]:hover,
+.wrapper .create-button-holder button:focus {
+    outline: none;
+}

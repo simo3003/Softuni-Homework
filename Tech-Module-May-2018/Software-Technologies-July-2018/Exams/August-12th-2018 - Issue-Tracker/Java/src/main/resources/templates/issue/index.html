@@ -1,0 +1,29 @@
+<div class="wrapper" xmlns:th="http://www.w3.org/1999/xhtml">
+    <div class="button-holder">
+        <a type="button" href="/create" class="button">Log A New Issue</a>
+    </div>
+    <div class="content">
+        <div class="header">
+            <div class="issue-label">Issue</div>
+            <div class="issue-label">Content</div>
+            <div class="issue-label">Priority</div>
+            <div class="actions-label">Actions</div>
+        </div>
+        <div class="main">
+            <th:block th:each="issue : ${issues}">
+                <div class="issue">
+                    <div class="issue-title" th:text="${issue.title}">
+                    </div>
+                    <div class="issue-item" th:text="${issue.content}">
+                    </div>
+                    <div class="issue-item" th:text="${issue.priority}">
+                    </div>
+                    <div class="project-actions">
+                        <a type="button" th:href="@{/edit/{id}(id=${issue.id})}" class="issuebutton">Edit</a>
+                        <a type="button" th:href="@{/delete/{id}(id=${issue.id})}" class="issuebutton">Close</a>
+                    </div>
+                </div>
+            </th:block>
+        </div>
+    </div>
+</div>

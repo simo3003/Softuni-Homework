@@ -1,0 +1,23 @@
+<div class="wrapper">
+    <form class="issue-create" method="post" th:action="@{/delete/{id}(id=${issue.id})}">
+        <div class="create-header">
+            Close Issue
+        </div>
+        <div class="create-title">
+            <div class="create-title-label">Title</div>
+            <input class="create-title-content" name="title" th:field="${issue.title}" disabled="disabled"/>
+        </div>
+        <div class="create-issueitem">
+            <div class="create-issueitem-label">Content</div>
+            <textarea rows="3" class="create-issueitem-content" name="content" th:field="${issue.content}" disabled="disabled"></textarea>
+        </div>
+        <div class="create-issueitem">
+            <div class="create-issueitem-label">Priority</div>
+            <input type="number" min="0" class="create-issueitem-content" name="priority" th:field="${issue.priority}" disabled="disabled"/>
+        </div>
+        <div class="create-button-holder">
+            <button type="submit" class="button">Close Issue</button>
+            <a type="button" href="/" class="button">Back</a>
+        </div>
+    </form>
+</div>

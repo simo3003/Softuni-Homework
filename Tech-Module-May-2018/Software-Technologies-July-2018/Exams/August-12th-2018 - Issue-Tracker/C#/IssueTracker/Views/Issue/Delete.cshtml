@@ -1,0 +1,31 @@
+﻿@model IssueTracker.Models.Issue
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<div class="wrapper">
+    @using (Html.BeginForm("Delete", "Issue", FormMethod.Post, new { @class = "issue-create" }))
+    {
+        @Html.AntiForgeryToken()
+        <div class="create-header">
+            Close Issue
+        </div>
+        <div class="create-title">
+            <div class="create-title-label">Title</div>
+            <input class="create-title-content" name="title" value="@Model.Title" disabled="disabled" />
+        </div>
+        <div class="create-issueitem">
+            <div class="create-issueitem-label">Content</div>
+            <textarea rows="3" class="create-issueitem-content" name="content" disabled="disabled">@Model.Content</textarea>
+        </div>
+        <div class="create-issueitem">
+            <div class="create-issueitem-label">Priority</div>
+            <input type="number" min="0"  rows="3" class="create-issueitem-content" name="priority" value="@Model.Priority" disabled="disabled"/>
+        </div>
+        <div class="create-button-holder">
+            <button type="submit" class="button">Close Issue</button>
+            <a type="button" href="/" class="button">Back</a>
+        </div>
+    }
+</div>

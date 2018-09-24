@@ -1,0 +1,25 @@
+<div class="wrapper">
+    <form class="issue-create" method="post">
+        <div class="create-header">
+            Close Issue
+        </div>
+        <div class="create-title">
+            <div class="create-title-label">Title</div>
+            <input class="create-title-content" name="issue[title]" disabled="disabled" readonly value="{{issue.title}}"/>
+        </div>
+        <div class="create-issueitem">
+            <div class="create-issueitem-label">Content</div>
+            <textarea rows="3" class="create-issueitem-content" name="issue[content]" disabled="disabled"
+                      readonly>{{issue.content}}</textarea>
+        </div>
+        <div class="create-issueitem">
+            <div class="create-issueitem-label">Priority</div>
+            <input type="number" min="0" rows="3" class="create-issueitem-content" name="issue[priority]" value="{{issue.priority}}" disabled="disabled"
+                      readonly/>
+        </div>
+        <div class="create-button-holder">
+            <button type="submit" class="button">Close Issue</button>
+            <a type="button" href="/" class="button">Back</a>
+        </div>
+    </form>
+</div>

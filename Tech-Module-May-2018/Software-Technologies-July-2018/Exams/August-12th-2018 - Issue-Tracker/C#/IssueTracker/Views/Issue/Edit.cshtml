@@ -1,0 +1,32 @@
+﻿@model IssueTracker.Models.Issue
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<div class="wrapper">
+    @using (Html.BeginForm("Edit", "Issue", FormMethod.Post, new { @class = "issue-create" }))
+    {
+        @Html.AntiForgeryToken()
+        <div class="create-header">
+            Edit Issue
+        </div>
+        <div class="create-title">
+            <div class="create-title-label">Title</div>
+            <input class="create-title-content" name="title" value="@Model.Title" />
+        </div>
+        <div class="create-issueitem">
+            <div class="create-issueitem-label">Content</div>
+            <textarea rows="3" class="create-issueitem-content" name="content">@Model.Content</textarea>
+        </div>
+        <div class="create-issueitem">
+            <div class="create-issueitem-label">Priority</div>
+            <input type="number" min="0"  rows="3" class="create-issueitem-content" value="@Model.Priority" name="priority"/>
+        </div>
+        <div class="create-button-holder">
+            <button type="submit" class="button">Edit Issue</button>
+            <a type="button" href="/" class="button">Back</a>
+        </div>
+    }
+</div>
+

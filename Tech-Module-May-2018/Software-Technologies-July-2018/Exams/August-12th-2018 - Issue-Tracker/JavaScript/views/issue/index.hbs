@@ -1,0 +1,32 @@
+<div class="wrapper">
+    <div class="button-holder">
+        <a type="button" href="/create" class="button">Log A New Issue</a>
+    </div>
+    <div class="content">
+        <div class="header">
+            <div class="issue-label">Issue</div>
+            <div class="issue-label">Content</div>
+            <div class="issue-label">Priority</div>
+            <div class="actions-label">Actions</div>
+        </div>
+        <div class="main">
+            {{#each issues}}
+            <div class="issue">
+                <div class="issue-title">
+                    {{title}}
+                </div>
+                <div class="issue-item">
+                    {{content}}
+                </div>
+                <div class="issue-item">
+                    {{priority}}
+                </div>
+                <div class="project-actions">
+                    <a type="button" href="/edit/{{id}}" class="issuebutton">Edit</a>
+                    <a type="button" href="/delete/{{id}}" class="issuebutton">Close</a>
+                </div>
+            </div>
+            {{/each}}
+        </div>
+    </div>
+</div>
