@@ -1,0 +1,10 @@
+G:\softuni-homework\Algorithms-July-2019\Recursive-Drawing\bin\Debug\netcoreapp2.1\Recursive-Drawing.deps.json
+G:\softuni-homework\Algorithms-July-2019\Recursive-Drawing\bin\Debug\netcoreapp2.1\Recursive-Drawing.runtimeconfig.json
+G:\softuni-homework\Algorithms-July-2019\Recursive-Drawing\bin\Debug\netcoreapp2.1\Recursive-Drawing.runtimeconfig.dev.json
+G:\softuni-homework\Algorithms-July-2019\Recursive-Drawing\bin\Debug\netcoreapp2.1\Recursive-Drawing.dll
+G:\softuni-homework\Algorithms-July-2019\Recursive-Drawing\bin\Debug\netcoreapp2.1\Recursive-Drawing.pdb
+G:\softuni-homework\Algorithms-July-2019\Recursive-Drawing\obj\Debug\netcoreapp2.1\Recursive-Drawing.csproj.CoreCompileInputs.cache
+G:\softuni-homework\Algorithms-July-2019\Recursive-Drawing\obj\Debug\netcoreapp2.1\Recursive-Drawing.AssemblyInfoInputs.cache
+G:\softuni-homework\Algorithms-July-2019\Recursive-Drawing\obj\Debug\netcoreapp2.1\Recursive-Drawing.AssemblyInfo.cs
+G:\softuni-homework\Algorithms-July-2019\Recursive-Drawing\obj\Debug\netcoreapp2.1\Recursive-Drawing.dll
+G:\softuni-homework\Algorithms-July-2019\Recursive-Drawing\obj\Debug\netcoreapp2.1\Recursive-Drawing.pdb

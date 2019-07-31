@@ -1,0 +1,11 @@
+G:\softuni-homework\Algorithms-July-2019\Generating-0-1-Vectors\bin\Debug\netcoreapp2.1\Generating-0-1-Vectors.deps.json
+G:\softuni-homework\Algorithms-July-2019\Generating-0-1-Vectors\bin\Debug\netcoreapp2.1\Generating-0-1-Vectors.runtimeconfig.json
+G:\softuni-homework\Algorithms-July-2019\Generating-0-1-Vectors\bin\Debug\netcoreapp2.1\Generating-0-1-Vectors.runtimeconfig.dev.json
+G:\softuni-homework\Algorithms-July-2019\Generating-0-1-Vectors\bin\Debug\netcoreapp2.1\Generating-0-1-Vectors.dll
+G:\softuni-homework\Algorithms-July-2019\Generating-0-1-Vectors\bin\Debug\netcoreapp2.1\Generating-0-1-Vectors.pdb
+G:\softuni-homework\Algorithms-July-2019\Generating-0-1-Vectors\obj\Debug\netcoreapp2.1\Generating-0-1-Vectors.csprojAssemblyReference.cache
+G:\softuni-homework\Algorithms-July-2019\Generating-0-1-Vectors\obj\Debug\netcoreapp2.1\Generating-0-1-Vectors.csproj.CoreCompileInputs.cache
+G:\softuni-homework\Algorithms-July-2019\Generating-0-1-Vectors\obj\Debug\netcoreapp2.1\Generating-0-1-Vectors.AssemblyInfoInputs.cache
+G:\softuni-homework\Algorithms-July-2019\Generating-0-1-Vectors\obj\Debug\netcoreapp2.1\Generating-0-1-Vectors.AssemblyInfo.cs
+G:\softuni-homework\Algorithms-July-2019\Generating-0-1-Vectors\obj\Debug\netcoreapp2.1\Generating-0-1-Vectors.dll
+G:\softuni-homework\Algorithms-July-2019\Generating-0-1-Vectors\obj\Debug\netcoreapp2.1\Generating-0-1-Vectors.pdb

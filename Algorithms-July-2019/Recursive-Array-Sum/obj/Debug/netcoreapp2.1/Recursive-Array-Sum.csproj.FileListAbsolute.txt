@@ -1,0 +1,10 @@
+G:\softuni-homework\Algorithms-July-2019\Recursive-Array-Sum\bin\Debug\netcoreapp2.1\Recursive-Array-Sum.deps.json
+G:\softuni-homework\Algorithms-July-2019\Recursive-Array-Sum\bin\Debug\netcoreapp2.1\Recursive-Array-Sum.runtimeconfig.json
+G:\softuni-homework\Algorithms-July-2019\Recursive-Array-Sum\bin\Debug\netcoreapp2.1\Recursive-Array-Sum.runtimeconfig.dev.json
+G:\softuni-homework\Algorithms-July-2019\Recursive-Array-Sum\bin\Debug\netcoreapp2.1\Recursive-Array-Sum.dll
+G:\softuni-homework\Algorithms-July-2019\Recursive-Array-Sum\bin\Debug\netcoreapp2.1\Recursive-Array-Sum.pdb
+G:\softuni-homework\Algorithms-July-2019\Recursive-Array-Sum\obj\Debug\netcoreapp2.1\Recursive-Array-Sum.csproj.CoreCompileInputs.cache
+G:\softuni-homework\Algorithms-July-2019\Recursive-Array-Sum\obj\Debug\netcoreapp2.1\Recursive-Array-Sum.AssemblyInfoInputs.cache
+G:\softuni-homework\Algorithms-July-2019\Recursive-Array-Sum\obj\Debug\netcoreapp2.1\Recursive-Array-Sum.AssemblyInfo.cs
+G:\softuni-homework\Algorithms-July-2019\Recursive-Array-Sum\obj\Debug\netcoreapp2.1\Recursive-Array-Sum.dll
+G:\softuni-homework\Algorithms-July-2019\Recursive-Array-Sum\obj\Debug\netcoreapp2.1\Recursive-Array-Sum.pdb
