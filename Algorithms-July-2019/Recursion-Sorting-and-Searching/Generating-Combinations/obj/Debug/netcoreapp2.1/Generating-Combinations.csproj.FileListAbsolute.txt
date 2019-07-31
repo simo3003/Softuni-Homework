@@ -1,0 +1,10 @@
+G:\softuni-homework\Algorithms-July-2019\Recursion-Sorting-and-Searching\Generating-Combinations\bin\Debug\netcoreapp2.1\Generating-Combinations.deps.json
+G:\softuni-homework\Algorithms-July-2019\Recursion-Sorting-and-Searching\Generating-Combinations\bin\Debug\netcoreapp2.1\Generating-Combinations.runtimeconfig.json
+G:\softuni-homework\Algorithms-July-2019\Recursion-Sorting-and-Searching\Generating-Combinations\bin\Debug\netcoreapp2.1\Generating-Combinations.runtimeconfig.dev.json
+G:\softuni-homework\Algorithms-July-2019\Recursion-Sorting-and-Searching\Generating-Combinations\bin\Debug\netcoreapp2.1\Generating-Combinations.dll
+G:\softuni-homework\Algorithms-July-2019\Recursion-Sorting-and-Searching\Generating-Combinations\bin\Debug\netcoreapp2.1\Generating-Combinations.pdb
+G:\softuni-homework\Algorithms-July-2019\Recursion-Sorting-and-Searching\Generating-Combinations\obj\Debug\netcoreapp2.1\Generating-Combinations.csproj.CoreCompileInputs.cache
+G:\softuni-homework\Algorithms-July-2019\Recursion-Sorting-and-Searching\Generating-Combinations\obj\Debug\netcoreapp2.1\Generating-Combinations.AssemblyInfoInputs.cache
+G:\softuni-homework\Algorithms-July-2019\Recursion-Sorting-and-Searching\Generating-Combinations\obj\Debug\netcoreapp2.1\Generating-Combinations.AssemblyInfo.cs
+G:\softuni-homework\Algorithms-July-2019\Recursion-Sorting-and-Searching\Generating-Combinations\obj\Debug\netcoreapp2.1\Generating-Combinations.dll
+G:\softuni-homework\Algorithms-July-2019\Recursion-Sorting-and-Searching\Generating-Combinations\obj\Debug\netcoreapp2.1\Generating-Combinations.pdb
